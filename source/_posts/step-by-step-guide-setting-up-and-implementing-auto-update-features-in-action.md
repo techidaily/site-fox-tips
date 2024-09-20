@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up & Implementing Auto-Update Features in Action!"
-date: 2024-09-19 17:57:52
-updated: 2024-09-20 12:33:28
+date: 2024-09-14T20:10:50.159Z
+updated: 2024-09-19T18:21:34.830Z
 tags:
   - product
 categories:
@@ -58,6 +58,13 @@ Action Tutorials
 
 ![Mirillis Action! - General settings - Check for updates option](https://mirillis.com/res/old/gfx/tutorials/installation/mirillis_action_autoupdate_settings.jpg "Check for updates option enabled") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Information about new update
 
  When new version is downloaded and ready to be installed, Action! will inform you showing a special update options on status panel at the right bottom corner of application window. Click "Update" to install new version.
@@ -67,6 +74,13 @@ Action Tutorials
 ##  Confirm update installation
 
  In next step you will be asked to confirm that you want to install product update. Click **"OK"** to start update installation. Please note that Action! application will be closed automatically before update installation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Update installation
 
@@ -79,8 +93,6 @@ Action Tutorials
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

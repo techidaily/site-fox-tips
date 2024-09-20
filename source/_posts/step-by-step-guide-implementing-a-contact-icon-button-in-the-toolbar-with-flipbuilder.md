@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Implementing a Contact Icon Button in the Toolbar with FlipBuilder"
-date: 2024-09-18 22:44:56
-updated: 2024-09-20 11:39:20
+date: 2024-09-19T01:07:56.531Z
+updated: 2024-09-20T00:27:39.275Z
 tags:
   - product
 categories:
@@ -126,6 +126,20 @@ With the page-flipping ebook you have created, your book readers will be able to
 
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/b123.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Refund Policy
 
 We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back Guarantee！
@@ -137,8 +151,6 @@ We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
