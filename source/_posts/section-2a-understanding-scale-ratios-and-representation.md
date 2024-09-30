@@ -1,7 +1,7 @@
 ---
 title: "Section 2A: Understanding Scale Ratios and Representation"
-date: 2024-09-18T16:08:59.729Z
-updated: 2024-09-25T20:37:17.021Z
+date: 2024-09-23T08:34:54.179Z
+updated: 2024-09-29T21:10:52.127Z
 tags:
   - product
 categories:
@@ -20,31 +20,19 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -66,17 +54,17 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-role-of-workspace-dynamics-in-employee-output/"><u>[Updated] 2024 Approved The Role of Workspace Dynamics in Employee Output</u></a></li>
-<li><a href="https://program-issues.techidaily.com/audio-gone-missing-in-action-solve-lost-ark-sound-glitch-easily/"><u>Audio Gone Missing in Action? Solve Lost Ark Sound Glitch Easily!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-top-value-with-the-unbeatable-99-amazon-fire-tv-on-prime-day-exclusive-details-and-current-deals-techadvice/"><u>Get Top Value with the Unbeatable $99 Amazon Fire TV on Prime Day: Exclusive Details & Current Deals | TechAdvice</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-create-and-embed-interactive-flipbooks-with-flipbuilder-on-your-site/"><u>How to Create & Embed Interactive Flipbooks with FlipBuilder on Your Site</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-enable-flash-content-in-ebooks-with-flipbuilder-a-guide/"><u>How to Enable Flash Content in eBooks with FlipBuilder - A Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-prearrange-photos-prior-to-creating-a-flipbook-using-flipbuildercom/"><u>How to Prearrange Photos Prior to Creating a FlipBook Using FlipBuilder.com</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-prepare-monochrome-pictures-prior-to-publishing-with-flippingbook-a-step-by-step-guide/"><u>How to Prepare Monochrome Pictures Prior to Publishing with FlippingBook - A Step-by-Step Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-spark-10c-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Spark 10C</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Honor Magic 6 Lite? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Honor 80 Pro Straight Screen Edition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/level-up-your-auditory-game-in-valorant-with-this-must-try-free-tool/"><u>Level Up Your Auditory Game in Valorant with This Must-Try, Free Tool</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/pro-screencast-strategies-secrets-for-video-creators-for-2024/"><u>Pro Screencast Strategies Secrets for Video Creators for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leading-windows-call-platforms-7-1-ranked/"><u>[New] 2024 Approved Leading Windows Call Platforms #7-#1 Ranked</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-large-scale-tiktok-content-acquisition/"><u>[Updated] The Ultimate Guide to Large-Scale TikTok Content Acquisition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unleashing-screen-content-with-zdsofts-magic-for-2024/"><u>[Updated] Unleashing Screen Content with ZDSoft's Magic for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/7-significant-advantages-to-disconnecting-online/"><u>7 Significant Advantages to Disconnecting Online</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/excellent-substitutes-for-dentex-effortless-youtube-downloading-on-windows-and-macos-systems/"><u>Excellent Substitutes for Dentex: Effortless YouTube Downloading on Windows & MacOS Systems</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/guide-ultime-telecharger-en-mp4-des-videos-de-jeuxvideo/"><u>Guide Ultime : Télécharger en MP4 Des Vidéos De Jeuxvidéo</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/guide-steps-to-successfully-download-content-from-motherless-platforms/"><u>Guide: Steps to Successfully Download Content From Motherless Platforms</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-securely-download-films-from-imdb-a-step-by-step-guide/"><u>How to Securely Download Films From IMDb - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/i-top-8-migliori-programmi-di-riparazione-fotografica-aperti-source-con-algoritmo-ia/"><u>I Top 8 Migliori Programmi Di Riparazione Fotografica Aperti Source Con Algoritmo IA</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-9-french-video-translators-online-and-download-options-for-2024/"><u>New Best 9 French Video Translators Online and Download Options for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/overview-of-google-ar-sticker-and-its-alternative-for-2024/"><u>Overview of Google AR Sticker and Its Alternative for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nalizing-who-can-see-your-youtube-content-for-2024/"><u>Personalizing Who Can See Your YouTube Content for 2024</u></a></li>
 </ul></div>
 

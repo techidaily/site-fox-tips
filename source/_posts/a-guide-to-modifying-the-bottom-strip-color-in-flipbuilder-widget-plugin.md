@@ -1,7 +1,7 @@
 ---
 title: A Guide To Modifying The Bottom Strip Color In FlipBuilder Widget Plugin
-date: 2024-09-23T18:01:28.336Z
-updated: 2024-09-25T21:05:02.571Z
+date: 2024-09-23T20:51:06.021Z
+updated: 2024-09-30T09:29:19.278Z
 tags:
   - product
 categories:
@@ -46,27 +46,31 @@ Follow below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unveiling-strategies-for-building-impressive-youtube-teaser-vids/"><u>[Updated] In 2024, Unveiling Strategies for Building Impressive YouTube Teaser Vids</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1-comparing-music-streaming-giants-key-distinctions-between-deezer-and-pandora/"><u>1. Comparing Music Streaming Giants: Key Distinctions Between Deezer & Pandora</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1-free-music-downloads-convert-any-youtube-audio-clip-into-high-quality-mp3-or-flac-files-with-mp3-jam/"><u>1. Free Music Downloads: Convert Any YouTube Audio Clip Into High-Quality MP3 or FLAC Files with MP3 Jam</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1-how-to-convert-your-favorite-reddit-content-into-mp4-or-avi-files-two-easy-techniques/"><u>1. How to Convert Your Favorite Reddit Content Into MP4 or AVI Files - Two Easy Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-achieving-stunning-iphone-hdr-results/"><u>2024 Approved Achieving Stunning iPhone HDR Results</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/easy-guide-how-to-stream-free-movies-with-crackle-on-pc-and-mac/"><u>Easy Guide: How to Stream Free Movies with Crackle on PC & Mac</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-poco-m6-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Poco M6 5G?</u></a></li>
-<li><a href="https://common-error.techidaily.com/side-by-side-configuration-is-incorrect-error-in-windows-10-fixed/"><u>Side by Side Configuration Is Incorrect Error in Windows 10 [FIXED]</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-converting-agrositio-streams-into-mp4-files-on-macwindows/"><u>Step-by-Step Guide: Converting Agrositio Streams Into MP4 Files on Mac/Windows</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-downloading-race-broadcasts-from-pc-and-mac-systems/"><u>Step-by-Step Guide: Downloading Race Broadcasts From PC & Mac Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-lenovo-thinkphone-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Lenovo ThinkPhone Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-best-home-theater-pcs-of-2024/"><u>The Best Home Theater PCs of 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-computer-review-gear-and-software-insights/"><u>Tom's Computer Review: Gear & Software Insights</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-snagit-substitute-for-macos-and-windows-users-discover-allavsofts-powerful-solution/"><u>Top Snagit Substitute for macOS & Windows Users – Discover Allavsoft's Powerful Solution!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723003664156-valorant-troubleshooting-fix-the-graphics-driver-issue-fast/"><u>Valorant Troubleshooting: Fix the Graphics Driver Issue Fast</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unlimited-screen-capture-tool/"><u>[New] Unlimited Screen Capture Tool</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-digital-documentation-mobile-and-desktop-meeting-recordings/"><u>[Updated] In 2024, Digital Documentation Mobile & Desktop Meeting Recordings</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1-free-open-source-argon-css-framework-based-on-bootstrap-4-by-creative-tim/"><u>1. Free, Open-Source Argon CSS Framework Based on Bootstrap 4 by Creative Tim</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-illuminating-iphones-in-the-dark-photography-tips/"><u>2024 Approved Illuminating iPhones in the Dark Photography Tips</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/advanced-creative-tim-and-updivision-pro-dashboard-design-with-soft-ui-for-laravel-applications/"><u>Advanced Creative Tim & UPDIVISION Pro Dashboard Design with Soft UI for Laravel Applications</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/advanced-pro-user-interface-dashboard-using-laravel-livewire-a-joint-venture-by-creative-tim-and-updivision/"><u>Advanced Pro User Interface Dashboard Using Laravel Livewire: A Joint Venture by Creative Tim & UPDIVISION</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/comprehensive-vue-based-material-dashboard-for-laravel-developers-with-json-api-integration-by-creative-tim-professional-edition/"><u>Comprehensive Vue-Based Material Dashboard for Laravel Developers with JSON API Integration by Creative Tim - Professional Edition</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/creative-tims-65-page-collection-of-free-design-assets-and-templates-using-the-argon-design-system/"><u>Creative Tim's 65-Page Collection of Free Design Assets and Templates Using the Argon Design System</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-your-lock-screen-with-these-7-fixes-for-ios-16-depth-effect-problems/"><u>Enhance Your Lock Screen with These 7 Fixes for iOs 16 Depth Effect Problems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-9-quick-fixes-for-safaris-disrupted-streaming/"><u>In 2024, 9 Quick Fixes for Safari's Disrupted Streaming</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/initiating-ps5-a-different-approach-in-6-steps/"><u>Initiating PS5: A Different Approach in 6 Steps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-review-introducing-dreame-bot-l10-pro-your-ultimate-mopping-and-vacuuming-companion-powered-by-lidar/"><u>Top Rated Review: Introducing Dreame Bot L10 Pro, Your Ultimate Mopping and Vacuuming Companion Powered by LiDAR</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
