@@ -1,7 +1,7 @@
 ---
 title: "Simplifying File Navigation: Setting Up Quick Links with Installation Wizard"
-date: 2024-09-24T02:47:24.891Z
-updated: 2024-09-30T07:13:26.249Z
+date: 2024-10-04T20:22:06.361Z
+updated: 2024-10-05T18:07:02.866Z
 tags:
   - user-guide
 categories:
@@ -89,22 +89,15 @@ Table of Contents
 
  Advanced Installer supports three types of targets for its shortcuts: URLs, installed files and external files which are already present on the target machine (this includes Uninstall shortcuts). 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating a new shortcut using a wizard
 
 ![New Shortcut Wizard](https://cdn.advancedinstaller.com/img/toolbar/wizard.png "New Shortcut Wizard")Use the \[New Shortcut Wizard \] toolbar button, to quickly and easily create a new shortcut, following step-by-step directions.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a shortcut to an installed file
@@ -116,16 +109,17 @@ The new shortcut will be created by default in the “Application Shortcut Folde
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)In case of MSIX builds, shortcuts that are configured to be installed on Desktop will be created when the user launches the app for the first time.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a shortcut to an external file
@@ -133,6 +127,13 @@ The new shortcut will be created by default in the “Application Shortcut Folde
 Use the “New Shortcut To > External File...” list context menu item. A special type of external file shortcuts (Uninstall Shortcuts) can be created from the same context sub menu as well.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If this type of shortcut is being used, in the [Shortcut Properties View](https://tools.techidaily.com/advancedinstaller/products/), the _Shortcut Target_ field must begin with a property. Otherwise, the shortcut will **not** be created. The property can point to a location or a file. For example:\[WindowsVolume\]\\My\_App.exe
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Creating a shortcut to a URL
 
@@ -146,25 +147,18 @@ Use the \[New Shortcut... \] toolbar button, the “New Shortcut” list/tree co
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the \[Properties... \] toolbar button, the “Properties...” list context menu item, press the Enter key while a shortcut is selected in the “Files” panel or double click on a shortcut.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Shortcuts can be renamed, moved or removed just like regular [Files](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Duplicating shortcuts
 
 Drag and drop the shortcuts to the desired location, while theShift key is pressed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Condition the shortcut's installation
 
@@ -177,10 +171,10 @@ Another way to condition the installation of a shortcut is to use the "Shortcuts
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)In order to condition the installation of these shortcuts, they must be created in the appropriate folders (on the Desktop, in the "Startup" folder etc.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
@@ -234,16 +228,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-direct-to-device-converting-youtube-tracks-for-idevices/"><u>[New] Direct to Device Converting YouTube Tracks for iDevices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-top-chromebook-visual-recorder/"><u>[New] In 2024, Top Chromebook Visual Recorder</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-inside-outlook-a-study-of-vivavideo-functionality/"><u>[Updated] 2024 Approved Inside Outlook A Study of VivaVideo Functionality</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-best-facebook-practices-videographers-dilemrante/"><u>2024 Approved Best Facebook Practices Videographer's Dilemrante</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/accessing-your-flipbuilder-ebook-content-on-iphones-ipads-or-android-phones-a-step-by-step-guide/"><u>Accessing Your FlipBuilder eBook Content on iPhones, iPads, or Android Phones: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/adding-dates-and-times-in-rtf-and-txt-files-during-flipbook-conversion-flipbuilder-guide/"><u>Adding Dates & Times in RTF and TXT Files During FlipBook Conversion - FlipBuilder Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/compatibility-of-flipbuilder-created-ebooks-with-apples-ipad-a-comprehensive-guide/"><u>Compatibility of FlipBuilder Created eBooks with Apple's iPad: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/comprehensive-guide-mastering-the-art-of-flip-builders-chm-knowledge-platform/"><u>Comprehensive Guide: Mastering the Art of Flip Builder's CHM Knowledge Platform</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-8-plus-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 8 Plus using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/ucc-article-grocery-sales-but-not-services-or-real-estate/"><u>UCC Article Grocery Sales, but Not Services or Real Estate.</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/upgrade-your-experience-10-high-performance-drives-for-2024/"><u>Upgrade Your Experience #10 High-Performance Drives for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unlocking-video-potential-the-creme-de-la-creme-browser-recorders/"><u>[Updated] 2024 Approved Unlocking Video Potential The Crème De La Crème Browser Recorders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-learn-the-low-cost-way-of-designing-winning-youtube-ad-campaigns/"><u>[Updated] In 2024, Learn the Low-Cost Way of Designing Winning YouTube Ad Campaigns</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-level-editing-the-essence-of-smooth-transitions-in-inshot/"><u>2024 Approved Master Level Editing The Essence of Smooth Transitions in Inshot</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-x90s-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/advanced-strategies-for-mastering-ilibrary-components/"><u>Advanced Strategies for Mastering iLibrary Components</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/apowersofts-latest-update-introducing-video-download-capture-version-60-significant-enhancements-included/"><u>Apowersoft's Latest Update: Introducing Video Download Capture Version 6.0 - Significant Enhancements Included</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/centralized-resources-portfolio-pages/"><u>Centralized Resources Portfolio Pages</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-error-0xca00a009-from-windows-update-logs/"><u>Clearing Error 0xCA00A009 From Windows Update Logs</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/efficient-launch-conditions-module-streamline-your-systems-deployment/"><u>Efficient Launch Conditions Module: Streamline Your System's Deployment</u></a></li>
+<li><a href="https://fox-links.techidaily.com/effortless-coordination-streamlining-zoom-and-gmail-collaboration-techniques/"><u>Effortless Coordination Streamlining Zoom & Gmail Collaboration Techniques</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/effortless-guide-transforming-mp3-files-into-high-quality-m4a-audio/"><u>Effortless Guide: Transforming MP3 Files Into High-Quality M4A Audio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-these-14-fascinating-text-based-animations-for-2024/"><u>Explore These 14 Fascinating Text-Based Animations for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-concept-to-completion-using-magix-video-pro-x/"><u>From Concept to Completion Using Magix Video Pro X</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/powerdirector-app-2024-in-depth-review-and-step-by-step-guide/"><u>PowerDirector App 2024 In-Depth Review & Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/simplify-your-sound-editing-quick-and-seamless-mp4-to-m4a-format-conversion/"><u>Simplify Your Sound Editing: Quick and Seamless MP4 to M4A Format Conversion</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-to-restoring-your-chrome-firefox-and-edge-browsers-to-factory-settings/"><u>Step-by-Step Guide to Restoring Your Chrome, Firefox & Edge Browsers to Factory Settings</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/the-best-contenders-against-easeus-data-recovery-detailed-reviews-and-picks/"><u>The Best Contenders Against EaseUS Data Recovery: Detailed Reviews & Picks</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-kid-friendly-halloween-video-template-ideas/"><u>Top Kid-Friendly Halloween Video Template Ideas</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-color-secrets-master-the-craft-with-our-tutorial-series/"><u>Unveiling Color Secrets - Master the Craft with Our Tutorial Series</u></a></li>
 </ul></div>
 

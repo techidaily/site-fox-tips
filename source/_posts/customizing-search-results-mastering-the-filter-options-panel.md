@@ -1,7 +1,7 @@
 ---
 title: "Customizing Search Results: Mastering the Filter Options Panel"
-date: 2024-09-22T20:35:16.125Z
-updated: 2024-09-29T16:46:38.033Z
+date: 2024-10-04T17:09:08.504Z
+updated: 2024-10-05T18:59:18.906Z
 tags:
   - user-guide
 categories:
@@ -103,10 +103,10 @@ In this dialog, you can edit the filters that allow you to select which files wi
 Specify what files (or types of files) should be added to the project.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name Patterns
@@ -114,10 +114,10 @@ Specify what files (or types of files) should be added to the project.
 You can specify what files will be added to the package. Use the \[New \], \[Edit \] and \[Remove \] buttons to do that. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Attributes
@@ -126,28 +126,28 @@ You can specify the attributes of the files that will be added to the package.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The include filters are applied only to files. They are not taken into consideration for folders.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Exclude Filters
 
 Specify what files (or types of files) should be left out of the project. The exclude filters can be configured so they apply only to files, only to folders or both. 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Folders can be excluded only by using an exclude filter.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Exclude sub-folders
 
 Enable the “Exclude Sub-folders” check-box if you don't want to include the synchronized folder's sub-folders in your project.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -188,24 +188,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-best-asmr-microphones-with-amazing-performance-and-affordable-price/"><u>[Updated] Best ASMR Microphones with Amazing Performance and Affordable Price</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1-how-to-convert-your-favorite-reddit-content-into-mp4-or-avi-files-two-easy-techniques/"><u>1. How to Convert Your Favorite Reddit Content Into MP4 or AVI Files - Two Easy Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-smart-scale-for-visual-content/"><u>2024 Approved Smart Scale for Visual Content</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/capturing-the-heart-of-sims-4-games-for-2024/"><u>Capturing the Heart of Sims 4 Games for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/easy-guide-how-to-stream-free-movies-with-crackle-on-pc-and-mac/"><u>Easy Guide: How to Stream Free Movies with Crackle on PC & Mac</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-aerial-sovereign-unpacking-the-gopro-karma-system/"><u>In 2024, Aerial Sovereign Unpacking the GoPro Karma System</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-honor-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Honor</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mjpeg-wmv-gratiswmv-to-mjpeg/"><u>MJPEG 형식으로 WMV 파일을 바이트 스트림로 전환하기 - GratisオンラインWMV to MJPEGコンバーター</u></a></li>
-<li><a href="https://facebook.techidaily.com/pause-or-play-trumps-platform-prospects/"><u>Pause or Play? Trump's Platform Prospects</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-converting-agrositio-streams-into-mp4-files-on-macwindows/"><u>Step-by-Step Guide: Converting Agrositio Streams Into MP4 Files on Mac/Windows</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-downloading-race-broadcasts-from-pc-and-mac-systems/"><u>Step-by-Step Guide: Downloading Race Broadcasts From PC & Mac Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/steps-to-form-a-fruitful-product-sponsor-linkup-on-youtube/"><u>Steps to Form a Fruitful Product-Sponsor Linkup on Youtube</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/tailoring-photo-flipping-parameters-size-and-palette-controls-with-flipbuilder/"><u>Tailoring Photo Flipping Parameters: Size and Palette Controls with FlipBuilder</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/transform-your-chm-files-into-engaging-ebooks-with-flipbuilder-easy-conversion-guide/"><u>Transform Your CHM Files Into Engaging eBooks with FlipBuilder - Easy Conversion Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/transform-your-pdf-documents-into-flip-books-online-convert-files-seamlessly-and-personalize-them-with-a-range-of-design-options-flipbuildercom/"><u>Transform Your PDF Documents Into Flip Books Online: Convert Files Seamlessly and Personalize Them with a Range of Design Options [FlipBuilder.com]</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-the-power-of-high-dynamic-range-in-photography-for-2024/"><u>Unlocking the Power of High Dynamic Range in Photography for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-imovie-for-windows-10-try-these-free-and-paid-alternatives-instead-for-2024/"><u>Updated IMovie for Windows 10? Try These Free and Paid Alternatives Instead for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/utilizing-flipbuilder-via-cli-can-it-meet-your-needs-discover-possibilities-at-flipbuildercom/"><u>Utilizing FlipBuilder via CLI: Can It Meet Your Needs? Discover Possibilities at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/utilizing-flippdf-for-incorporating-multimedia-into-your-documents-how-feasible-is-it/"><u>Utilizing FlipPDF for Incorporating Multimedia Into Your Documents – How Feasible Is It?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elevate-your-content-incorporating-exact-timestamps-in-videos/"><u>[Updated] Elevate Your Content Incorporating Exact Timestamps in Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-guide-to-mp3-skype-recorder-record-skype-call-for-free/"><u>[Updated] The Ultimate Guide to MP3 Skype Recorder| Record Skype Call For Free</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-optimal-window-calls-8-top-rated-titles-4-1/"><u>2024 Approved Optimal Window Calls 8 Top Rated Titles #4-#1</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/and-iphone-8-users/"><u>And iPhone 8 Users</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/beginners-guide-creating-stunning-time-lapse-videos-on-any-device/"><u>Beginner's Guide: Creating Stunning Time-Lapse Videos on Any Device</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/best-paint-to-screen-applications-compatible-with-both-pc-and-mac/"><u>Best Paint-to-Screen Applications Compatible with Both PC & Mac</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/building-personalized-actions-with-net-an-intuitive-guide/"><u>Building Personalized Actions with .NET - An Intuitive Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/discover-the-art-of-effective-web-browsing-navigating-search-pages-with-ease/"><u>Discover the Art of Effective Web Browsing: Navigating Search Pages with Ease</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-duplicate-your-instagram-posts-for-2024/"><u>How to Duplicate Your Instagram Posts for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-moto-g13-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola Moto G13 FRP Bypass</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-and-updated-broadband-device-drivers-enhanced-connectivity-ready-for-download/"><u>New & Updated Broadband Device Drivers - Enhanced Connectivity Ready for Download</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-5-free-android-apps-for-effortless-mobile-video-transcoding/"><u>Top 5 Free Android Apps for Effortless Mobile Video Transcoding</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-whatsapps-compatibility-with-various-video-formats/"><u>Understanding WhatsApp's Compatibility with Various Video Formats</u></a></li>
 </ul></div>
 

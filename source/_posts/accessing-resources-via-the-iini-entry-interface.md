@@ -1,7 +1,7 @@
 ---
 title: Accessing Resources via the Iini Entry Interface
-date: 2024-09-29T03:32:20.913Z
-updated: 2024-09-30T07:05:23.420Z
+date: 2024-09-29T19:16:54.894Z
+updated: 2024-10-05T20:27:23.399Z
 tags:
   - user-guide
 categories:
@@ -114,10 +114,10 @@ Table of Contents
 This interface allows you to visualize or edit properties of an INI entry.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -125,10 +125,10 @@ This interface allows you to visualize or edit properties of an INI entry.
 IIniEntry : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -146,17 +146,17 @@ IIniEntry : IDispatch
 ![Iinientry](https://cdn.advancedinstaller.com/img/powershell-automation/iinientry.png "Iinientry")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -202,14 +202,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/cheapest-4k-dslrmirrorless-cameras-and-camcorders-for-2024/"><u>Cheapest 4K DSLR/Mirrorless Cameras and Camcorders for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diablo-2-revival-update-eliminating-game-crashes-for-smooth-playing/"><u>Diablo 2 Revival Update: Eliminating Game Crashes for Smooth Playing</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/discover-the-ultimate-combination-of-react-frameworks-with-nextjs-and-material-ui-bundle-by-creative-tim-absolutely-free/"><u>Discover the Ultimate Combination of React Frameworks with NextJS & Material UI Bundle by Creative Tim - Absolutely Free!</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effortlessly-navigate-your-projects-using-the-complimentary-argon-tailwind-dashboard-by-creative-tim/"><u>Effortlessly Navigate Your Projects Using the Complimentary Argon Tailwind Dashboard by Creative Tim</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/get-started-for-free-with-notions-premium-tools-tailwind-css-plus-nextjs-ui-kit-and-admin-solutions/"><u>Get Started for Free with Notion's Premium Tools: Tailwind CSS + NextJS UI Kit & Admin Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-most-recent-tp-link-network-card-driver-for-optimal-performance-in-windows/"><u>Get the Most Recent TP-Link Network Card Driver for Optimal Performance in WINDOWS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-updated-logitech-hd-webcam-c270-drivers-for-a-seamless-experience-on-windows-1011/"><u>Get the Updated Logitech HD Webcam C270 Drivers for a Seamless Experience on Windows 10/11</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/modern-interactive-ui-react-dashboard-zero-cost-solution-utilizing-material-ui-library/"><u>Modern Interactive UI React Dashboard: Zero Cost Solution Utilizing Material-UI Library</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721865302693-navigating-through-words-evaluating-chatgpt-against-google-translate-for-superior-accuracy/"><u>Navigating Through Words: Evaluating ChatGPT Against Google Translate for Superior Accuracy</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-essential-playbook-youtubes-seo-keywords-guide/"><u>[New] 2024 Approved The Essential Playbook YouTube's SEO Keywords Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-ultimate-laptops-your-go-to-machine-for-expert-video-editing/"><u>[Updated] 2024 Approved Ultimate Laptops Your Go-To Machine for Expert Video Editing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-solutions-to-clear-up-black-space-on-youtube-watching/"><u>[Updated] Solutions to Clear Up Black Space on YouTube Watching</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2023-online-facebook-video-to-mp3-converters/"><u>2023 Online Facebook Video to MP3 Converters</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/apowersofts-latest-update-introducing-video-download-capture-version-60-significant-enhancements-included/"><u>Apowersoft's Latest Update: Introducing Video Download Capture Version 6.0 - Significant Enhancements Included</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-for-microsoft-antimalware-engine-overusing-resources-on-your-windows-11-pc/"><u>Comprehensive Solution for Microsoft Antimalware Engine Overusing Resources on Your Windows 11 PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/converting-wide-screen-footage-a-guide-to-editing-for-tiktoks-vertical-display/"><u>Converting Wide-Screen Footage: A Guide to Editing for TikTok's Vertical Display</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-itel-p55-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Itel P55 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/getting-the-elder-scrolls-online-running-after-previous-hitches/"><u>Getting The Elder Scrolls Online Running After Previous Hitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/issue-with-iphone-wi-fi-try-these-five-methods-for-a-stable-connection/"><u>Issue with iPhone Wi-Fi? Try These Five Methods for a Stable Connection</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/localized-conversation-interface-optimizing-user-experience/"><u>Localized Conversation Interface: Optimizing User Experience</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/pre-launch-preparation-steps-ensuring-a-successful-product-release/"><u>Pre-Launch Preparation Steps: Ensuring a Successful Product Release</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/simplify-your-sound-editing-quick-and-seamless-mp4-to-m4a-format-conversion/"><u>Simplify Your Sound Editing: Quick and Seamless MP4 to M4A Format Conversion</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-to-restoring-your-chrome-firefox-and-edge-browsers-to-factory-settings/"><u>Step-by-Step Guide to Restoring Your Chrome, Firefox & Edge Browsers to Factory Settings</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/streamline-the-conversion-process-top-tips-to-transform-4k-into-full-hd-with-ease/"><u>Streamline the Conversion Process: Top Tips to Transform 4K Into Full HD with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-stronger-case-for-windows-11-over-macos/"><u>The Stronger Case for Windows 11 over MacOS</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-kid-friendly-halloween-video-template-ideas/"><u>Top Kid-Friendly Halloween Video Template Ideas</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/understanding-the-configuration-options-in-xml-file-preferences/"><u>Understanding the Configuration Options in XML File Preferences</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/unlock-the-potential-of-your-business-with-advanced-import-registry-file-techniques/"><u>Unlock the Potential of Your Business with Advanced Import Registry File Techniques</u></a></li>
 </ul></div>
 

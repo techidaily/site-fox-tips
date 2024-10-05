@@ -1,7 +1,7 @@
 ---
 title: Multilingual Conversion Gateway Pages
-date: 2024-09-29T01:13:56.985Z
-updated: 2024-09-29T23:00:33.899Z
+date: 2024-09-30T20:12:00.558Z
+updated: 2024-10-05T21:30:06.966Z
 tags:
   - user-guide
 categories:
@@ -88,39 +88,39 @@ Change or update default strings translation, save and manage dictionaries in th
 ![Test Installation UI](https://cdn.advancedinstaller.com/img/toolbar/test-ui.png "Test Installation UI")Use the \[Test Installation UI \] toolbar button in the "Translations" page. This will create a temporary package in the Temp folder and run it without performing an actual installation. Since the package is not installed on your machine, only the installation UI sequence can be tested.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)This option requires at least an [Enterprise](https://tools.techidaily.com/advancedinstaller/products/) or Architect project type.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Testing the maintenance User Interface
 
 ![Test Maintenance UI](https://cdn.advancedinstaller.com/img/toolbar/test-maintenance-ui.png "Test Maintenance UI")Use the \[Test Maintenance UI \] toolbar button in the "Translations" page. This will create a temporary package in the Temp folder and run it without performing an actual installation. Your product is temporarily registered with Windows Installer so the maintenance UI sequence can be tested..
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)This option requires at least an Enterprise or Architect project type.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -167,17 +167,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-optimize-periscope-broadcasts-for-maximum-velocity/"><u>[New] 2024 Approved Optimize Periscope Broadcasts for Maximum Velocity</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-strategies-for-broadcasting-social-media-happenings/"><u>[Updated] 2024 Approved Strategies for Broadcasting Social Media Happenings</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-address-mobile-devices-stalled-fb-videos-for-2024/"><u>[Updated] Address Mobile Devices Stalled FB Videos for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-optimal-budget-friendly-digital-video-reader/"><u>2024 Approved Optimal Budget-Friendly Digital Video Reader</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-create-and-embed-interactive-flipbooks-with-flipbuilder-on-your-site/"><u>How to Create & Embed Interactive Flipbooks with FlipBuilder on Your Site</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-enable-flash-content-in-ebooks-with-flipbuilder-a-guide/"><u>How to Enable Flash Content in eBooks with FlipBuilder - A Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-prearrange-photos-prior-to-creating-a-flipbook-using-flipbuildercom/"><u>How to Prearrange Photos Prior to Creating a FlipBook Using FlipBuilder.com</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-prepare-monochrome-pictures-prior-to-publishing-with-flippingbook-a-step-by-step-guide/"><u>How to Prepare Monochrome Pictures Prior to Publishing with FlippingBook - A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-secure-your-official-flipbuilder-licensing-code-from-within-your-organization/"><u>How to Secure Your Official FlipBuilder Licensing Code From Within Your Organization</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-14-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone 14? Find the Best Solution Here</u></a></li>
-<li><a href="https://games-able.techidaily.com/pairing-playstation-devices-for-enhanced-switch-gaming/"><u>Pairing PlayStation Devices for Enhanced Switch Gaming</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-6-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-syma-x5c-an-in-depth-beginners-guide-for-future-pilots-for-2024/"><u>[Updated] Syma X5C An In-Depth Beginner’s Guide for Future Pilots for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/12-top-changes-to-expect-with-windows-11s-latest-release/"><u>12 Top Changes to Expect with Windows 11'S Latest Release</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-palette-perfection-quick-tricks-for-color-enhancement/"><u>Digital Palette Perfection Quick Tricks for Color Enhancement</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/discover-our-java-essentials-premium-coffee-blends-and-accessories/"><u>Discover Our Java Essentials: Premium Coffee Blends & Accessories</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-successfully-avoid-the-tiktok-logo-the-ultimate-removal-techniques-of-2023/"><u>How to Successfully Avoid the TikTok Logo: The Ultimate Removal Techniques of 2023</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-camon-30-pro-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Tecno Camon 30 Pro 5G Phone without PIN</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/seamless-integration-converting-ape-files-for-enhanced-compatibility-with-apple-music-and-macos/"><u>Seamless Integration: Converting APE Files for Enhanced Compatibility with Apple Music & macOS</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/simplifying-file-navigation-setting-up-quick-links-with-installation-wizard/"><u>Simplifying File Navigation: Setting Up Quick Links with Installation Wizard</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-removing-a-checkered-pattern-backdrop-from-images-without-using-adobe-photoshop/"><u>Step-by-Step Guide: Removing a Checkered Pattern Backdrop From Images Without Using Adobe Photoshop</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/form-your-media-a-curated-list-of-the-best-free-video-editing-software-top-9-for-2024/"><u>Transform Your Media A Curated List of the Best Free Video Editing Software (Top 9) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/travel-friendly-bluetooth-audio-system-your-ultimate-companion-for-easy-journeys/"><u>Travel-Friendly Bluetooth Audio System - Your Ultimate Companion for Easy Journeys</u></a></li>
 </ul></div>
 

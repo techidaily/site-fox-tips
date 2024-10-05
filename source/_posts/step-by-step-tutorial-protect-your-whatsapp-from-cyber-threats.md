@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Protect Your WhatsApp From Cyber Threats"
-date: 2024-09-25T16:09:07.065Z
-updated: 2024-09-30T11:54:46.872Z
+date: 2024-10-02T18:57:26.152Z
+updated: 2024-10-05T17:04:05.551Z
 tags:
   - product
   - antivirus
@@ -65,6 +65,13 @@ After enabling this, WhatsApp will randomly ask you for the 6-digit passcode so 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Verify End-to-End Encryption
 
 After introducing end-to-end encryption, WhatsApp has enabled it by default across all chats, and users cannot disable it. However, when sharing sensitive information, such as Credit Card PIN, with someone through WhatsApp chat, it is better to double-check the encryption status. To do so, follow these steps:
@@ -72,13 +79,6 @@ After introducing end-to-end encryption, WhatsApp has enabled it by default acro
 1. Open WhatsApp and start the conversation with the contact with whom you want to share the sensitive details.
 2. Inside the chatbox, tap on the contact’s name/number, and select **Encryption**.![tap encryption](https://www.malwarefox.com/wp-content/uploads/2021/09/tap-encryption.png)
 3. You will see the 60-digit security number code and a QR code.![security code whatsapp](https://www.malwarefox.com/wp-content/uploads/2021/09/security-code-whatsapp.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. To verify the end-to-end encryption, either scan the code with the contact’s phone or compare the 60-digit code on their device. If the code matches, the chat is end-to-end encrypted.
 
@@ -93,22 +93,15 @@ Whenever you use WhatsApp on a different device, the security code of end-to-end
 3. Toggle the button to turn ON the Security notifications.![enable security notification](https://www.malwarefox.com/wp-content/uploads/2021/09/enable-security-notification.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. You will get these notifications when the security code changes.![security notifications](https://www.malwarefox.com/wp-content/uploads/2021/09/security-notifications.png)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enable Disappearing Messages
 
@@ -129,10 +122,10 @@ The drawback of this feature is that the messages can be saved in other ways lik
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enable View Once for Photos/Videos
@@ -147,10 +140,10 @@ Here is how you can use the **View Once** feature:
 4. You will get the notification that the photo is set to View Once.![view once enabled](https://www.malwarefox.com/wp-content/uploads/2021/09/view-once-set.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. After the receiver views the media once, you will be notified about that too (only if Read receipts is enabled).
@@ -159,18 +152,18 @@ Again, this feature also has the practicality issue as the receiver can easily t
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Perform Tweaks in Privacy Settings
 
 WhatsApp provides you options to configure some privacy settings as per your preference. After opening the app, navigate to **Settings -> Account -> Privacy**. You can perform changes in the following options:
 
 ![privacy options](https://www.malwarefox.com/wp-content/uploads/2021/09/privacy-options.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * **Last Seen:** set it to _Everyone_, _My contacts_, or _Nobody_ as per your preference.
 * **Profile Photo:** set it to _Everyone_, _My contacts_, or _Nobody_ as per your preference. This will let you put your picture and hide it from unknowns.
@@ -199,19 +192,26 @@ Here is how:
 4. From the options, select **Never** bullet point.![never back up](https://www.malwarefox.com/wp-content/uploads/2021/09/never-back-up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Summing Up
@@ -255,24 +255,17 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/eam-your-content-upward-perfecting-youtube-seo-techniques-for-2024/"><u>[New] Beam Your Content Upward Perfecting YouTube SEO Techniques for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-exclusive-selection-of-elite-race-games/"><u>[Updated] 2024 Approved Exclusive Selection of Elite Race Games</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-youtube-titanics-1-8-vids-of-note/"><u>[Updated] 2024 Approved YouTube Titanics #1-#8 Vids of Note</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-your-key-to-creative-advertising-access-all-50-free-youtube-banner-designs/"><u>[Updated] Your Key to Creative Advertising Access All 50 FREE YouTube Banner Designs!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-premier-10-survival-showdowns/"><u>2024 Approved Premier 10 Survival Showdowns</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/accessing-your-flipbuilder-ebook-content-on-iphones-ipads-or-android-phones-a-step-by-step-guide/"><u>Accessing Your FlipBuilder eBook Content on iPhones, iPads, or Android Phones: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/adding-dates-and-times-in-rtf-and-txt-files-during-flipbook-conversion-flipbuilder-guide/"><u>Adding Dates & Times in RTF and TXT Files During FlipBook Conversion - FlipBuilder Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-f04-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy F04</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/compatibility-of-flipbuilder-created-ebooks-with-apples-ipad-a-comprehensive-guide/"><u>Compatibility of FlipBuilder Created eBooks with Apple's iPad: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/comprehensive-guide-mastering-the-art-of-flip-builders-chm-knowledge-platform/"><u>Comprehensive Guide: Mastering the Art of Flip Builder's CHM Knowledge Platform</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/download-the-complimentary-bootstrap-material-design-theme-bundle-from-creative-tim/"><u>Download the Complimentary Bootstrap Material Design Theme Bundle From Creative Tim</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/free-admin-template-with-bootstrap-4-discover-the-new-nowui-dashboard-by-creative-tim/"><u>Free Admin Template with Bootstrap 4: Discover the New NowUI Dashboard by Creative Tim</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-11-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the Apple iPhone 11 Without Previous Owner?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-silent-scripting-the-leading-list-of-offline-transcription-software/"><u>In 2024, Silent Scripting The Leading List of Offline Transcription Software</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-the-closer-look-approach-to-team-collaboration/"><u>In 2024, The Closer Look Approach to Team Collaboration</u></a></li>
-<li><a href="https://extra-information.techidaily.com/invent-comical-content/"><u>Invent Comical Content</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/professional-paper-pro-kit-advanced-bootstrap-user-interface-by-creative-tim/"><u>Professional Paper Pro Kit: Advanced Bootstrap User Interface by Creative Tim</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/section-2a-understanding-scale-ratios-and-representation/"><u>Section 2A: Understanding Scale Ratios and Representation</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/ucc-article-grocery-sales-but-not-services-or-real-estate/"><u>UCC Article Grocery Sales, but Not Services or Real Estate.</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-captivating-viewers-with-tiktoks-best-captioning-practices-top-5/"><u>2024 Approved Captivating Viewers with TikTok's Best Captioning Practices (Top 5)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-expert-insights-into-mov-file-recording-on-latest-win-11-edition/"><u>2024 Approved Expert Insights Into .MOV File Recording on Latest Win 11 Edition</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/accessing-resources-via-the-iini-entry-interface/"><u>Accessing Resources via the Iini Entry Interface</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/boost-your-workflow-with-these-8-best-facebook-timers/"><u>Boost Your Workflow with These 8 Best Facebook Timers</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/fixing-itunes-how-to-successfully-transfer-music-and-movies-to-your-iphone/"><u>Fixing iTunes: How to Successfully Transfer Music and Movies to Your iPhone</u></a></li>
+<li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-clip-courage-embracing-twitters-viral-vanguard/"><u>In 2024, Clip Courage Embracing Twitter's Viral Vanguard</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-tipps-zur-reduzierung-der-dateigrosse-von-mov-filmen-effiziente-komprimierungsstrategien/"><u>Top Tipps Zur Reduzierung Der Dateigröße Von MOV-Filmen: Effiziente Komprimierungsstrategien</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-rated-software-for-capturing-screenshots-on-your-microsoft-surface-pro/"><u>Top-Rated Software for Capturing Screenshots on Your Microsoft Surface Pro</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/understanding-interface-characteristics-and-features-a-comprehensive-guide/"><u>Understanding Interface Characteristics and Features: A Comprehensive Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-sculpting-the-silence-an-in-depth-look-at-modifying-audio-keyframes-for-immersive-experiences-in-final-cut-pro-x-for-2024/"><u>Updated Sculpting the Silence An In-Depth Look at Modifying Audio Keyframes for Immersive Experiences in Final Cut Pro X for 2024</u></a></li>
 </ul></div>
 

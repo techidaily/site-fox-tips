@@ -1,7 +1,7 @@
 ---
 title: "Manage Instance Settings: Navigating the Component Tab"
-date: 2024-09-27T20:33:37.694Z
-updated: 2024-09-29T17:16:04.718Z
+date: 2024-10-01T21:24:00.619Z
+updated: 2024-10-05T16:30:32.294Z
 tags:
   - user-guide
 categories:
@@ -77,10 +77,10 @@ Table of Contents
 ![Instance components tab](https://cdn.advancedinstaller.com/img/ui/instance-components-tab.png "Instance components tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overwrite Components
@@ -124,22 +124,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-classification-of-fb-video-sizes/"><u>[New] 2024 Approved Classification of FB Video Sizes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-7-costless-tools-enjoy-your-dvds-on-laptops/"><u>[New] In 2024, Top 7 Costless Tools Enjoy Your DVDs on Laptops</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-navigating-instagrams-video-time-policy/"><u>[New] Navigating Instagram's Video Time Policy</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-boost-sound-level-for-twitters-quiet-vids/"><u>[Updated] Boost Sound Level for Twitter's Quiet Vids</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/download-vevo-songs-in-high-quality-formats-mp4-mp3-avi-for-mac-and-pc/"><u>Download Vevo Songs in High-Quality Formats (MP4, MP3, AVI) for Mac & PC</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/downloading-your-favorite-bravo-tv-episodes-in-various-formats-on-windows-or-mac-computers/"><u>Downloading Your Favorite Bravo TV Episodes in Various Formats on Windows or Mac Computers</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/easy-guide-on-converting-your-iptv-m3u-streams-into-high-quality-audio-formats-like-mp3-and-flac/"><u>Easy Guide on Converting Your IPTV M3U Streams Into High-Quality Audio Formats Like MP3 and FLAC</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/easy-steps-for-acquiring-every-asce-webinar-session-in-video-mp4-and-audio-mp3-formats/"><u>Easy Steps for Acquiring Every ASCE Webinar Session in Video (MP4) & Audio (MP3) Formats</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effortless-laola1tv-content-retrieval-for-your-computer-secure-video-grabs/"><u>Effortless LAOLA1.TV Content Retrieval for Your Computer - Secure Video Grabs</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/excellent-substitutes-for-dentex-effortless-youtube-downloading-on-windows-and-macos-systems/"><u>Excellent Substitutes for Dentex: Effortless YouTube Downloading on Windows & MacOS Systems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expert-tips-for-enhancing-your-gopro-cinematic-vision/"><u>Expert Tips for Enhancing Your GoPro Cinematic Vision</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/guide-ultime-telecharger-en-mp4-des-videos-de-jeuxvideo/"><u>Guide Ultime : Télécharger en MP4 Des Vidéos De Jeuxvidéo</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/guide-steps-to-successfully-download-content-from-motherless-platforms/"><u>Guide: Steps to Successfully Download Content From Motherless Platforms</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-civi-3withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Civi 3with/without a PC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-to-avoid-watermarks-in-stock-purchases-for-2024/"><u>How To Avoid Watermarks in Stock Purchases for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-top-tips-for-effective-story-emoji-integration-on-instagram/"><u>In 2024, Top Tips for Effective Story Emoji Integration on Instagram</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-unleashing-the-full-potential-of-your-phone-into-vr-realm/"><u>In 2024, Unleashing the Full Potential of Your Phone Into VR Realm</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-giggle-guild-creepy-cybernetic-comedians/"><u>[New] Giggle Guild Creepy Cybernetic Comedians</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-best-low-lag-techniques-for-efficient-screen-snaps/"><u>[New] In 2024, Best Low-Lag Techniques for Efficient Screen Snaps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unlocking-the-potential-of-consoles-with-pc-gaming-tech/"><u>[New] In 2024, Unlocking the Potential of Consoles with PC Gaming Tech</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-your-ultimate-guide-to-top-5-ios-tools-for-extracting-facebook-videos/"><u>[New] Your Ultimate Guide to Top 5 iOS Tools for Extracting Facebook Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-monetization-contest-dailymovement-vs-youtubes-earnings-battleground/"><u>[Updated] The Monetization Contest DailyMovement vs Youtube's Earnings Battleground</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/advanced-iis-settings-configuration-panel/"><u>Advanced IIS Settings Configuration Panel</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-skills-for-career-enhancement-discover-6-essential-benefits/"><u>ChatGPT Skills for Career Enhancement: Discover 6 Essential Benefits</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/defending-your-messages-a-comprehensive-guide-to-safeguard-whatsapp-against-unauthorized-access/"><u>Defending Your Messages: A Comprehensive Guide to Safeguard WhatsApp Against Unauthorized Access</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/mastering-the-capture-of-your-roblox-adventures-compatible-with-windows-mac-ipad-and-more/"><u>Mastering the Capture of Your Roblox Adventures - Compatible with Windows, Mac, iPad and More</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/navigating-group-license-agreements-streamlined-solutions-for-teams/"><u>Navigating Group License Agreements: Streamlined Solutions for Teams</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/retrieve-lost-correspondence-a-step-by-step-guide-to-restoring-deleted-messages-in-microsoft-outlook/"><u>Retrieve Lost Correspondence: A Step-by-Step Guide to Restoring Deleted Messages in Microsoft Outlook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/taking-command-with-custom-character-sounds-in-free-fire-no-expense-involved/"><u>Taking Command with Custom Character Sounds in Free Fire - No Expense Involved</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/the-best-2022-software-solutions-for-professional-passport-picture-edits/"><u>The Best 2022 Software Solutions for Professional Passport Picture Edits</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-picks-for-enhancing-your-images-with-perfect-backgrounds-online-guides/"><u>Top Picks for Enhancing Your Images with Perfect Backgrounds - Online Guides</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/understanding-condition-based-prompting-in-user-interfaces/"><u>Understanding Condition-Based Prompting in User Interfaces</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-chatgpts-potential-with-simple-plugin-signups/"><u>Unlock ChatGPT's Potential with Simple Plugin Signups</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/unveiling-apowermirror-the-new-cutting-edge-tv-mirroring-device/"><u>Unveiling ApowerMirror: The New Cutting-Edge TV Mirroring Device</u></a></li>
 </ul></div>
 

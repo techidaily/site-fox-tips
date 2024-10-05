@@ -1,7 +1,7 @@
 ---
 title: Understanding the Configuration Options in XML File Preferences
-date: 2024-09-24T23:51:07.788Z
-updated: 2024-09-29T20:46:13.895Z
+date: 2024-09-30T18:21:00.467Z
+updated: 2024-10-05T17:54:12.596Z
 tags:
   - user-guide
 categories:
@@ -97,14 +97,20 @@ Table of Contents
 
 ![File Settings](https://cdn.advancedinstaller.com/img/dialog/xml-file-settings.png "File Settings")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## XML Declaration
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Version
 
@@ -127,20 +133,20 @@ When enabled the Standalone xml flag will be set to “Yes”, otherwise it will
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)A value of “No” indicates that this XML document is not standalone and depends on an externally-defined DTD. A value of “Yes” indicates that the XML document is self-contained.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)These settings are used only when the XML file is created from scratch.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Indent
@@ -150,10 +156,10 @@ Specify what type of characters should be used to indent the XML file and their 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Note that the indent settings are used both when creating a file from scratch and when updating an existing file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -189,20 +195,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2023s-premier-ios-emulators-excellent-psp-gaming-choices/"><u>[Updated] 2023'S Premier iOS Emulators Excellent PSP Gaming Choices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-bypassing-barriers-a-guide-to-flawless-youtube-shorts/"><u>[Updated] 2024 Approved Bypassing Barriers A Guide to Flawless YouTube Shorts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-learn-the-tricks-of-the-trade-for-flipping-films-in-vlc-for-2024/"><u>[Updated] Learn the Tricks of the Trade for Flipping Films in VLC for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1-how-to-convert-your-favorite-reddit-content-into-mp4-or-avi-files-two-easy-techniques/"><u>1. How to Convert Your Favorite Reddit Content Into MP4 or AVI Files - Two Easy Techniques</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-pictorial-perfection-your-premier-guide-to-saving-tweeted-gifs/"><u>2024 Approved Pictorial Perfection Your Premier Guide to Saving Tweeted GIFs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/dont-delay-unveiling-the-important-reasons-for-installing-ios-153-now/"><u>Don't Delay! Unveiling the Important Reasons for Installing iOS 15.3 Now</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-samsung-galaxy-s23plus-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Samsung Galaxy S23+? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/into-the-abyss-and-beyond-shadowbearer-vs-daybeam-for-2024/"><u>Into the Abyss and Beyond Shadowbearer Vs Daybeam for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/tailoring-photo-flipping-parameters-size-and-palette-controls-with-flipbuilder/"><u>Tailoring Photo Flipping Parameters: Size and Palette Controls with FlipBuilder</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/transform-your-chm-files-into-engaging-ebooks-with-flipbuilder-easy-conversion-guide/"><u>Transform Your CHM Files Into Engaging eBooks with FlipBuilder - Easy Conversion Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/transform-your-pdf-documents-into-flip-books-online-convert-files-seamlessly-and-personalize-them-with-a-range-of-design-options-flipbuildercom/"><u>Transform Your PDF Documents Into Flip Books Online: Convert Files Seamlessly and Personalize Them with a Range of Design Options [FlipBuilder.com]</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-apple-iphone-6s-plus-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/utilizing-flipbuilder-via-cli-can-it-meet-your-needs-discover-possibilities-at-flipbuildercom/"><u>Utilizing FlipBuilder via CLI: Can It Meet Your Needs? Discover Possibilities at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/utilizing-flippdf-for-incorporating-multimedia-into-your-documents-how-feasible-is-it/"><u>Utilizing FlipPDF for Incorporating Multimedia Into Your Documents – How Feasible Is It?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/whats-the-best-orientation-horizontalvertical-on-facebook/"><u>What's The Best Orientation Horizontal/Vertical on Facebook?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-comprehensive-guide-to-crafting-stellar-podcast-sneak-peeks/"><u>[New] A Comprehensive Guide to Crafting Stellar Podcast Sneak Peeks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-life-in-high-definition-the-nikon-1j5-review/"><u>[New] Capturing Life in High Definition The Nikon 1J5 Review</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-maximizing-game-capture-with-bandicam-essentials-for-the-year-2023-for-2024/"><u>[New] Maximizing Game Capture with Bandicam - Essentials for the Year 2023 for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-seamless-content-propagation-beyond-youtube-and-facebook/"><u>[New] Seamless Content Propagation Beyond YouTube and Facebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-a-list-mobile-camera-utilities-for-iphone/"><u>[Updated] A-List Mobile Camera Utilities for iPhone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/advanced-iis-settings-configuration-panel/"><u>Advanced IIS Settings Configuration Panel</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/defending-your-messages-a-comprehensive-guide-to-safeguard-whatsapp-against-unauthorized-access/"><u>Defending Your Messages: A Comprehensive Guide to Safeguard WhatsApp Against Unauthorized Access</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-insights-into-netgears-top-of-the-line-c7000-modem-a-superior-choice-for-seamless-connectivity/"><u>In-Depth Insights Into Netgear's Top-of-the-Line C7000 Modem: A Superior Choice for Seamless Connectivity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/is-netflix-down-or-is-it-just-me-check-netflix-server-status/"><u>Is Netflix Down Or Is It Just Me - Check Netflix Server Status</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-mastering-your-music-on-a-chromebook-the-top-8-daws-that-will-elevate-your-sound-updated-list-2023-for-2024/"><u>New Mastering Your Music on a Chromebook The Top 8 DAWs that Will Elevate Your Sound (Updated List, 2023) for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/retrieve-lost-correspondence-a-step-by-step-guide-to-restoring-deleted-messages-in-microsoft-outlook/"><u>Retrieve Lost Correspondence: A Step-by-Step Guide to Restoring Deleted Messages in Microsoft Outlook</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/the-best-2022-software-solutions-for-professional-passport-picture-edits/"><u>The Best 2022 Software Solutions for Professional Passport Picture Edits</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-picks-for-enhancing-your-images-with-perfect-backgrounds-online-guides/"><u>Top Picks for Enhancing Your Images with Perfect Backgrounds - Online Guides</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/unveiling-apowermirror-the-new-cutting-edge-tv-mirroring-device/"><u>Unveiling ApowerMirror: The New Cutting-Edge TV Mirroring Device</u></a></li>
 </ul></div>
 

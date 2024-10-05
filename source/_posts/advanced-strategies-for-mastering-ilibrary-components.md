@@ -1,7 +1,7 @@
 ---
 title: Advanced Strategies for Mastering iLibrary Components
-date: 2024-09-25T06:03:23.302Z
-updated: 2024-09-30T08:37:52.207Z
+date: 2024-10-03T20:22:26.039Z
+updated: 2024-10-05T20:08:21.860Z
 tags:
   - user-guide
 categories:
@@ -40,10 +40,10 @@ Table of Contents
 This interface allows to import library files or get all the library files from the project.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -51,10 +51,10 @@ This interface allows to import library files or get all the library files from 
 ILibraryComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -62,16 +62,10 @@ ILibraryComponent : IDispatch
 **Array<ILibraryFile> Files** \- Gets all the library files the from project.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -81,10 +75,16 @@ ILibraryComponent : IDispatch
 **AddFileS(String target, String source)**  \- Imports the file specified by source in the desired target folder specified by project path.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -128,17 +128,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-enhance-your-browsing-fixing-fuzzy-videos-in-chrome-and-phone-apps/"><u>[New] In 2024, Enhance Your Browsing Fixing Fuzzy Videos in Chrome and Phone Apps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unique-day-to-day-vlog-themes/"><u>[New] Unique Day-to-Day Vlog Themes</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-taming-darkness-for-a-bright-youtube-experience/"><u>[Updated] In 2024, Taming Darkness for a Bright YouTube Experience</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1-free-open-source-argon-css-framework-based-on-bootstrap-4-by-creative-tim/"><u>1. Free, Open-Source Argon CSS Framework Based on Bootstrap 4 by Creative Tim</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/advanced-creative-tim-and-updivision-pro-dashboard-design-with-soft-ui-for-laravel-applications/"><u>Advanced Creative Tim & UPDIVISION Pro Dashboard Design with Soft UI for Laravel Applications</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/boost-your-sites-indexability-with-a-well-structured-xml-sitemap-strategy/"><u>Boost Your Site's Indexability with a Well-Structured XML Sitemap Strategy</u></a></li>
-<li><a href="https://win-blog.techidaily.com/error-resolution-for-cod-modern-warfares-error-code-6-on-personal-computers/"><u>Error Resolution for COD: Modern Warfare's Error Code 6 on Personal Computers</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/grateful-acknowledgment-your-upgrade-to-splash-software-version-20/"><u>Grateful Acknowledgment - Your Upgrade to Splash Software, Version 2.0!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-through-grok-ai-by-elon-musk-what-it-is-how-it-works-and-estimated-price-range/"><u>Navigating Through Grok AI by Elon Musk – What It Is, How It Works, and Estimated Price Range</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-setting-up-and-implementing-auto-update-features-in-action/"><u>Step-by-Step Guide: Setting Up & Implementing Auto-Update Features in Action!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unraveling-the-true-value-of-the-winegard-fl5500a-flatwave-antenna-a-review-of-performance-metrics-and-cost-implications/"><u>Unraveling the True Value of the Winegard FL5500A FlatWave Antenna: A Review of Performance Metrics and Cost Implications</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-elevate-videos-with-gif-a-simple-guide-for-vimeo-creators-for-2024/"><u>[New] Elevate Videos with GIF A Simple Guide for Vimeo Creators for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-video-standards-focus-on-aspect-ratios/"><u>[New] Twitter's Video Standards Focus on Aspect Ratios</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-iphones-voice-memo-functionality/"><u>[Updated] Mastering iPhone's Voice Memo Functionality</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-cutting-edge-recording-sounds-in-the-mac-era-for-2024/"><u>[Updated] The Cutting Edge Recording Sounds in the Mac Era for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-text-preset-mastery/"><u>2024 Approved The Ultimate Guide to Text Preset Mastery</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/creating-high-quality-youtube-content-a-guide-to-producing-hd-videos-with-stunning-visuals-and-audio-on-pcmac/"><u>Creating High-Quality YouTube Content: A Guide to Producing HD Videos with Stunning Visuals & Audio on PC/Mac</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/evasion-tactics-can-malware-bypass-detection-in-task-manager-insights-by-malwarefox/"><u>Evasion Tactics: Can Malware Bypass Detection in Task Manager - Insights by MalwareFox</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/exploring-the-concept-of-variable-response-menus-a-guide-to-dynamic-ui-engagement/"><u>Exploring the Concept of Variable Response Menus: A Guide to Dynamic UI Engagement</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/mastering-ui-hierarchies-strategic-approaches-to-organizing-page-groups/"><u>Mastering UI Hierarchies: Strategic Approaches to Organizing Page Groups</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/pre-upload-best-practices-to-maintain-tiktoks-integrity-for-2024/"><u>Pre-Upload Best Practices to Maintain TikTok's Integrity for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/revolutionary-features-in-configuring-jvm-environment-options-a-user-friendly-guide/"><u>Revolutionary Features in Configuring JVM Environment Options - A User-Friendly Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-how-to-alter-picture-backgrounds-with-a-photo-editing-tool/"><u>Step-by-Step Guide: How to Alter Picture Backgrounds with a Photo Editing Tool</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-protect-your-whatsapp-from-cyber-threats/"><u>Step-by-Step Tutorial: Protect Your WhatsApp From Cyber Threats</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-timeless-trove-of-freely-shared-works-for-2024/"><u>The Timeless Trove of Freely Shared Works for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-5-solutions-for-resolving-the-no-user-logon-issue-in-cs-go/"><u>Top 5 Solutions for Resolving the 'No User Logon' Issue in CS: GO</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Efficiency: The Advanced Techniques of Project Cache Tab Systems"
-date: 2024-09-26T12:00:26.522Z
-updated: 2024-09-30T09:56:50.204Z
+date: 2024-09-28T20:18:50.587Z
+updated: 2024-10-05T20:56:33.570Z
 tags:
   - user-guide
 categories:
@@ -79,13 +79,6 @@ This tab allows you to change the project's caching options.
 
 To speed up the build process, Advanced Installer will store and reuse the archives it creates. Next time an archive with the same(unchanged) content will be required by a build process, the stored archive will be reused.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Enabling cache
 
 You can enable caching in your project archives by selecting the “Speed up builds by caching unchanged archives” check-box.
@@ -94,16 +87,16 @@ You can enable caching in your project archives by selecting the “Speed up bui
 
  A sub-folder is created in the project folder; and will be used for caching.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Store cached files next in folder
 
 This option allows you to specify a particular folder to be used for caching.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Disabling cache
 
@@ -112,10 +105,17 @@ You can disable caching in your project by unselecting the “Speed up builds by
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When disabling the cache, the cached files are deleted.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Reusing archives
@@ -126,14 +126,14 @@ If the source files are changed, the stored archive will be removed and rebuilt.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)In order to perform a clean build without reusing cached archives, you can use the “/rebuild” command-line or the Rebuild context menu button from the [Builds](https://tools.techidaily.com/advancedinstaller/products/) page.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The OS does not guarantee that the file dates are updated in real time so there might be situations when the cached archives are used even if a source file content has been modified (without changing its dates and size). You should always rebuild the project for your release deployments to make sure that the newest source files are used.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Resources
 
@@ -174,19 +174,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-top-tips-for-creating-highly-sharable-insta-unpacked-content/"><u>[New] Top Tips for Creating Highly Sharable Insta Unpacked Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-perfecting-webp-conversion-to-jpeg-format/"><u>[Updated] 2024 Approved Perfecting WebP Conversion to JPEG Format</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-from-hobbyist-to-pro-professionalizing-gopro-videos/"><u>[Updated] From Hobbyist to Pro Professionalizing GoPro Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-spectrumsewn-studio-photo-montage-expertise-for-2024/"><u>[Updated] SpectrumSewn Studio Photo Montage Expertise for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/compatibility-of-flipbuilder-created-ebooks-with-apples-ipad-a-comprehensive-guide/"><u>Compatibility of FlipBuilder Created eBooks with Apple's iPad: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/comprehensive-guide-mastering-the-art-of-flip-builders-chm-knowledge-platform/"><u>Comprehensive Guide: Mastering the Art of Flip Builder's CHM Knowledge Platform</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/create-a-personalized-photobook-at-home-with-ease-discover-the-step-by-step-guide-on-flipbuilder/"><u>Create a Personalized Photobook at Home with Ease - Discover the Step-by-Step Guide on FlipBuilder</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-s18e-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on S18e</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effortless-batch-conversion-from-pdf-to-microsoft-word-format-at-no-cost-on-flipbuildercom/"><u>Effortless Batch Conversion From PDF to Microsoft Word Format at No Cost on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/enhance-your-reading-experience-with-larger-flipbooks-discover-how-on-flipbuildercom/"><u>Enhance Your Reading Experience with Larger Flipbooks - Discover How on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-build-interactive-image-slideshows-in-a-new-window-for-your-flipbooks-easy-tutorial/"><u>How to Build Interactive Image Slideshows in a New Window for Your Flipbooks | Easy Tutorial</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Realme 11 Pro Bootloader Easily</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-seamless-blending-of-hdr-photographs-in-lightroom/"><u>In 2024, Techniques for Seamless Blending of HDR Photographs in Lightroom</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/playing-dvd-content-on-your-ps5-understanding-the-features-and-limitations/"><u>Playing DVD Content on Your PS5: Understanding the Features and Limitations</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-prime-unlimited-space-service-catalogue/"><u>[New] 2024 Approved Prime Unlimited Space Service Catalogue</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-capture-every-click-essential-screen-recorders-for-modern-browsers-for-2024/"><u>[New] Capture Every Click Essential Screen Recorders for Modern Browsers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-minecraft-domicile-easy-to-build-residential-plans/"><u>[Updated] 2024 Approved Minecraft Domicile Easy-To-Build Residential Plans</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-public-audio-for-deep-thoughts/"><u>[Updated] Public Audio for Deep Thoughts</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/best-software-solutions-for-inserting-songs-into-videos-top-picks/"><u>Best Software Solutions for Inserting Songs Into Videos: Top Picks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/build-a-budget-oriented-chatgpt-replica-locally/"><u>Build a Budget-Oriented ChatGPT Replica Locally</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/efficient-script-editing-master-the-script-substitutions-pane/"><u>Efficient Script Editing: Master the 'Script Substitutions' Pane</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/enhance-your-building-projects-with-imsibuilds-advanced-strategies-and-tools/"><u>Enhance Your Building Projects with IMsiBuild's Advanced Strategies and Tools</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-6-plus-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 6 Plus to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/interactive-active-configuration-prompt-window/"><u>Interactive Active Configuration Prompt Window</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-the-art-of-measuring-igtv-video-quality-for-2024/"><u>Mastering the Art of Measuring IGTV Video Quality for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/seamlessly-shift-snaps-transferring-photos-from-ios-to-macos-catalina/"><u>Seamlessly Shift Snaps: Transferring Photos From iOS to macOS Catalina</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-converting-wmv-files-to-mov-format-on-pc-and-mac/"><u>Step-by-Step Guide: Converting WMV Files to MOV Format on PC and Mac</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-instructions-for-recording-zoom-calls-across-computers-iphones-and-tablets/"><u>Step-by-Step Instructions for Recording Zoom Calls Across Computers, iPhones, and Tablets</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-m54-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy M54 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-tip-how-to-create-a-quick-and-easy-google-collage-photo/"><u>Top Tip How to Create a Quick and Easy Google Collage Photo</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/ultimate-guide-adding-time-stamps-to-your-images-a-step-by-step-tutorial/"><u>Ultimate Guide: Adding Time Stamps to Your Images - A Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Customizing Image Settings During Software Installation Process
-date: 2024-09-26T18:12:52.142Z
-updated: 2024-09-30T05:22:51.656Z
+date: 2024-10-04T16:22:12.062Z
+updated: 2024-10-05T21:26:27.815Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ Table of Contents
 ![Image Options](https://cdn.advancedinstaller.com/img/dialog/image-options.png "Image Options")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Image Path
@@ -91,10 +91,10 @@ Table of Contents
 Specify the image's path. Use the \[... \] to select it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Property Name
@@ -134,22 +134,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-mastering-insights-tracking-your-insta-posts-viewers-for-2024/"><u>[New] Mastering Insights Tracking Your Insta Posts' Viewers for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-master-your-pcs-sounds-with-easy-recording-tool-x-recorder/"><u>[Updated] Master Your PC's Sounds with Easy Recording Tool – X-Recorder</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/a-guide-to-modifying-the-bottom-strip-color-in-flipbuilder-widget-plugin/"><u>A Guide To Modifying The Bottom Strip Color In FlipBuilder Widget Plugin</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/a-thorough-insight-into-androids-lightroom-application/"><u>A Thorough Insight Into Android's Lightroom Application</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/easily-add-an-interactive-ebook-to-your-website-with-flipbuilders-embed-feature/"><u>Easily Add an Interactive eBook to Your Website with FlipBuilder's Embed Feature</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effortless-powerpoint-to-swf-conversion-download-free-tool-for-quick-and-simple-swf-creation/"><u>Effortless PowerPoint to SWF Conversion - Download Free Tool for Quick and Simple .swf Creation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/fixing-silent-dvds-troubleshooting-solutions-for-quiet-movies-on-your-television/"><u>Fixing Silent DVDs: Troubleshooting Solutions for Quiet Movies on Your Television</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-add-special-characters-during-typing-in-flipbuilder-a-step-by-step-guide/"><u>How to Add Special Characters During Typing in FlipBuilder: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-create-and-embed-interactive-flipbooks-with-flipbuilder-on-your-site/"><u>How to Create & Embed Interactive Flipbooks with FlipBuilder on Your Site</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/mastering-the-art-of-online-presentation-with-flipbuilder-how-to-craft-an-engaging-company-flash-flip-book/"><u>Mastering the Art of Online Presentation with FlipBuilder: How to Craft an Engaging Company Flash Flip Book</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-top-10-most-impressive-4k-video-examples/"><u>New 2024 Approved The Top 10 Most Impressive 4K Video Examples</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quick-fix-guide-eliminate-kernelbasedll-crash-glitches-instantly/"><u>Quick-Fix Guide: Eliminate KernelBase.dll Crash Glitches Instantly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/silent-speakers-ended-fix-for-computer-headphones/"><u>Silent Speakers Ended - Fix for Computer-Headphones</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/single-page-layout-showcasing-your-flipping-book-entirely-at-once-with-flipbuilder/"><u>Single-Page Layout: Showcasing Your Flipping Book Entirely at Once with FlipBuilder</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-stabilizing-your-new-world-online-gaming-experience/"><u>Troubleshooting Steps for Stabilizing Your 'New World' Online Gaming Experience</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/upgrade-pdf-documents-to-dynamic-digital-publications-integrate-photo-galleries-video-features-using-flipbuilder-technology/"><u>Upgrade PDF Documents to Dynamic Digital Publications - Integrate Photo Galleries, Video Features Using FlipBuilder Technology</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-top-7-android-adblockers-seamless-browsing-experience/"><u>[New] 2024 Approved Top 7 Android AdBlockers Seamless Browsing Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonizing-content-and-platform-youtubes-brief-melodies-explained/"><u>[Updated] 2024 Approved Harmonizing Content and Platform YouTube's Brief Melodies Explained</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-polarr-photo-editor-demystified-in-depth-analysis/"><u>[Updated] 2024 Approved Polarr Photo Editor Demystified In-Depth Analysis</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-elevate-video-editing-expert-use-of-obs-on-mobile-devices/"><u>2024 Approved Elevate Video Editing Expert Use of OBS on Mobile Devices</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/determining-the-best-site-for-product-assembly-tips-and-strategies/"><u>Determining the Best Site for Product Assembly: Tips & Strategies</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-from-zero-to-timer-hero-3-essential-fcpx-steps/"><u>In 2024, From Zero to Timer Hero 3 Essential FCPX Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-mobile-artistry-top-tactics-for-idevice-collage-excellence/"><u>Mastering Mobile Artistry Top Tactics for iDevice Collage Excellence</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-capturing-whatsapp-messages-across-all-devices/"><u>Step-by-Step Guide: Capturing WhatsApp Messages Across All Devices</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-rated-photo-editing-tools-with-transparent-background-features/"><u>Top Rated Photo Editing Tools with Transparent Background Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-your-chatgpt-sign-in-problems-a-comprehensive-guide/"><u>Troubleshooting Your ChatGPT Sign-In Problems - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/ultimate-iphone-slide-show-creator-the-1-pick-for-mobile-presentations/"><u>Ultimate iPhone Slide Show Creator: The #1 Pick for Mobile Presentations</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/understanding-microsofts-internet-information-services-iis-a-comprehensive-guide/"><u>Understanding Microsoft's Internet Information Services (IIS): A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/zero-dollar-techniques-decrease-png-and-jpeg-file-dimensions-for-faster-loading/"><u>Zero Dollar Techniques: Decrease PNG and JPEG File Dimensions for Faster Loading</u></a></li>
 </ul></div>
 

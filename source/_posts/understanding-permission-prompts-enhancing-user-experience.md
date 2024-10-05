@@ -1,7 +1,7 @@
 ---
 title: "Understanding Permission Prompts: Enhancing User Experience"
-date: 2024-09-23T18:05:11.480Z
-updated: 2024-09-29T22:32:58.791Z
+date: 2024-10-04T16:17:12.013Z
+updated: 2024-10-05T19:39:20.085Z
 tags:
   - user-guide
 categories:
@@ -90,6 +90,19 @@ Table of Contents
 
 ![Permission Dialog](https://cdn.advancedinstaller.com/img/dialog/permission.png "Permission Dialog")  
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Domain
 
  The domain of the user for which permissions are to be set. If left empty, no domain is considered for the OS user account. You can get the current domain by specifying the string \[%USERDOMAIN\]. 
@@ -97,16 +110,16 @@ Table of Contents
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)This field should be set only when the target user account is part of a specific domain. For regular user accounts, this field should be empty.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
+<span id="1983545">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Username
@@ -120,20 +133,13 @@ Table of Contents
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The permissions checked here are considered allowed - you can not specify a denied permission. Make sure you set the appropriate permissions, otherwise you can even make the uninstallation of your product impossible.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)According to Windows operating system, advanced permissions cannot be set directly on a resource, therefore the button is automatically disabled until you return to simple permissions. The advanced permissions will be kept along the with the simple ones.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Configuring permissions
 
@@ -151,10 +157,10 @@ Through the advanced view, you can set the actual permission flags. Permission f
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)When creating a permission for an element in your installation you should also create a second permission which applies only to the Administrators group. This permission should give the Administrators full control in order to allow them to uninstall the package.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apply permissions to all subfolders
@@ -194,17 +200,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-effortless-capture-and-storage-pro-guide-to-digital-sound-recording/"><u>[Updated] 2024 Approved Effortless Capture & Storage Pro Guide to Digital Sound Recording</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-pixicapture-studio-winos-series/"><u>[Updated] PixiCapture Studio WinOS Series</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1-how-to-convert-your-favorite-reddit-content-into-mp4-or-avi-files-two-easy-techniques/"><u>1. How to Convert Your Favorite Reddit Content Into MP4 or AVI Files - Two Easy Techniques</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-ensemble-dynamics-crafting-collaborative-content-for-musicians/"><u>2024 Approved Ensemble Dynamics Crafting Collaborative Content for Musicians</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/easy-guide-how-to-stream-free-movies-with-crackle-on-pc-and-mac/"><u>Easy Guide: How to Stream Free Movies with Crackle on PC & Mac</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/effortless-voice-memo-creation-on-apple-devices-for-2024/"><u>Effortless Voice Memo Creation on Apple Devices for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-iphone-13-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your iPhone 13 and iPad</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/record-your-roblox-adventures-for-free-voice-and-no-delays/"><u>Record Your Roblox Adventures for Free, Voice & No Delays!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellars-success-story-reviving-dead-hard-drives/"><u>Stellar's Success Story: Reviving Dead Hard Drives</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/utilizing-flipbuilder-via-cli-can-it-meet-your-needs-discover-possibilities-at-flipbuildercom/"><u>Utilizing FlipBuilder via CLI: Can It Meet Your Needs? Discover Possibilities at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/utilizing-flippdf-for-incorporating-multimedia-into-your-documents-how-feasible-is-it/"><u>Utilizing FlipPDF for Incorporating Multimedia Into Your Documents – How Feasible Is It?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-is-instagrams-self-validation-a-game-changer/"><u>[New] 2024 Approved Is Instagram’s Self-Validation a Game Changer?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-beyond-the-screen-top-10-immersive-vr-gear/"><u>[New] Beyond The Screen Top 10 Immersive VR Gear</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-user-friendly-guide-to-logging-gotomeeting-events/"><u>[Updated] 2024 Approved User-Friendly Guide to Logging GoToMeeting Events</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/advanced-iis-settings-configuration-panel/"><u>Advanced IIS Settings Configuration Panel</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/defending-your-messages-a-comprehensive-guide-to-safeguard-whatsapp-against-unauthorized-access/"><u>Defending Your Messages: A Comprehensive Guide to Safeguard WhatsApp Against Unauthorized Access</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/demystifying-the-functionality-of-registry-key-windows-dialogue-boxes/"><u>Demystifying the Functionality of Registry Key Windows Dialogue Boxes</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/download-designer-cakes-content-easy-extraction-tools-from-designer-cakescom/"><u>Download Designer Cakes Content: Easy Extraction Tools From designer-cakes.com</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/interactive-and-entertaining-latin-classes/"><u>Interactive & Entertaining Latin Classes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-and-easy-guide-to-lossless-dvd-backup-within-5-minutes/"><u>Quick and Easy Guide to Lossless DVD Backup Within 5 Minutes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/seamlessly-setting-up-discord-troubleshooting-tips-for-a-smooth-start/"><u>Seamlessly Setting Up Discord: Troubleshooting Tips for a Smooth Start</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-initializing-programs-via-exe-setup-files-and-command-line-interface/"><u>Step-by-Step Tutorial: Initializing Programs via EXE Setup Files and Command Line Interface</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-controller-problems-now-quick-fixes-guaranteed/"><u>Stop Controller Problems Now - Quick Fixes Guaranteed</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/the-best-2022-software-solutions-for-professional-passport-picture-edits/"><u>The Best 2022 Software Solutions for Professional Passport Picture Edits</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-picks-for-enhancing-your-images-with-perfect-backgrounds-online-guides/"><u>Top Picks for Enhancing Your Images with Perfect Backgrounds - Online Guides</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/unveiling-apowermirror-the-new-cutting-edge-tv-mirroring-device/"><u>Unveiling ApowerMirror: The New Cutting-Edge TV Mirroring Device</u></a></li>
 </ul></div>
 

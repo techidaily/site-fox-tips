@@ -1,7 +1,7 @@
 ---
 title: Enhancing Photos via IPatch - The Ultimate Image Update Tutorial
-date: 2024-09-26T01:06:10.931Z
-updated: 2024-09-30T11:35:56.295Z
+date: 2024-10-04T20:34:24.013Z
+updated: 2024-10-05T16:17:24.183Z
 tags:
   - user-guide
 categories:
@@ -117,26 +117,32 @@ Table of Contents
 
 ## IPatchUpgradeImage
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IPatchUpgradeImage : IDispatch
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to edit patch upgraded image properties.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -156,10 +162,10 @@ This interface is meant to edit patch upgraded image properties.
 **Array<IPatchTargetImage> TargetImages**  \-.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -173,10 +179,10 @@ This interface is meant to edit patch upgraded image properties.
 **DeleteTargetImage(IPatchTargetImage aTargetImage)** Deletes the specified targe image.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -218,22 +224,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/download-now-top-ranked-free-qualcomm-atheros-bluetooth-30-driver-software-ar3011-version/"><u>[Download Now]: Top-Ranked Free Qualcomm Atheros Bluetooth 3.0 Driver Software - AR3011 Version</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-ultimate-list-top-8-fb-movies-to-download-in-23/"><u>[New] 2024 Approved Ultimate List Top 8 FB Movies to Download in '23</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-htc-vive-headset-review/"><u>[New] In 2024, HTC Vive Headset Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-opening-and-playing-srt-on-pcmac/"><u>2024 Approved Expert Tips Opening and Playing SRT on PC/Mac</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-real-time-screen-replay-on-chrome-pcs/"><u>2024 Approved Real-Time Screen Replay on Chrome PCs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-brief-journey-into-the-past-the-origins-and-growth-of-electric-vehicle-technology/"><u>A Brief Journey Into the Past: The Origins and Growth of Electric Vehicle Technology</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/boost-your-sites-indexability-with-a-well-structured-xml-sitemap-strategy/"><u>Boost Your Site's Indexability with a Well-Structured XML Sitemap Strategy</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/busting-the-silence-restoring-mic-functionality-on-windows-10-computers/"><u>Busting the Silence: Restoring Mic Functionality on Windows 10 Computers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/detailed-app-analysis-the-ultimate-az-recorder-guide/"><u>Detailed App Analysis - The Ultimate AZ Recorder Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/genetic-markers-have-been-identified-that-may-predict-adverse-reactions-to-specific-chemotherapeutic-agents-improving-oncology-treatment-safety/"><u>Genetic Markers Have Been Identified that May Predict Adverse Reactions to Specific Chemotherapeutic Agents, Improving Oncology Treatment Safety.</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/grateful-acknowledgment-your-upgrade-to-splash-software-version-20/"><u>Grateful Acknowledgment - Your Upgrade to Splash Software, Version 2.0!</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-for-saving-videos-from-keezmovies-as-mp4-avi-or-mov-files/"><u>Step-by-Step Tutorial for Saving Videos From Keezmovies as MP4, AVI or MOV Files</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-converting-and-downloading-dumpert-videos-in-mp4-format-for-mac-os-x-and-microsoft-windows-systems/"><u>Step-by-Step Tutorial: Converting and Downloading Dumpert Videos in MP4 Format for Mac OS X & Microsoft Windows Systems</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/streaming-bbc-radio-shows-to-your-ipod-the-ultimate-guide-for-mac-and-pc-users/"><u>Streaming BBC Radio Shows to Your iPod: The Ultimate Guide for Mac & PC Users</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-ranked-keepr-viewer-alternatives-for-macos-and-catalina-free-downloads/"><u>Top-Ranked Keepr Viewer Alternatives for macOS and Catalina: FREE Downloads</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/troubleshooting-guide-resolving-issues-with-the-lynda-desktop-application-on-mac-and-windows/"><u>Troubleshooting Guide: Resolving Issues with the Lynda Desktop Application on Mac & Windows</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/udemy-learn-anywhere-ultimate-app-from-allavsoft-supporting-mac-windows-10-vista-users/"><u>Udemy Learn Anywhere: Ultimate App From Allavsoft Supporting Mac, Windows 10-Vista Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comparative-analysis-lowest-priced-cloud-vendors/"><u>[New] Comparative Analysis Lowest Priced Cloud Vendors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-expert-analysis-zdsoft-for-screen-recording/"><u>[New] Expert Analysis ZDSoft for Screen Recording</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-creating-clip-sensations-tiktoks-viral-guide-for-2024/"><u>[Updated] Creating Clip Sensations TikTok's Viral Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-full-screen-tips-for-premiere-pro-users/"><u>[Updated] Ultimate Full Screen Tips for Premiere Pro Users</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevating-video-popularity-on-youtube/"><u>2024 Approved Elevating Video Popularity on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-socialcapture-youtube-from-fb/"><u>2024 Approved SocialCapture - YouTube From FB</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/efficient-querying-techniques-with-xml-search-parameters-for-enhanced-information-extraction/"><u>Efficient Querying Techniques with XML Search Parameters for Enhanced Information Extraction</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/excellent-movie-selections-for-kids-on-netflix-platform/"><u>Excellent Movie Selections for Kids on Netflix Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tutorial-guide-to-fade-out-music-in-premiere-pro/"><u>In 2024, Tutorial Guide To Fade Out Music In Premiere Pro</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/simple-methods-to-transform-your-product-images-background-into-perfect-white-no-photoshop-required/"><u>Simple Methods to Transform Your Product Images' Background Into Perfect White - No Photoshop Required!</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-transforming-your-music-files-from-3ga-to-mp3-format/"><u>Step-by-Step Guide: Transforming Your Music Files From 3GA to MP3 Format</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/understanding-and-accessing-ftp-servers-a-comprehensive-guide/"><u>Understanding and Accessing FTP Servers: A Comprehensive Guide</u></a></li>
 </ul></div>
 

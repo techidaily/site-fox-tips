@@ -1,7 +1,7 @@
 ---
 title: "Custom COM Component Installation Guide: Your Step-by-Step Resource"
-date: 2024-09-29T09:58:23.332Z
-updated: 2024-09-29T17:36:39.739Z
+date: 2024-10-01T16:48:50.050Z
+updated: 2024-10-05T21:22:55.580Z
 tags:
   - user-guide
 categories:
@@ -82,26 +82,26 @@ On this page you can install and register COMs, Interfaces, COM+, Type Libraries
 
 ![Com page](https://cdn.advancedinstaller.com/img/ui/com-page.png "Com page")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding a new Class
 
 ![New Class](https://cdn.advancedinstaller.com/img/toolbar/new-class.png "New Class")Use the \[New Class \] toolbar button, the “New Class” tree context menu item or press the Insert key while the "COM, Interfaces, COM+, Type Libraries" panel is focused.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Adding a new Interface
 
 ![New Interface](https://cdn.advancedinstaller.com/img/toolbar/new-interface.png "New Interface") Use the \[New Interface \] toolbar button or the “New Interface” tree context menu item.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new type library
@@ -109,10 +109,10 @@ On this page you can install and register COMs, Interfaces, COM+, Type Libraries
 ![New Type Library](https://cdn.advancedinstaller.com/img/toolbar/new-type.png "New Type Library")Use the \[New Type Library \] toolbar button, the “New Type Library” tree context menu item or press the + key while the "COM, Interfaces, COM+, Type Libraries" panel is focused.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new COM+
@@ -120,41 +120,47 @@ On this page you can install and register COMs, Interfaces, COM+, Type Libraries
 ![New COM+](https://cdn.advancedinstaller.com/img/toolbar/new-com.png "New COM+")Use the \[New COM+ \] toolbar button, the “New COM+” tree context menu item or press the \* key while the "COM, Interfaces, COM+, Type Libraries" panel is focused.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Importing COM+
 
 ![Import COM+](https://cdn.advancedinstaller.com/img/toolbar/import-complus.png "Import COM+")Use the \[Import COM+ \] toolbar button or the “Import COM+” context menu item. 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Editing elements
 
 Use the “Rename” tree context menu item or press theF2 key while an element is selected.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Deleting elements
 
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove")Use the \[Delete \] toolbar button, the “Delete” tree context menu item or press the Delete key while an element from the "COM, Interfaces, COM+, Type Libraries" panel is selected. 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Converting Type Library
 
 ![Convert Type Library](https://cdn.advancedinstaller.com/img/toolbar/convert-type-library.png "Convert Type Library")Use the \[Convert Type Library \] toolbar button or the “Convert Type Library” tree context menu item while an element from the "COM, Interfaces, COM+, Type Libraries" panel is selected. 
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  By default, a type library defined in COM page will be handled and installed through the support of Windows Installer's _TypeLib_ table. Convert Type Library option will change this behavior by simply extracting the COM registration registries within the type library file and silently import them in [Registry](https://tools.techidaily.com/advancedinstaller/products/) page, without the support of _TypeLib_ table.
 
@@ -206,22 +212,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/he-ultimate-guide-8-real-world-promotion-tools-for-videos/"><u>[New] The Ultimate Guide 8 Real-World Promotion Tools for Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-beyond-the-ordinary-superior-share-like-software/"><u>[Updated] 2024 Approved Beyond the Ordinary Superior Share-Like Software</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-decoding-the-intelligent-shooting-methods-of-auto-3-and-4-hdr/"><u>[Updated] 2024 Approved Decoding the Intelligent Shooting Methods of Auto, 3 & 4 HDR</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-grab-and-store-the-quickest-tools-to-save-social-media-videos/"><u>[Updated] Grab & Store The Quickest Tools to Save Social Media Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-tools-for-efficient-mp4-segmentation-on-mac/"><u>[Updated] In 2024, Essential Tools for Efficient MP4 Segmentation on Mac</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-lenovo-thinkphone-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Lenovo ThinkPhone Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-landscapes-understanding-youtube-and-cc-divergences/"><u>Legal Landscapes Understanding YouTube & CC Divergences</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-fn-keys-functionality-on-windows-1011/"><u>Optimizing FN Keys' Functionality on Windows 10/11</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/seamless-music-format-switching-best-tidal-to-flac-rippers-compatible-with-both-windows-and-macos/"><u>Seamless Music Format Switching: Best Tidal to FLAC Rippers Compatible with Both Windows and macOS</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/secure-your-classroom-content-seamless-schooltube-downloads-in-mp4-or-avi-format-for-enhanced-learning-experiences/"><u>Secure Your Classroom Content: Seamless SchoolTube Downloads in MP4 or AVI Format for Enhanced Learning Experiences</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-converting-vrtbe-streams-into-multiple-video-formats/"><u>Step-by-Step Guide: Converting VRT.be Streams Into Multiple Video Formats</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-save-and-convert-domestika-online-learning-materials-to-popular-video-files/"><u>Step-by-Step Guide: Save and Convert Domestika Online Learning Materials to Popular Video Files</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-instructions-to-enjoy-taylor-swift-offline-learn-how-to-download-her-albums-in-mp3-or-aac-format/"><u>Step-by-Step Instructions to Enjoy Taylor Swift Offline - Learn How to Download Her Albums in MP3 or AAC Format!</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-for-saving-videos-from-keezmovies-as-mp4-avi-or-mov-files/"><u>Step-by-Step Tutorial for Saving Videos From Keezmovies as MP4, AVI or MOV Files</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-converting-and-downloading-dumpert-videos-in-mp4-format-for-mac-os-x-and-microsoft-windows-systems/"><u>Step-by-Step Tutorial: Converting and Downloading Dumpert Videos in MP4 Format for Mac OS X & Microsoft Windows Systems</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/streaming-bbc-radio-shows-to-your-ipod-the-ultimate-guide-for-mac-and-pc-users/"><u>Streaming BBC Radio Shows to Your iPod: The Ultimate Guide for Mac & PC Users</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/the-ultimate-guide-to-blurring-videos-online-for-free-updated-2023-for-2024/"><u>The Ultimate Guide to Blurring Videos Online for Free (Updated 2023) for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/everaging-youtube-studio-across-devices-for-2024/"><u>[New] Leveraging Youtube Studio Across Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-the-secrets-to-earnings-on-youtube-shorts/"><u>[New] Unlocking the Secrets to Earnings on YouTube Shorts</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/and-iphone-8-users/"><u>And iPhone 8 Users</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/building-personalized-actions-with-net-an-intuitive-guide/"><u>Building Personalized Actions with .NET - An Intuitive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-yakuza-6-pc-game-crashes-and-play-smoothly/"><u>How to Fix Yakuza 6 PC Game Crashes and Play Smoothly?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-ice-cream-video-recorder-exploration-in-depth/"><u>In 2024, Ice Cream Video Recorder Exploration in Depth</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pot-player-review/"><u>In 2024, POT Player Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-uncovering-asmr-truths-for-viewers/"><u>In 2024, Uncovering ASMR Truths for Viewers</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-capturing-whatsapp-messages-across-all-devices/"><u>Step-by-Step Guide: Capturing WhatsApp Messages Across All Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-syma-x5c-your-first-drones-best-friend-for-2024/"><u>The Ultimate Guide to Syma X5C – Your First Drone's Best Friend for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-5-free-android-apps-for-effortless-mobile-video-transcoding/"><u>Top 5 Free Android Apps for Effortless Mobile Video Transcoding</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-rated-photo-editing-tools-with-transparent-background-features/"><u>Top Rated Photo Editing Tools with Transparent Background Features</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/ultimate-iphone-slide-show-creator-the-1-pick-for-mobile-presentations/"><u>Ultimate iPhone Slide Show Creator: The #1 Pick for Mobile Presentations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-hulus-rununk13-a-comprehensive-guide-and-troubleshooting-tips/"><u>Understanding Hulu's RUNUNK13: A Comprehensive Guide & Troubleshooting Tips</u></a></li>
 </ul></div>
 

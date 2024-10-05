@@ -1,7 +1,7 @@
 ---
 title: Building Personalized Actions with .NET - An Intuitive Guide
-date: 2024-09-29T01:42:31.686Z
-updated: 2024-09-29T16:53:55.539Z
+date: 2024-09-29T21:28:03.400Z
+updated: 2024-10-05T17:31:12.111Z
 tags:
   - user-guide
 categories:
@@ -129,22 +129,15 @@ Table of Contents
 
 IDotNetCustomAction : ICustomAction
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Overview
 
 This is a custom action that launches a .NET Assembly. The assembly must have a class that inherits the Installer class with the RunInstaller attribute set to true.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -162,10 +155,10 @@ This is a custom action that launches a .NET Assembly. The assembly must have a 
 **RemoveParameter(INetParameter aParameter)** \- Removes and destroys the specified parameter.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Examples
@@ -176,10 +169,10 @@ $dllFile = $project.FilesComponent.AddFileS("appdir", "D:\DotNetCustomAction.dll
 $custActs = $project.CustomActionsComponent.NewLaunchInstalledFile($dllFile)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## There are 2 custom actions because “DotNetCustomAction.dll” is build for “Any CPU” platform
@@ -189,6 +182,13 @@ $custActs[1].ConfigFilePath = "[TempFolder]DotNetCustomAction.dll_Config.xml"
 $custActs[1].AddParameter("new parameter", "parameter value")
 
 Copy
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -229,24 +229,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-untold-elements-of-instagram-story-engagement/"><u>[New] 2024 Approved The Untold Elements of Instagram Story Engagement</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-choosing-the-clearer-display-ultrawide-vs-uhd-4k-explored/"><u>[New] Choosing the Clearer Display UltraWide vs UHD 4K Explored</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-earnings-guide-achieving-profitability-through-view-counts/"><u>[Updated] YouTube Earnings Guide Achieving Profitability Through View Counts</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1-free-open-source-argon-css-framework-based-on-bootstrap-4-by-creative-tim/"><u>1. Free, Open-Source Argon CSS Framework Based on Bootstrap 4 by Creative Tim</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/advanced-creative-tim-and-updivision-pro-dashboard-design-with-soft-ui-for-laravel-applications/"><u>Advanced Creative Tim & UPDIVISION Pro Dashboard Design with Soft UI for Laravel Applications</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/advanced-pro-user-interface-dashboard-using-laravel-livewire-a-joint-venture-by-creative-tim-and-updivision/"><u>Advanced Pro User Interface Dashboard Using Laravel Livewire: A Joint Venture by Creative Tim & UPDIVISION</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/comprehensive-vue-based-material-dashboard-for-laravel-developers-with-json-api-integration-by-creative-tim-professional-edition/"><u>Comprehensive Vue-Based Material Dashboard for Laravel Developers with JSON API Integration by Creative Tim - Professional Edition</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/creative-tims-65-page-collection-of-free-design-assets-and-templates-using-the-argon-design-system/"><u>Creative Tim's 65-Page Collection of Free Design Assets and Templates Using the Argon Design System</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/creative-tims-nuxt-black-a-complimentary-admin-template-with-nuxt-and-bootstrap-3/"><u>Creative Tim's Nuxt Black: A Complimentary Admin Template with Nuxt & Bootstrap 3</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/discover-the-ultimate-combination-of-react-frameworks-with-nextjs-and-material-ui-bundle-by-creative-tim-absolutely-free/"><u>Discover the Ultimate Combination of React Frameworks with NextJS & Material UI Bundle by Creative Tim - Absolutely Free!</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/grateful-acknowledgment-your-upgrade-to-splash-software-version-20/"><u>Grateful Acknowledgment - Your Upgrade to Splash Software, Version 2.0!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-elevate-your-stories-advanced-bokeh-techniques/"><u>In 2024, Elevate Your Stories Advanced Bokeh Techniques</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-isolated-viewers-to-shared-experiences-online/"><u>In 2024, From Isolated Viewers to Shared Experiences Online</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-see-who-viewed-your-instagram-post/"><u>In 2024, How to See Who Viewed Your Instagram Post</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-ideas-for-making-your-podcast-stand-out-visually/"><u>In 2024, Top 10 Ideas for Making Your Podcast Stand Out Visually</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-video-invitation-makers-for-smartphone-users/"><u>New The Ultimate List of Video Invitation Makers for Smartphone Users</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-setting-up-and-implementing-auto-update-features-in-action/"><u>Step-by-Step Guide: Setting Up & Implementing Auto-Update Features in Action!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-atandt-mobile-roaming-terms-and-conditions/"><u>Understanding AT&T Mobile Roaming Terms and Conditions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-expert-tips-for-safaris-picture-and-window-sharing-feature/"><u>2024 Approved Expert Tips for Safari's Picture and Window Sharing Feature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-apple-watch-touch-sensitivity-issues-insights-into-non-responsive-displays/"><u>Addressing Apple Watch Touch Sensitivity Issues: Insights Into Non-Responsive Displays</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/boost-your-content-20-premium-tiktok-caption-strategies-for-2024/"><u>Boost Your Content 20 Premium TikTok Caption Strategies for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/bypass-icloud-locks-on-your-iphoneipad-with-premium-crack-programs-expert-reviews-and-comparisons/"><u>Bypass iCloud Locks on Your iPhone/iPad with Premium Crack Programs - Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/comprehensive-guide-on-rat-infections-and-effective-defenses-against-remote-access-hacking/"><u>Comprehensive Guide on RAT Infections & Effective Defenses Against Remote Access Hacking</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/customizing-your-path-variables-easy-editing-tutorial/"><u>Customizing Your PATH Variables: Easy Editing Tutorial</u></a></li>
+<li><a href="https://facebook.techidaily.com/enhance-your-conversation-security-with-end-to-end-encrypted-services-on-facebook/"><u>Enhance Your Conversation Security with End-to-End Encrypted Services on Facebook</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/evasion-tactics-can-malware-bypass-detection-in-task-manager-insights-by-malwarefox/"><u>Evasion Tactics: Can Malware Bypass Detection in Task Manager - Insights by MalwareFox</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-financial-flip-understanding-1-million-views-payoff/"><u>In 2024, The Financial Flip Understanding 1 Million Views Payoff</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-the-leading-cloud-services-with-best-price/"><u>In 2024, The Leading Cloud Services with Best Price</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/mastering-ui-hierarchies-strategic-approaches-to-organizing-page-groups/"><u>Mastering UI Hierarchies: Strategic Approaches to Organizing Page Groups</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/new-updates-on-various-project-categories/"><u>New Updates on Various Project Categories</u></a></li>
+<li><a href="https://extra-support.techidaily.com/space-requirements-for-hd-video-on-64gb-for-2024/"><u>Space Requirements for HD Video on 64GB for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-how-to-alter-picture-backgrounds-with-a-photo-editing-tool/"><u>Step-by-Step Guide: How to Alter Picture Backgrounds with a Photo Editing Tool</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-protect-your-whatsapp-from-cyber-threats/"><u>Step-by-Step Tutorial: Protect Your WhatsApp From Cyber Threats</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/the-ultimate-tutorial-how-to-trim-photos-inside-a-pdf-document-using-windows-software-tools/"><u>The Ultimate Tutorial: How to Trim Photos Inside a PDF Document Using Windows Software Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/total-zen-closing-virtual-horizons/"><u>Total Zen Closing Virtual Horizons</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-s17t-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo S17t? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

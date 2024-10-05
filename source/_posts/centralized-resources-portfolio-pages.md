@@ -1,7 +1,7 @@
 ---
 title: Centralized Resources Portfolio Pages
-date: 2024-09-24T09:04:06.487Z
-updated: 2024-09-30T09:11:25.041Z
+date: 2024-10-03T18:46:07.124Z
+updated: 2024-10-05T18:59:22.751Z
 tags:
   - user-guide
 categories:
@@ -78,10 +78,16 @@ The “Resources” pages allow you to specify the structure of the project. In 
 ![Resources](https://cdn.advancedinstaller.com/img/ui/page-resources.png "Resources")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -136,22 +142,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-gold-standard-of-livestream-performances/"><u>[New] In 2024, Gold Standard of Livestream Performances</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-9-best-4k-monitors-for-video-editing/"><u>[Updated] 9 Best 4K Monitors for Video Editing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/achieve-fitness-goals-in-style-the-comprehensive-review-of-the-garmin-vivomove-hr-smartwatch/"><u>Achieve Fitness Goals in Style: The Comprehensive Review of the Garmin Vivomove HR Smartwatch</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/how-to-live-streaming-360-video-to-youtube/"><u>How to Live Streaming 360 Video to Youtube</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-comprehending-drone-systems-mechanics-and-applications-explained/"><u>In 2024, Comprehending Drone Systems Mechanics and Applications Explained</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/instant-recovery-of-vanished-reddit-topics-for-2024/"><u>Instant Recovery of Vanished Reddit Topics for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/mp4-downloading-essentials-for-afreecatv-viewers-using-a-mac-or-pc/"><u>MP4 Downloading Essentials for AfreecaTV Viewers Using a Mac or PC</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/quickly-enhance-your-images-with-top-tier-restoration-services/"><u>Quickly Enhance Your Images with Top-Tier Restoration Services</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/save-and-download-naver-streams-as-multiple-file-types-for-windows-and-macos-systems/"><u>Save and Download Naver Streams as Multiple File Types for Windows and macOS Systems</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/seamless-music-format-switching-best-tidal-to-flac-rippers-compatible-with-both-windows-and-macos/"><u>Seamless Music Format Switching: Best Tidal to FLAC Rippers Compatible with Both Windows and macOS</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/secure-your-classroom-content-seamless-schooltube-downloads-in-mp4-or-avi-format-for-enhanced-learning-experiences/"><u>Secure Your Classroom Content: Seamless SchoolTube Downloads in MP4 or AVI Format for Enhanced Learning Experiences</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-converting-vrtbe-streams-into-multiple-video-formats/"><u>Step-by-Step Guide: Converting VRT.be Streams Into Multiple Video Formats</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-save-and-convert-domestika-online-learning-materials-to-popular-video-files/"><u>Step-by-Step Guide: Save and Convert Domestika Online Learning Materials to Popular Video Files</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-instructions-to-enjoy-taylor-swift-offline-learn-how-to-download-her-albums-in-mp3-or-aac-format/"><u>Step-by-Step Instructions to Enjoy Taylor Swift Offline - Learn How to Download Her Albums in MP3 or AAC Format!</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-converting-and-downloading-dumpert-videos-in-mp4-format-for-mac-os-x-and-microsoft-windows-systems/"><u>Step-by-Step Tutorial: Converting and Downloading Dumpert Videos in MP4 Format for Mac OS X & Microsoft Windows Systems</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/unleash-creativity-with-top-10-phone-apps-adding-stickers-to-images/"><u>Unleash Creativity with Top 10 Phone Apps Adding Stickers to Images</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/horeographing-climactic-crescendos/"><u>[New] Choreographing Climactic Crescendos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-a-comprehensive-guide-to-building-facebook-slideshow-mastery-for-2024/"><u>[Updated] A Comprehensive Guide to Building Facebook Slideshow Mastery for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/achieving-peak-performance-with-updated-hyperx-soundcard-drivers/"><u>Achieving Peak Performance with Updated HyperX Soundcard Drivers</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-infinix-zero-5g-2023-turbo-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Infinix Zero 5G 2023 Turbo? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-and-fortify-dotnet-windows-style-max-156/"><u>Fix & Fortify DotNet, Windows Style (Max 156)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-13-pro-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone 13 Pro The Right Way</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-identify-phony-it-assistance-cons-jobs-and-shield-your-personal-info/"><u>How to Identify Phony IT Assistance Cons Jobs & Shield Your Personal Info</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unraveling-the-mystery-of-non-exporting-srt-in-premiere/"><u>In 2024, Unraveling the Mystery of Non-Exporting SRT in Premiere</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/mastering-software-installation-with-enhanced-ribbon-features-and-options/"><u>Mastering Software Installation with Enhanced Ribbon Features and Options</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/streaming-fifa-world-cup-live-mobile-app-to-pc-setup-guide/"><u>Streaming FIFA World Cup Live: Mobile App to PC Setup Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/ultimate-troubleshooting-guide-resolving-itunes-cant-read-iphone-content-error/"><u>Ultimate Troubleshooting Guide: Resolving 'iTunes Can't Read iPhone Content' Error</u></a></li>
 </ul></div>
 

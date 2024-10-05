@@ -1,7 +1,7 @@
 ---
 title: "Understanding and Accessing FTP Servers: A Comprehensive Guide"
-date: 2024-09-27T04:57:12.974Z
-updated: 2024-09-29T22:27:07.936Z
+date: 2024-10-01T20:43:11.594Z
+updated: 2024-10-05T16:50:18.777Z
 tags:
   - user-guide
 categories:
@@ -98,10 +98,10 @@ Table of Contents
 ![Ftp access](https://cdn.advancedinstaller.com/img/ui/ftp-access.png "Ftp access")  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Create FTP access
@@ -121,10 +121,10 @@ ftp://yourdomain/parent_web_site_name/virtual_directory_name
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Set NTFS security flags
@@ -132,10 +132,10 @@ Copy
 Enable this option to allow anonymous FTP connection in case this access mode is used. Otherwise only a registered user on the target machine, having the proper access rights, can connect through FTP.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### FTP Access rights
@@ -175,21 +175,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-prevent-unwanted-recordings-quit-time-tricks/"><u>[New] Prevent Unwanted Recordings Quit Time Tricks</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-discovering-10-must-love-aspects-in-filmora-editing/"><u>[Updated] Discovering 10 Must-Love Aspects in Filmora Editing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-bite-sized-urls-essential-tools-for-youtubers-to-streamline-sharing/"><u>[Updated] In 2024, Bite-Sized URLs Essential Tools for Youtubers to Streamline Sharing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme V30T? | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effortless-laola1tv-content-retrieval-for-your-computer-secure-video-grabs/"><u>Effortless LAOLA1.TV Content Retrieval for Your Computer - Secure Video Grabs</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/excellent-substitutes-for-dentex-effortless-youtube-downloading-on-windows-and-macos-systems/"><u>Excellent Substitutes for Dentex: Effortless YouTube Downloading on Windows & MacOS Systems</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/guide-ultime-telecharger-en-mp4-des-videos-de-jeuxvideo/"><u>Guide Ultime : Télécharger en MP4 Des Vidéos De Jeuxvidéo</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/guide-steps-to-successfully-download-content-from-motherless-platforms/"><u>Guide: Steps to Successfully Download Content From Motherless Platforms</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-securely-download-films-from-imdb-a-step-by-step-guide/"><u>How to Securely Download Films From IMDb - A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-selection-of-high-caliber-free-luts/"><u>In 2024, Exclusive Selection of High-Caliber Free LUTs</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-y78plus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo Y78+ Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/mp4-downloading-essentials-for-afreecatv-viewers-using-a-mac-or-pc/"><u>MP4 Downloading Essentials for AfreecaTV Viewers Using a Mac or PC</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/save-and-download-naver-streams-as-multiple-file-types-for-windows-and-macos-systems/"><u>Save and Download Naver Streams as Multiple File Types for Windows and macOS Systems</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/est-of-yt-a-deep-dive-into-music-dance-clips-23-for-2024/"><u>The Best of YT A Deep Dive Into Music Dance Clips, '23 for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-impact-of-climate-change-on-the-future-availability-and-distribution-of-ophiocordyceps-sinensis/"><u>The Impact of Climate Change on the Future Availability and Distribution of Ophiocordyceps Sinensis.</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-luts-as-the-key-to-vivid-film-colors-for-2024/"><u>[New] Luts as the Key to Vivid Film Colors for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-format-fluidity-convert-srt-quickly/"><u>[New] Unlocking Format Fluidity Convert SRT Quickly</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-science-of-display-understanding-srgb-vs-rgb-colors/"><u>[Updated] 2024 Approved The Science of Display Understanding Srgb vs Rgb Colors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-stream-like-a-pro-top-5-cams-revolutionizing-live-broadcasts-on-twitch/"><u>[Updated] In 2024, Stream Like a Pro Top 5 Cams Revolutionizing Live Broadcasts on Twitch</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breakthrough-in-drone-tech-yuneec-q500-4k/"><u>2024 Approved Breakthrough in Drone Tech Yuneec Q500 4K</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/5-top-free-image-enhancement-tools-for-ebay-listings-boost-your-product-photography/"><u>5 Top Free Image Enhancement Tools for eBay Listings: Boost Your Product Photography</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/comprehensive-overview-of-setting-customization-options/"><u>Comprehensive Overview of Setting Customization Options</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/effortless-guide-converting-jpg-images-into-pdf-format-on-your-pc/"><u>Effortless Guide: Converting JPG Images Into PDF Format on Your PC</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/explore-sql-server-databases-a-comprehensive-guide/"><u>Explore SQL Server Databases: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/exploring-im6-limitations-in-driving-performance-an-in-depth-analysis/"><u>Exploring IM6 Limitations in Driving Performance: An In-Depth Analysis</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/revealing-hidden-applications-a-step-by-step-guide-for-iphones/"><u>Revealing Hidden Applications: A Step-by-Step Guide for iPhones</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/strategies-for-adjusting-music-tempo-on-spotify-app-for-2024/"><u>Strategies for Adjusting Music Tempo on Spotify App for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-4-windows-apps-for-webp-image-inspectors/"><u>Top 4 Windows Apps for WebP Image Inspectors</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-rated-flv-format-conversion-tools-unlocking-peak-performance/"><u>Top-Rated Flv Format Conversion Tools: Unlocking Peak Performance</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/ultimate-guide-how-to-integrate-emojis-into-your-videos/"><u>Ultimate Guide: How to Integrate Emojis Into Your Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uninstall-software-efficiently-on-your-mac-system/"><u>Uninstall Software Efficiently on Your Mac System</u></a></li>
 </ul></div>
 

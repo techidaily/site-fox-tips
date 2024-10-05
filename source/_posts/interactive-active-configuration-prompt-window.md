@@ -1,7 +1,7 @@
 ---
 title: Interactive Active Configuration Prompt Window
-date: 2024-09-26T08:39:30.891Z
-updated: 2024-09-30T11:15:18.079Z
+date: 2024-10-04T18:50:53.433Z
+updated: 2024-10-05T17:31:57.219Z
 tags:
   - user-guide
 categories:
@@ -84,10 +84,10 @@ In this dialog, you can configure the Active Setup command options.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)All fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -107,16 +107,10 @@ Specify the Stub Path. This represents a valid command line that will be execute
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Stud Path can also be a VBS script, a regsvr32.exe call, etc.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Version
@@ -137,17 +131,23 @@ Specify whether the component command will run once per user or it will not run 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Possible values : 1, 0. The default value is 1.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -187,24 +187,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-original-pfp-concepts-to-make-your-tiktok-presence-unforgettable/"><u>[New] 2024 Approved Original PFP Concepts to Make Your TikTok Presence Unforgettable</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-a-detailed-exposition-on-harnessing-power-of-adobes-cloud-data-vaults/"><u>[New] A Detailed Exposition on Harnessing Power of Adobe's Cloud Data Vaults</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-complete-encyclopedia-of-tweetresponses/"><u>2024 Approved The Complete Encyclopedia of TweetResponses</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/accessing-your-flipbuilder-ebook-content-on-iphones-ipads-or-android-phones-a-step-by-step-guide/"><u>Accessing Your FlipBuilder eBook Content on iPhones, iPads, or Android Phones: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/adding-dates-and-times-in-rtf-and-txt-files-during-flipbook-conversion-flipbuilder-guide/"><u>Adding Dates & Times in RTF and TXT Files During FlipBook Conversion - FlipBuilder Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/compatibility-of-flipbuilder-created-ebooks-with-apples-ipad-a-comprehensive-guide/"><u>Compatibility of FlipBuilder Created eBooks with Apple's iPad: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/comprehensive-guide-mastering-the-art-of-flip-builders-chm-knowledge-platform/"><u>Comprehensive Guide: Mastering the Art of Flip Builder's CHM Knowledge Platform</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/create-a-personalized-photobook-at-home-with-ease-discover-the-step-by-step-guide-on-flipbuilder/"><u>Create a Personalized Photobook at Home with Ease - Discover the Step-by-Step Guide on FlipBuilder</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-to-follow-instructions-updating-canon-ip110-printer-drivers-on-any-windows-system/"><u>Easy-to-Follow Instructions: Updating Canon iP110 Printer Drivers on Any Windows System</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effortless-batch-conversion-from-pdf-to-microsoft-word-format-at-no-cost-on-flipbuildercom/"><u>Effortless Batch Conversion From PDF to Microsoft Word Format at No Cost on FlipBuilder.com</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-best-value-in-tablets-2020-review-of-lenovo-tab-m10-and-its-impressive-display-quality/"><u>Exploring the Best Value in Tablets: 2020 Review of Lenovo Tab M10 and Its Impressive Display Quality</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-galaxy-m34-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung Galaxy M34 5G</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-zoomy-zappers-fastest-flash-fueled-apps-for-phones-and-pcs/"><u>In 2024, Zoomy Zappers Fastest Flash-Fueled Apps for Phones & PCs</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/professional-paper-pro-kit-advanced-bootstrap-user-interface-by-creative-tim/"><u>Professional Paper Pro Kit: Advanced Bootstrap User Interface by Creative Tim</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-xs-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone XS Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/section-2a-understanding-scale-ratios-and-representation/"><u>Section 2A: Understanding Scale Ratios and Representation</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/ucc-article-grocery-sales-but-not-services-or-real-estate/"><u>UCC Article Grocery Sales, but Not Services or Real Estate.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-chatbots-in-human-like-discussions/"><u>Understanding Chatbots in Human-Like Discussions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unveiling-the-art-of-smoothing-zoom-screenshots/"><u>[New] 2024 Approved Unveiling the Art of Smoothing Zoom Screenshots</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-best-youtube-video-reverser-online-plushowtos/"><u>[Updated] Best YouTube Video Reverser Online [+Howtos]</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/easy-to-use-quicktime-tool-free-videoaudio-recording-software/"><u>Easy-to-Use QuickTime Tool - Free Video/Audio Recording Software</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/effortless-techniques-for-converting-pages-into-words-top-tips-and-tools/"><u>Effortless Techniques for Converting Pages Into Words - Top Tips & Tools</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/expert-tips-for-restoring-pictures-on-an-unresponsive-iphone-a-comprehensive-walkthrough/"><u>Expert Tips for Restoring Pictures on an Unresponsive iPhone - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/free-online-3gp-video-converter-effortlessly-transform-your-videos-into-compatible-mobile-format/"><u>Free Online 3GP Video Converter: Effortlessly Transform Your Videos Into Compatible Mobile Format</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-seamlessly-acquire-and-enjoy-personalized-audio-collections-online/"><u>How to Seamlessly Acquire and Enjoy Personalized Audio Collections Online</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-search-for-proof-of-registration-entry-in-databases/"><u>How to Search for Proof of Registration Entry in Databases</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/navigating-the-nuances-of-ps4-live-gaming-recordings-for-2024/"><u>Navigating the Nuances of PS4 Live Gaming Recordings for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/pc-playthroughs-unleashed-the-ultimate-tutorial-on-livestreaming-call-of-duty-mobile-battles/"><u>PC Playthroughs Unleashed: The Ultimate Tutorial on Livestreaming Call of Duty Mobile Battles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplifying-your-email-life-a-comprehensive-guide-to-categorization-with-gmail-labels/"><u>Simplifying Your Email Life: A Comprehensive Guide to Categorization with Gmail Labels</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-the-top-6-superior-desktop-and-web-based-chrome-audio-recording-tools/"><u>Ultimate Guide: The Top 6 Superior Desktop and Web-Based Chrome Audio Recording Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027749538-vlc/"><u>VLCメディアプレーヤーによるスライドショー制作の手順</u></a></li>
 </ul></div>
 

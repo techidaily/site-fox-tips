@@ -1,7 +1,7 @@
 ---
 title: Adjusting Features in the Modify Element Parameters Panel
-date: 2024-09-27T08:32:38.527Z
-updated: 2024-09-29T21:03:40.646Z
+date: 2024-10-03T17:05:41.946Z
+updated: 2024-10-05T17:16:23.666Z
 tags:
   - user-guide
 categories:
@@ -80,19 +80,19 @@ Table of Contents
 ![Edit Components Properties](https://cdn.advancedinstaller.com/img/dialog/edit-component-properties.png "Edit Components Properties")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -100,10 +100,10 @@ Table of Contents
 A Windows Installer condition which is evaluated and the result determines the component's installation. If the condition is evaluated as false, the component is not installed. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Do not register this component with Windows Installer
@@ -111,10 +111,10 @@ A Windows Installer condition which is evaluated and the result determines the c
  If this option is selected the component will have an empty GUID and thus it will not be registered. This means that the component cannot be removed, repaired or patched by the installer. This might be useful if you intend to service/uninstall the component yourself (using a custom action, for instance).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Attributes
@@ -171,22 +171,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-elevate-your-slow-motion-on-mobile-with-these-apps/"><u>[New] Elevate Your Slow Motion on Mobile with These Apps</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1-free-open-source-argon-css-framework-based-on-bootstrap-4-by-creative-tim/"><u>1. Free, Open-Source Argon CSS Framework Based on Bootstrap 4 by Creative Tim</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-kinetic-mastery-in-your-pocket-a-2023-review-of-kinemaster-on-android/"><u>2024 Approved Kinetic Mastery in Your Pocket A 2023 Review of KineMaster on Android</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-nubia-z50s-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Nubia Z50S Pro System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/boost-your-sites-indexability-with-a-well-structured-xml-sitemap-strategy/"><u>Boost Your Site's Indexability with a Well-Structured XML Sitemap Strategy</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-to-download-safe-and-effective-sades-headset-driver-for-windows-operating-systems/"><u>Easy-to-Download Safe & Effective Sades Headset Driver for Windows Operating Systems</u></a></li>
-<li><a href="https://facebook.techidaily.com/essential-tips-for-fb-privacy-settings/"><u>Essential Tips for FB Privacy Settings</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/grateful-acknowledgment-your-upgrade-to-splash-software-version-20/"><u>Grateful Acknowledgment - Your Upgrade to Splash Software, Version 2.0!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-google-pixel-fold-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Google Pixel Fold Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-meizu-21-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Meizu 21 Pro Phone? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-apple-iphone-11-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or Apple iPhone 11 without iCloud Password or Apple ID?</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-setting-up-and-implementing-auto-update-features-in-action/"><u>Step-by-Step Guide: Setting Up & Implementing Auto-Update Features in Action!</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/streaming-bbc-radio-shows-to-your-ipod-the-ultimate-guide-for-mac-and-pc-users/"><u>Streaming BBC Radio Shows to Your iPod: The Ultimate Guide for Mac & PC Users</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-ranked-keepr-viewer-alternatives-for-macos-and-catalina-free-downloads/"><u>Top-Ranked Keepr Viewer Alternatives for macOS and Catalina: FREE Downloads</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/troubleshooting-guide-resolving-issues-with-the-lynda-desktop-application-on-mac-and-windows/"><u>Troubleshooting Guide: Resolving Issues with the Lynda Desktop Application on Mac & Windows</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/udemy-learn-anywhere-ultimate-app-from-allavsoft-supporting-mac-windows-10-vista-users/"><u>Udemy Learn Anywhere: Ultimate App From Allavsoft Supporting Mac, Windows 10-Vista Users</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/sh-your-youtube-potential-with-easy-techniques/"><u>Unleash Your YouTube Potential with Easy Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-streamlining-videography-optimize-for-instagram/"><u>[New] Streamlining Videography Optimize For Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-adding-pizzazz-to-your-footage-with-moving-text/"><u>[Updated] Adding Pizzazz to Your Footage with Moving Text</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beat-to-visuals-an-iphone-guide-for-music-videos/"><u>[Updated] Beat to Visuals An iPhone Guide for Music Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-choosing-the-best-camera-for-filming-mirrorless-or-dslr/"><u>2024 Approved Choosing the Best Camera for Filming Mirrorless or DSLR</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/attention-magnet-article-initiator-for-2024/"><u>Attention Magnet Article Initiator for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-launch-failures-a-comprehensive-guide-to-fixing-overwatch-2-not-starting/"><u>Beat Launch Failures: A Comprehensive Guide to Fixing 'Overwatch 2 Not Starting'</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/expert-tips-for-restoring-pictures-on-an-unresponsive-iphone-a-comprehensive-walkthrough/"><u>Expert Tips for Restoring Pictures on an Unresponsive iPhone - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/free-online-3gp-video-converter-effortlessly-transform-your-videos-into-compatible-mobile-format/"><u>Free Online 3GP Video Converter: Effortlessly Transform Your Videos Into Compatible Mobile Format</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/gb-required-for-one-full-movie-hour-by-hour-for-2024/"><u>GB Required for One Full Movie, Hour by Hour for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-search-for-proof-of-registration-entry-in-databases/"><u>How to Search for Proof of Registration Entry in Databases</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/idefault-program-fa-qanda-your-guide-to-understanding-and-optimizing-the-default-application/"><u>IDefault Program FA Q&A - Your Guide to Understanding and Optimizing the Default Application</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/pc-playthroughs-unleashed-the-ultimate-tutorial-on-livestreaming-call-of-duty-mobile-battles/"><u>PC Playthroughs Unleashed: The Ultimate Tutorial on Livestreaming Call of Duty Mobile Battles</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-repair-successfully-downloading-minecraft-onto-windows-11/"><u>Step-by-Step Repair: Successfully Downloading Minecraft Onto Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-s23-fe-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy S23 FE FRP</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/successful-file-retrieval-on-ipads-a-step-by-step-guide-to-restoring-lost-data/"><u>Successful File Retrieval on iPads: A Step-by-Step Guide to Restoring Lost Data</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/tailored-pre-launch-checklist-and-requirements-analysis/"><u>Tailored Pre-Launch Checklist and Requirements Analysis</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Updates on Various Project Categories
-date: 2024-09-27T07:18:01.935Z
-updated: 2024-09-30T11:40:38.373Z
+date: 2024-10-04T16:07:46.615Z
+updated: 2024-10-05T19:38:58.143Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,16 @@ Table of Contents
 ## Updates Project Types
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Patch
@@ -91,17 +97,23 @@ Table of Contents
 ![Patch Project](https://cdn.advancedinstaller.com/img/project/patch.png "Patch Project") This type of project gives you the possibility to create [Patches](https://tools.techidaily.com/advancedinstaller/products/) for your installations. Note that this project type requires an Enterprise license.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Updates Configuration
@@ -109,10 +121,10 @@ Table of Contents
 ![Update Project](https://cdn.advancedinstaller.com/img/project/update.png "Update Project")This type of project gives you the possibility to create an [Updates Configuration File](https://tools.techidaily.com/advancedinstaller/products/). Note that this project type requires a Professional license.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -148,18 +160,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/rom-free-to-fortune-the-500-sub-club/"><u>[New] From Free to Fortune The 500-Sub Club</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-10-essential-stages-for-proficient-smm-expertise/"><u>[Updated] Navigating 10 Essential Stages for Proficient SMM Expertise</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/cutting-edge-techniques-to-elevate-fb-video-in-full-screen-for-2024/"><u>Cutting Edge Techniques to Elevate FB Video in Full Screen for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/download-vevo-songs-in-high-quality-formats-mp4-mp3-avi-for-mac-and-pc/"><u>Download Vevo Songs in High-Quality Formats (MP4, MP3, AVI) for Mac & PC</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/downloading-your-favorite-bravo-tv-episodes-in-various-formats-on-windows-or-mac-computers/"><u>Downloading Your Favorite Bravo TV Episodes in Various Formats on Windows or Mac Computers</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/easy-guide-on-converting-your-iptv-m3u-streams-into-high-quality-audio-formats-like-mp3-and-flac/"><u>Easy Guide on Converting Your IPTV M3U Streams Into High-Quality Audio Formats Like MP3 and FLAC</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/easy-steps-for-acquiring-every-asce-webinar-session-in-video-mp4-and-audio-mp3-formats/"><u>Easy Steps for Acquiring Every ASCE Webinar Session in Video (MP4) & Audio (MP3) Formats</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effortless-laola1tv-content-retrieval-for-your-computer-secure-video-grabs/"><u>Effortless LAOLA1.TV Content Retrieval for Your Computer - Secure Video Grabs</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/excellent-substitutes-for-dentex-effortless-youtube-downloading-on-windows-and-macos-systems/"><u>Excellent Substitutes for Dentex: Effortless YouTube Downloading on Windows & MacOS Systems</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-apple-iphone-11-pro-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From Apple iPhone 11 Pro without Password?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-merge-speeches-and-music-into-slides-sequences/"><u>In 2024, Merge Speeches and Music Into Slides Sequences</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-non-retweet-strategies-for-mobile-video-shares/"><u>In 2024, Non-Retweet Strategies for Mobile Video Shares</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-pro-video-editor-convert-casual-clips-into-cinematic-masterpieces/"><u>Updated In 2024, Pro Video Editor Convert Casual Clips Into Cinematic Masterpieces</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/est-10-free-youtube-subtitle-extractors-and-downloaders/"><u>[New] Best 10 Free YouTube Subtitle Extractors & Downloaders</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-samsung-galaxy-s24-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Samsung Galaxy S24 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/localized-conversation-interface-optimizing-user-experience/"><u>Localized Conversation Interface: Optimizing User Experience</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/pre-launch-preparation-steps-ensuring-a-successful-product-release/"><u>Pre-Launch Preparation Steps: Ensuring a Successful Product Release</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-to-restoring-your-chrome-firefox-and-edge-browsers-to-factory-settings/"><u>Step-by-Step Guide to Restoring Your Chrome, Firefox & Edge Browsers to Factory Settings</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/streamline-the-conversion-process-top-tips-to-transform-4k-into-full-hd-with-ease/"><u>Streamline the Conversion Process: Top Tips to Transform 4K Into Full HD with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721939776271-tailor-your-text-experience-openais-gpt-custom-shops/"><u>Tailor Your Text Experience – OpenAI's GPT Custom Shops!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/troubleshooting-tips-for-optimizing-msi-bios-with-older-windows/"><u>Troubleshooting Tips for Optimizing MSI BIOS with Older Windows</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/understanding-the-configuration-options-in-xml-file-preferences/"><u>Understanding the Configuration Options in XML File Preferences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-creativity-final-cut-pros-top-10-plug-ins-for-2024/"><u>Unleash Creativity Final Cut Pro’s Top 10 Plug-Ins for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/unlock-the-potential-of-your-business-with-advanced-import-registry-file-techniques/"><u>Unlock the Potential of Your Business with Advanced Import Registry File Techniques</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-4k-perfection-the-most-jaw-dropping-video-samples-out-there/"><u>Updated 2024 Approved 4K Perfection The Most Jaw-Dropping Video Samples Out There</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor Magic 5 Lite? | Dr.fone</u></a></li>
 </ul></div>
 

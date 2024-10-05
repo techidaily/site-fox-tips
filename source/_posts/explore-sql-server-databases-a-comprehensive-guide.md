@@ -1,7 +1,7 @@
 ---
 title: "Explore SQL Server Databases: A Comprehensive Guide"
-date: 2024-09-23T03:09:14.424Z
-updated: 2024-09-30T00:30:04.005Z
+date: 2024-10-04T17:21:59.860Z
+updated: 2024-10-05T20:49:20.690Z
 tags:
   - user-guide
 categories:
@@ -80,13 +80,6 @@ Table of Contents
 
 ![Sql server browse](https://cdn.advancedinstaller.com/img/ui/sql-server-browse.png "Sql server browse")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Browse type
 
 Advanced Installer supports three types of SQL browsing:
@@ -99,22 +92,16 @@ Advanced Installer supports three types of SQL browsing:
 
 The "Please Wait..." message box for SQL Server Browse will be shown. Also, if an error occurs when connecting to the SQL Server, a dialog box will be shown containing the error response.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Output
 
 Advanced Installer dumps the result of the browse operation (the SQL Servers list) in one of the following locations:
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Display the result into a ListBox or CheckList control
 
@@ -125,10 +112,10 @@ Specify the installer property associated with a [ListBox](https://tools.techida
 Specify the installer property associated with a [ComboBox control](https://tools.techidaily.com/advancedinstaller/products/) which will be populated with the available SQL servers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Put the result into a property
@@ -138,10 +125,10 @@ A flat, comma separated list of the available SQL servers (names only) will be d
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The browse operation also dumps the result into our predefined_SERVER\_PROP_ property and populates any combo box or list box control associated with _SERVER\_PROP_ property. It happens because this is the associated property of "Server" field from our predefined "SQLConnectionDlg" dialog.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Output text format
@@ -153,13 +140,6 @@ Configure how the items will be shown in the ListBox, ComboBox controls or how t
 * Clustered
 * Version
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Output value format
 
 This is the selected item value format when outputting to ListBox or ComboBox controls. The user will see the **Output text format** but when selecting an item, the **Output value format** will be stored in the control's associated property.
@@ -168,9 +148,23 @@ This is the selected item value format when outputting to ListBox or ComboBox co
 
 SQL Server Browse can be triggered by scheduling the associated action in the Wizard Dialogs Stage or by directly invoking the action with a published/init event on a dialog.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Run in UI sequence
 
 Enabling this option will trigger the SQL Server Browse operation when an associated custom action will be executed in the installation sequence. To configure the custom action in the [Custom Actions Page](https://tools.techidaily.com/advancedinstaller/products/), press on the **Scheduled Action** link button.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Attached to an event
 
@@ -211,20 +205,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-reel-your-best-footage-from-instagram-with-these-aids/"><u>[New] Reel Your Best Footage From Instagram With These Aids</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-first-footage-assessment-breakdown/"><u>[Updated] 2024 Approved First Footage Assessment Breakdown</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-motorola-edge-40-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Motorola Edge 40 Activity | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-iconic-stock-photographs-meme-lives-and-histories/"><u>2024 Approved Iconic Stock Photographs Meme Lives and Histories</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/authentische-technische-angaben-zu-winxvideo-ai-vollstandige-liste/"><u>Authentische Technische Angaben Zu winXvideo AI - Vollständige Liste</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-honor-100-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Honor 100 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/save-and-download-naver-streams-as-multiple-file-types-for-windows-and-macos-systems/"><u>Save and Download Naver Streams as Multiple File Types for Windows and macOS Systems</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/seamless-music-format-switching-best-tidal-to-flac-rippers-compatible-with-both-windows-and-macos/"><u>Seamless Music Format Switching: Best Tidal to FLAC Rippers Compatible with Both Windows and macOS</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/secure-your-classroom-content-seamless-schooltube-downloads-in-mp4-or-avi-format-for-enhanced-learning-experiences/"><u>Secure Your Classroom Content: Seamless SchoolTube Downloads in MP4 or AVI Format for Enhanced Learning Experiences</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-converting-vrtbe-streams-into-multiple-video-formats/"><u>Step-by-Step Guide: Converting VRT.be Streams Into Multiple Video Formats</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-save-and-convert-domestika-online-learning-materials-to-popular-video-files/"><u>Step-by-Step Guide: Save and Convert Domestika Online Learning Materials to Popular Video Files</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-instructions-to-enjoy-taylor-swift-offline-learn-how-to-download-her-albums-in-mp3-or-aac-format/"><u>Step-by-Step Instructions to Enjoy Taylor Swift Offline - Learn How to Download Her Albums in MP3 or AAC Format!</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-converting-and-downloading-dumpert-videos-in-mp4-format-for-mac-os-x-and-microsoft-windows-systems/"><u>Step-by-Step Tutorial: Converting and Downloading Dumpert Videos in MP4 Format for Mac OS X & Microsoft Windows Systems</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/e-down-views-the-art-of-reverse-videos/"><u>Upside Down Views The Art of Reverse Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-snap-to-share-the-ultimate-guide-to-archiving-photos-for-2024/"><u>[New] From Snap to Share The Ultimate Guide to Archiving Photos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-convert-for-free-from-twitter-videos-to-animated-gifs/"><u>[Updated] Convert for Free From Twitter Videos to Animated Gifs</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/advanced-methods-to-expertly-extract-items-in-photos/"><u>Advanced Methods to Expertly Extract Items in Photos</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/customizing-search-results-mastering-the-filter-options-panel/"><u>Customizing Search Results: Mastering the Filter Options Panel</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/enhancing-photos-via-ipatch-the-ultimate-image-update-tutorial/"><u>Enhancing Photos via IPatch - The Ultimate Image Update Tutorial</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/expert-reviews-the-creme-de-la-creme-usb-drives/"><u>Expert Reviews: The Crème De La Crème USB Drives</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-asus-rog-phone-8-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Asus ROG Phone 8?</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-personalize-your-android-device-with-unique-backgrounds/"><u>How to Personalize Your Android Device with Unique Backgrounds</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-poco-c51-by-drfone-android/"><u>How to Show Wi-Fi Password on Poco C51</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/identifying-norton-360-refund-frauds-a-close-look-at-the-malwarefox-phishing-scheme/"><u>Identifying Norton 360 Refund Frauds: A Close Look at the MalwareFox Phishing Scheme</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-v27-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo V27 FRP</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-14-pro-max-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 14 Pro Max in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/manage-instance-settings-navigating-the-component-tab/"><u>Manage Instance Settings: Navigating the Component Tab</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-bend-reality-with-these-10-glitch-art-video-editing-apps-for-ios-and-android-for-2024/"><u>New Bend Reality with These 10 Glitch Art Video Editing Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/retrieving-contact-information-from-an-android-smartphone-made-effortless/"><u>Retrieving Contact Information From an Android Smartphone Made Effortless</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-rated-video-editing-tools-with-stunning-visual-enhancements/"><u>Top-Rated Video Editing Tools with Stunning Visual Enhancements</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/windows-best-video-conferencing-apps-2-1/"><u>Windows' Best Video Conferencing Apps, #2-#1</u></a></li>
 </ul></div>
 
