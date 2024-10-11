@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Setting Up an SSL/TLS Certificate
-date: 2024-09-28T16:52:44.689Z
-updated: 2024-10-05T16:23:12.534Z
+date: 2024-10-07T19:05:54.522Z
+updated: 2024-10-10T22:24:10.985Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,10 @@ Table of Contents
 ## IInstallCertificate
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,10 +137,10 @@ Table of Contents
 IInstallCertificate : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -148,10 +148,16 @@ IInstallCertificate : ICustomAction
 This interface facilitates editing custom action that installs a certificate included in the installer. It requires administrative privileges to run, so make sure you set "RunAsAdministrator" property to “true” from Install Parameters.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -163,10 +169,10 @@ This interface facilitates editing custom action that installs a certificate inc
 **String StoreName** \- Gets or sets the name of the certificate store.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,24 +214,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-behind-the-scenes-mastering-screen-recordings-in-games-for-2024/"><u>[New] Behind the Scenes Mastering Screen Recordings in Games for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/levate-views-the-power-of-synergistic-youtube-content-partnerships/"><u>[New] Elevate Views The Power of Synergistic YouTube Content Partnerships</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-visionary-vittles-steps-to-craft-food-films/"><u>[New] Visionary Vittles Steps to Craft Food Films</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-a-beginners-pathway-to-innovative-snapchat-expressions/"><u>[Updated] 2024 Approved A Beginner's Pathway to Innovative Snapchat Expressions</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-leveraging-budget-friendly-visual-elements/"><u>[Updated] 2024 Approved Leveraging Budget-Friendly Visual Elements</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-iphone-x-photography-leveraging-latest-features/"><u>[Updated] IPhone X Photography Leveraging Latest Features</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/5-top-free-image-enhancement-tools-for-ebay-listings-boost-your-product-photography/"><u>5 Top Free Image Enhancement Tools for eBay Listings: Boost Your Product Photography</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/easy-to-use-quicktime-tool-free-videoaudio-recording-software/"><u>Easy-to-Use QuickTime Tool - Free Video/Audio Recording Software</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effortless-guide-converting-jpg-images-into-pdf-format-on-your-pc/"><u>Effortless Guide: Converting JPG Images Into PDF Format on Your PC</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/explore-sql-server-databases-a-comprehensive-guide/"><u>Explore SQL Server Databases: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/exploring-im6-limitations-in-driving-performance-an-in-depth-analysis/"><u>Exploring IM6 Limitations in Driving Performance: An In-Depth Analysis</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-the-majority-of-mobile-glitches-with-just-a-restart/"><u>Fixing the Majority of Mobile Glitches with Just a Restart</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-agni-2-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Agni 2 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nokia-130-music-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Nokia 130 Music</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-perfect-pace-essential-strategies-to-create-engaging-slow-motion-videos-and-images-for-instagram-audiences/"><u>In 2024, Perfect Pace Essential Strategies to Create Engaging Slow Motion Videos and Images for Instagram Audiences</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/quick-guide-incorporating-images-into-your-tiktok-content-fast/"><u>Quick Guide: Incorporating Images Into Your TikTok Content Fast</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-techniques-for-converting-tubechop-files-into-mp3-format-a-step-by-step-guide/"><u>Top Techniques for Converting TubeChop Files Into MP3 Format: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-rated-flv-format-conversion-tools-unlocking-peak-performance/"><u>Top-Rated Flv Format Conversion Tools: Unlocking Peak Performance</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/ultimate-guide-how-to-integrate-emojis-into-your-videos/"><u>Ultimate Guide: How to Integrate Emojis Into Your Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-camguard-elite-mesh-patch/"><u>[New] In 2024, CamGuard Elite Mesh Patch</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-list-of-no-cost-vectors-and-design-portals-online/"><u>[New] Ultimate List of No-Cost Vectors and Design Portals Online</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/enhance-your-building-projects-with-imsibuilds-advanced-strategies-and-tools/"><u>Enhance Your Building Projects with IMsiBuild's Advanced Strategies and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-max-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone XS Max, Apples New iPhone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oneplus-12-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your OnePlus 12 Phone? Unlock It Now</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/seamlessly-shift-snaps-transferring-photos-from-ios-to-macos-catalina/"><u>Seamlessly Shift Snaps: Transferring Photos From iOS to macOS Catalina</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-converting-wmv-files-to-mov-format-on-pc-and-mac/"><u>Step-by-Step Guide: Converting WMV Files to MOV Format on PC and Mac</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/ultimate-guide-adding-time-stamps-to-your-images-a-step-by-step-tutorial/"><u>Ultimate Guide: Adding Time Stamps to Your Images - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vp9-vs-av1-unveiling-which-codec-triumphs/"><u>VP9 vs AV1 Unveiling Which Codec Triumphs</u></a></li>
 </ul></div>
 

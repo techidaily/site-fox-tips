@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Initializing Programs via EXE Setup Files and Command Line Interface"
-date: 2024-09-28T18:30:40.855Z
-updated: 2024-10-05T16:42:28.185Z
+date: 2024-10-03T22:11:36.990Z
+updated: 2024-10-11T06:27:49.335Z
 tags:
   - user-guide
 categories:
@@ -92,6 +92,13 @@ Advanced Installer comes with a Setup program which can be used as a Bootstrappe
 
 If you build your EXE setup with the installation files outside (MSI, CAB etc.), the Bootstrapper will use an INI file to store its settings. It can also receive command-line options.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Standard command-line switches
 
 The EXE Setup program (EXE Bootstrapper) supports all [msiexec command-line](https://tools.techidaily.com/advancedinstaller/products/) options (basically all the command-line parameters you can use for an MSI package). A command-line received by the EXE Bootstrapper will be passed to msiexec when launching the main MSI. This command-line overrides the one specified in the "Install Options" from the [Configuration Settings Tab](https://tools.techidaily.com/advancedinstaller/products/).
@@ -132,13 +139,6 @@ Copy
 
 This command will extract the Mypackage.msi file in the "My work" folder.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### /? and /help
 
 Both these commands will display a help dialog containing the command-line options for the EXE setup. 
@@ -146,6 +146,13 @@ Both these commands will display a help dialog containing the command-line optio
 ### /exenoui
 
 Launches the EXE setup without UI.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### /exebasicui
 
@@ -155,16 +162,16 @@ Launches the EXE setup with basic UI. The UI level set using the above command-l
 
 Lists the languages supported by the EXE setup.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### /exelang <langId>
 
 Launches the EXE setup using the specified language. This command-line option will have effect only if the EXE setup was built with the language selection dialog. You can use both a UI level and /exelang command-line options at the same time.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### /username
 
@@ -175,36 +182,37 @@ Sets the username used by the proxy server in case the Installer needs Internet 
 Sets the password used by the proxy server in case the Installer needs Internet access. This command was deprecated and you should use /proxypassword instead. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### /proxyusername <user\_name>
 
 Sets the username used by the proxy server in case the Installer needs Internet access. 
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### /proxypassword <password>
 
 Sets the password used by the proxy server in case the Installer needs Internet access. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### /exelog <path\_to\_log\_file>
 
 Creates a log file at the specified path with the specified name. If a path and name are not specified, then the log file will be created next to the EXE installer having the same name as the installer and the extension .log.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### /exenoupdates
 
@@ -225,40 +233,19 @@ Installs the AES encrypted Mypackage.exe using the password "secret" to decrypt 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)A particular example is installing [Multiple Instances Page](https://tools.techidaily.com/advancedinstaller/products/) from the command-line. The possibilities are described in [How do I install multiple instances from the command line?](https://tools.techidaily.com/advancedinstaller/products/) article.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### /prereqs <prereq\_id\_list>
 
 Specifies which prerequisites to be installed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### /noprereqs
 
 Skips prerequistes installation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### /newinst <instance\_id>
 
@@ -271,6 +258,13 @@ Upgrades an installed instance.
 ### /selinst <instance\_product\_code>
 
 Maintains an installed instance.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### instname <new\_instance\_name>
 
@@ -339,24 +333,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-click-magic-secrets-to-stunning-polished-pics/"><u>[New] Click Magic Secrets to Stunning, Polished Pics</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-purchase-pitfalls-steering-clear-from-the-seduction-of-false-subscribers/"><u>[Updated] Purchase Pitfalls Steering Clear From the Seduction of False Subscribers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-untold-elements-of-instagram-story-engagement-for-2024/"><u>[Updated] The Untold Elements of Instagram Story Engagement for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/banish-buffering-repair-facebook-videos-on-phonestablets-for-2024/"><u>Banish Buffering – Repair Facebook Videos on Phones/Tablets for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/bypass-icloud-locks-on-your-iphoneipad-with-premium-crack-programs-expert-reviews-and-comparisons/"><u>Bypass iCloud Locks on Your iPhone/iPad with Premium Crack Programs - Expert Reviews & Comparisons</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/comprehensive-guide-on-rat-infections-and-effective-defenses-against-remote-access-hacking/"><u>Comprehensive Guide on RAT Infections & Effective Defenses Against Remote Access Hacking</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/customizing-your-path-variables-easy-editing-tutorial/"><u>Customizing Your PATH Variables: Easy Editing Tutorial</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effective-strategies-for-ransomware-decryption-and-data-restoration/"><u>Effective Strategies for Ransomware Decryption & Data Restoration</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/evasion-tactics-can-malware-bypass-detection-in-task-manager-insights-by-malwarefox/"><u>Evasion Tactics: Can Malware Bypass Detection in Task Manager - Insights by MalwareFox</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-the-visionarys-handbook-for-twit-reaction-videos/"><u>In 2024, The Visionary's Handbook for Twit-Reaction Videos</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/mastering-software-installation-with-enhanced-ribbon-features-and-options/"><u>Mastering Software Installation with Enhanced Ribbon Features and Options</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726030496186-mov-to-mp4/"><u>MOV to MP4 変換のプロフェッショナルな解決策</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/new-updates-on-various-project-categories/"><u>New Updates on Various Project Categories</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/skagen-falster-3-smartwatch-review-where-sophistication-meets-connectivity/"><u>Skagen Falster 3 Smartwatch Review: Where Sophistication Meets Connectivity</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/the-ultimate-tutorial-how-to-trim-photos-inside-a-pdf-document-using-windows-software-tools/"><u>The Ultimate Tutorial: How to Trim Photos Inside a PDF Document Using Windows Software Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-methods-for-creating-tailored-chatgpt-commands/"><u>Top 5 Methods for Creating Tailored ChatGPT Commands</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/ultimate-troubleshooting-guide-resolving-itunes-cant-read-iphone-content-error/"><u>Ultimate Troubleshooting Guide: Resolving 'iTunes Can't Read iPhone Content' Error</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-pc-now-freshly-released-geforce-rtx-3080-ti-windows-1087-drivers-available-here/"><u>Update Your PC Now: Freshly Released GeForce RTX 3080 Ti Windows 10/8/7 Drivers Available Here</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-is-aether-comprehensive-overview-and-how-to-participate-in-its-community/"><u>What Is Aether? Comprehensive Overview & How to Participate in Its Community</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-logic-pros-way-to-softly-diminish-loud-passages/"><u>[New] 2024 Approved Logic Pro's Way to Softly Diminish Loud Passages</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-sharing-stories-that-resonate-with-a-digital-audience-yt/"><u>[New] 2024 Approved Sharing Stories that Resonate with a Digital Audience YT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-excellent-collection-top-webcam-grips-and-mounts/"><u>[New] Excellent Collection Top Webcam Grips & Mounts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-eye-of-the-tech-giants-leading-screen-capture-apps/"><u>[Updated] 2024 Approved Eye of the Tech Giants Leading Screen Capture Apps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-post-vlc-era-unveiling-new-player-titans/"><u>[Updated] In 2024, Post-VLC Era Unveiling New Player Titans</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unparalleled-dramatic-audio-experiences/"><u>[Updated] Unparalleled Dramatic Audio Experiences</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-symphony-of-sounds-taming-irq-noise/"><u>A Symphony of Sounds: Taming IRQ Noise</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/adjusting-features-in-the-modify-element-parameters-panel/"><u>Adjusting Features in the Modify Element Parameters Panel</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/efficient-querying-techniques-with-xml-search-parameters-for-enhanced-information-extraction/"><u>Efficient Querying Techniques with XML Search Parameters for Enhanced Information Extraction</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-gameplay-microsoft-edges-top-7-features/"><u>Elevating Gameplay: Microsoft Edge's Top 7 Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-evaluation-of-the-pioneer-bdr-xs06-a-compact-powerful-blu-ray-disc-burning-solution/"><u>Expert Evaluation of the Pioneer BDR-XS06 - A Compact, Powerful Blu-Ray Disc Burning Solution</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/simple-methods-to-transform-your-product-images-background-into-perfect-white-no-photoshop-required/"><u>Simple Methods to Transform Your Product Images' Background Into Perfect White - No Photoshop Required!</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-transforming-your-music-files-from-3ga-to-mp3-format/"><u>Step-by-Step Guide: Transforming Your Music Files From 3GA to MP3 Format</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/understanding-and-accessing-ftp-servers-a-comprehensive-guide/"><u>Understanding and Accessing FTP Servers: A Comprehensive Guide</u></a></li>
 </ul></div>
 

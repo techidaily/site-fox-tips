@@ -1,7 +1,7 @@
 ---
 title: Accessing Resources via the Iini Entry Interface
-date: 2024-09-29T19:16:54.894Z
-updated: 2024-10-05T20:27:23.399Z
+date: 2024-10-10T02:55:29.324Z
+updated: 2024-10-10T16:36:04.219Z
 tags:
   - user-guide
 categories:
@@ -114,10 +114,10 @@ Table of Contents
 This interface allows you to visualize or edit properties of an INI entry.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -125,10 +125,16 @@ This interface allows you to visualize or edit properties of an INI entry.
 IIniEntry : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -146,17 +152,17 @@ IIniEntry : IDispatch
 ![Iinientry](https://cdn.advancedinstaller.com/img/powershell-automation/iinientry.png "Iinientry")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -202,24 +208,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-essential-playbook-youtubes-seo-keywords-guide/"><u>[New] 2024 Approved The Essential Playbook YouTube's SEO Keywords Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-ultimate-laptops-your-go-to-machine-for-expert-video-editing/"><u>[Updated] 2024 Approved Ultimate Laptops Your Go-To Machine for Expert Video Editing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-solutions-to-clear-up-black-space-on-youtube-watching/"><u>[Updated] Solutions to Clear Up Black Space on YouTube Watching</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2023-online-facebook-video-to-mp3-converters/"><u>2023 Online Facebook Video to MP3 Converters</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/apowersofts-latest-update-introducing-video-download-capture-version-60-significant-enhancements-included/"><u>Apowersoft's Latest Update: Introducing Video Download Capture Version 6.0 - Significant Enhancements Included</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-for-microsoft-antimalware-engine-overusing-resources-on-your-windows-11-pc/"><u>Comprehensive Solution for Microsoft Antimalware Engine Overusing Resources on Your Windows 11 PC</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/converting-wide-screen-footage-a-guide-to-editing-for-tiktoks-vertical-display/"><u>Converting Wide-Screen Footage: A Guide to Editing for TikTok's Vertical Display</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-itel-p55-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Itel P55 5G</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/getting-the-elder-scrolls-online-running-after-previous-hitches/"><u>Getting The Elder Scrolls Online Running After Previous Hitches</u></a></li>
-<li><a href="https://fox-that.techidaily.com/issue-with-iphone-wi-fi-try-these-five-methods-for-a-stable-connection/"><u>Issue with iPhone Wi-Fi? Try These Five Methods for a Stable Connection</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/localized-conversation-interface-optimizing-user-experience/"><u>Localized Conversation Interface: Optimizing User Experience</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/pre-launch-preparation-steps-ensuring-a-successful-product-release/"><u>Pre-Launch Preparation Steps: Ensuring a Successful Product Release</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/simplify-your-sound-editing-quick-and-seamless-mp4-to-m4a-format-conversion/"><u>Simplify Your Sound Editing: Quick and Seamless MP4 to M4A Format Conversion</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-to-restoring-your-chrome-firefox-and-edge-browsers-to-factory-settings/"><u>Step-by-Step Guide to Restoring Your Chrome, Firefox & Edge Browsers to Factory Settings</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/streamline-the-conversion-process-top-tips-to-transform-4k-into-full-hd-with-ease/"><u>Streamline the Conversion Process: Top Tips to Transform 4K Into Full HD with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-stronger-case-for-windows-11-over-macos/"><u>The Stronger Case for Windows 11 over MacOS</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-kid-friendly-halloween-video-template-ideas/"><u>Top Kid-Friendly Halloween Video Template Ideas</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/understanding-the-configuration-options-in-xml-file-preferences/"><u>Understanding the Configuration Options in XML File Preferences</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/unlock-the-potential-of-your-business-with-advanced-import-registry-file-techniques/"><u>Unlock the Potential of Your Business with Advanced Import Registry File Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-action-archetypes-choosing-the-best-7-first-person-shooters/"><u>[New] 2024 Approved Action Archetypes Choosing the Best 7 First-Person Shooters</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instawisdom-100-powerful-caption-examples-for-self-expression/"><u>[New] In 2024, InstaWisdom 100 Powerful Caption Examples for Self-Expression</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-a-beginners-pathway-for-live-streaming-pre-recorded-content/"><u>[Updated] 2024 Approved A Beginner's Pathway for Live Streaming Pre-Recorded Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unveiling-best-mac-methods-for-recording-roblox-games/"><u>[Updated] Unveiling Best Mac Methods for Recording Roblox Games</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-crafting-perfect-thumbnails-for-higher-clickthrough-rates/"><u>2024 Approved Crafting Perfect Thumbnails for Higher Clickthrough Rates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2024mp3-mkv/"><u>2024年に最適な無料MP3変換アプリ: MKVファイル用のベストセレクション</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/determining-the-best-site-for-product-assembly-tips-and-strategies/"><u>Determining the Best Site for Product Assembly: Tips & Strategies</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-official-msi-z370-a-pro-drivers-for-free-immediate-download/"><u>Get the Official MSI Z370-A Pro Drivers for Free - Immediate Download!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-capturing-whatsapp-messages-across-all-devices/"><u>Step-by-Step Guide: Capturing WhatsApp Messages Across All Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tech-enthusiasts-intrigued-by-newly-teased-gpd-laptop-with-dual-oled-displays-vs-asus-zenbook-duo/"><u>Tech Enthusiasts Intrigued by Newly Teased GPD Laptop with Dual OLED Displays vs ASUS ZenBook Duo</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/ultimate-iphone-slide-show-creator-the-1-pick-for-mobile-presentations/"><u>Ultimate iPhone Slide Show Creator: The #1 Pick for Mobile Presentations</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/zero-dollar-techniques-decrease-png-and-jpeg-file-dimensions-for-faster-loading/"><u>Zero Dollar Techniques: Decrease PNG and JPEG File Dimensions for Faster Loading</u></a></li>
 </ul></div>
 

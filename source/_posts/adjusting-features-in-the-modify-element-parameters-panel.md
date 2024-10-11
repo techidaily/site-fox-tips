@@ -1,7 +1,7 @@
 ---
 title: Adjusting Features in the Modify Element Parameters Panel
-date: 2024-10-03T17:05:41.946Z
-updated: 2024-10-05T17:16:23.666Z
+date: 2024-10-07T17:23:16.195Z
+updated: 2024-10-10T22:21:56.726Z
 tags:
   - user-guide
 categories:
@@ -80,19 +80,19 @@ Table of Contents
 ![Edit Components Properties](https://cdn.advancedinstaller.com/img/dialog/edit-component-properties.png "Edit Components Properties")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -100,10 +100,10 @@ Table of Contents
 A Windows Installer condition which is evaluated and the result determines the component's installation. If the condition is evaluated as false, the component is not installed. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Do not register this component with Windows Installer
@@ -111,10 +111,10 @@ A Windows Installer condition which is evaluated and the result determines the c
  If this option is selected the component will have an empty GUID and thus it will not be registered. This means that the component cannot be removed, repaired or patched by the installer. This might be useful if you intend to service/uninstall the component yourself (using a custom action, for instance).
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Attributes
@@ -171,21 +171,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-streamlining-videography-optimize-for-instagram/"><u>[New] Streamlining Videography Optimize For Instagram</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-adding-pizzazz-to-your-footage-with-moving-text/"><u>[Updated] Adding Pizzazz to Your Footage with Moving Text</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-beat-to-visuals-an-iphone-guide-for-music-videos/"><u>[Updated] Beat to Visuals An iPhone Guide for Music Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-choosing-the-best-camera-for-filming-mirrorless-or-dslr/"><u>2024 Approved Choosing the Best Camera for Filming Mirrorless or DSLR</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/attention-magnet-article-initiator-for-2024/"><u>Attention Magnet Article Initiator for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-launch-failures-a-comprehensive-guide-to-fixing-overwatch-2-not-starting/"><u>Beat Launch Failures: A Comprehensive Guide to Fixing 'Overwatch 2 Not Starting'</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/expert-tips-for-restoring-pictures-on-an-unresponsive-iphone-a-comprehensive-walkthrough/"><u>Expert Tips for Restoring Pictures on an Unresponsive iPhone - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/free-online-3gp-video-converter-effortlessly-transform-your-videos-into-compatible-mobile-format/"><u>Free Online 3GP Video Converter: Effortlessly Transform Your Videos Into Compatible Mobile Format</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/gb-required-for-one-full-movie-hour-by-hour-for-2024/"><u>GB Required for One Full Movie, Hour by Hour for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-search-for-proof-of-registration-entry-in-databases/"><u>How to Search for Proof of Registration Entry in Databases</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/idefault-program-fa-qanda-your-guide-to-understanding-and-optimizing-the-default-application/"><u>IDefault Program FA Q&A - Your Guide to Understanding and Optimizing the Default Application</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/pc-playthroughs-unleashed-the-ultimate-tutorial-on-livestreaming-call-of-duty-mobile-battles/"><u>PC Playthroughs Unleashed: The Ultimate Tutorial on Livestreaming Call of Duty Mobile Battles</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-repair-successfully-downloading-minecraft-onto-windows-11/"><u>Step-by-Step Repair: Successfully Downloading Minecraft Onto Windows 11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-s23-fe-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy S23 FE FRP</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/successful-file-retrieval-on-ipads-a-step-by-step-guide-to-restoring-lost-data/"><u>Successful File Retrieval on iPads: A Step-by-Step Guide to Restoring Lost Data</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/tailored-pre-launch-checklist-and-requirements-analysis/"><u>Tailored Pre-Launch Checklist and Requirements Analysis</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/istory-streams-that-will-transform-your-study-habits/"><u>[New] History Streams That Will Transform Your Study Habits</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-leveraging-vimeos-end-credits-for-visual-impact/"><u>[New] In 2024, Leveraging Vimeo's End Credits for Visual Impact</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-zd-soft-screen-recorder-key-features-and-review/"><u>[New] In 2024, ZD Soft Screen Recorder Key Features and Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-selecting-your-stream-space-obs-or-twitch/"><u>[Updated] 2024 Approved Selecting Your Stream Space OBS or Twitch</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-backpedaling-through-imagery-an-insiders-guide-to-finding-originals-in-instagram/"><u>[Updated] Backpedaling Through Imagery An Insider's Guide to Finding Originals in Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-discover-the-leading-free-online-photo-editing-platforms-for-2024/"><u>[Updated] Discover the Leading Free Online Photo Editing Platforms for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-recommendations-free-and-paid-hd-playback-for-pcmacos/"><u>2024 Approved Expert Recommendations Free & Paid HD Playback for PC/macOS</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/capture-youtube-video-sounds-with-our-top-audio-extraction-software-perfect-for-content-creators/"><u>Capture YouTube Video Sounds with Our Top Audio Extraction Software - Perfect for Content Creators!</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/combining-sections-interface-a-comprehensive-guide-on-merge-modules-pages/"><u>Combining Sections Interface: A Comprehensive Guide on Merge Modules Pages</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/differentiating-false-alarms-from-real-threats-mastering-the-art-of-correctly-identifying-misidentified-files-by-your-antivirus/"><u>Differentiating False Alarms From Real Threats: Mastering the Art of Correctly Identifying Misidentified Files by Your Antivirus</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/enhancing-efficiency-the-advanced-techniques-of-project-cache-tab-systems/"><u>Enhancing Efficiency: The Advanced Techniques of Project Cache Tab Systems</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/guide-how-to-legally-watch-and-download-discovery-channel-content-online/"><u>Guide: How to Legally Watch and Download Discovery Channel Content Online</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-honor-magic-5-lite-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Honor Magic 5 Lite Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/navigating-medical-history-with-the-health-status-tab-a-comprehensive-overview/"><u>Navigating Medical History with the 'Health Status' Tab - A Comprehensive Overview</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/navigating-the-iupdates-project-stay-informed-with-our-latest-insights-and-news-features/"><u>Navigating the IUpdates Project: Stay Informed with Our Latest Insights & News Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-through-windows-11-a-guide-to-automatic-hdr-mode/"><u>Navigating Through Windows 11 A Guide to Automatic HDR Mode</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/simple-and-comprehensive-guide-to-easily-download-instagram-reel-videos/"><u>Simple & Comprehensive Guide to Easily Download Instagram Reel Videos</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-to-setting-up-an-ssltls-certificate/"><u>Step-by-Step Guide to Setting Up an SSL/TLS Certificate</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-making-your-jpg-image-fully-translucent/"><u>Step-by-Step Guide: Making Your JPG Image Fully Translucent</u></a></li>
 </ul></div>
 

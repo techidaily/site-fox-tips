@@ -1,7 +1,7 @@
 ---
 title: Building Personalized Actions with .NET - An Intuitive Guide
-date: 2024-09-29T21:28:03.400Z
-updated: 2024-10-05T17:31:12.111Z
+date: 2024-10-08T18:49:47.278Z
+updated: 2024-10-10T17:20:49.407Z
 tags:
   - user-guide
 categories:
@@ -129,15 +129,34 @@ Table of Contents
 
 IDotNetCustomAction : ICustomAction
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Overview
 
 This is a custom action that launches a .NET Assembly. The assembly must have a class that inherits the Installer class with the RunInstaller attribute set to true.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -155,10 +174,10 @@ This is a custom action that launches a .NET Assembly. The assembly must have a 
 **RemoveParameter(INetParameter aParameter)** \- Removes and destroys the specified parameter.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Examples
@@ -169,10 +188,16 @@ $dllFile = $project.FilesComponent.AddFileS("appdir", "D:\DotNetCustomAction.dll
 $custActs = $project.CustomActionsComponent.NewLaunchInstalledFile($dllFile)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## There are 2 custom actions because “DotNetCustomAction.dll” is build for “Any CPU” platform
@@ -182,13 +207,6 @@ $custActs[1].ConfigFilePath = "[TempFolder]DotNetCustomAction.dll_Config.xml"
 $custActs[1].AddParameter("new parameter", "parameter value")
 
 Copy
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## See also
 
@@ -229,24 +247,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/2024-approved-expert-tips-for-safaris-picture-and-window-sharing-feature/"><u>2024 Approved Expert Tips for Safari's Picture and Window Sharing Feature</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/addressing-apple-watch-touch-sensitivity-issues-insights-into-non-responsive-displays/"><u>Addressing Apple Watch Touch Sensitivity Issues: Insights Into Non-Responsive Displays</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/boost-your-content-20-premium-tiktok-caption-strategies-for-2024/"><u>Boost Your Content 20 Premium TikTok Caption Strategies for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/bypass-icloud-locks-on-your-iphoneipad-with-premium-crack-programs-expert-reviews-and-comparisons/"><u>Bypass iCloud Locks on Your iPhone/iPad with Premium Crack Programs - Expert Reviews & Comparisons</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/comprehensive-guide-on-rat-infections-and-effective-defenses-against-remote-access-hacking/"><u>Comprehensive Guide on RAT Infections & Effective Defenses Against Remote Access Hacking</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/customizing-your-path-variables-easy-editing-tutorial/"><u>Customizing Your PATH Variables: Easy Editing Tutorial</u></a></li>
-<li><a href="https://facebook.techidaily.com/enhance-your-conversation-security-with-end-to-end-encrypted-services-on-facebook/"><u>Enhance Your Conversation Security with End-to-End Encrypted Services on Facebook</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/evasion-tactics-can-malware-bypass-detection-in-task-manager-insights-by-malwarefox/"><u>Evasion Tactics: Can Malware Bypass Detection in Task Manager - Insights by MalwareFox</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-the-financial-flip-understanding-1-million-views-payoff/"><u>In 2024, The Financial Flip Understanding 1 Million Views Payoff</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-the-leading-cloud-services-with-best-price/"><u>In 2024, The Leading Cloud Services with Best Price</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/mastering-ui-hierarchies-strategic-approaches-to-organizing-page-groups/"><u>Mastering UI Hierarchies: Strategic Approaches to Organizing Page Groups</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/new-updates-on-various-project-categories/"><u>New Updates on Various Project Categories</u></a></li>
-<li><a href="https://extra-support.techidaily.com/space-requirements-for-hd-video-on-64gb-for-2024/"><u>Space Requirements for HD Video on 64GB for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-how-to-alter-picture-backgrounds-with-a-photo-editing-tool/"><u>Step-by-Step Guide: How to Alter Picture Backgrounds with a Photo Editing Tool</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-protect-your-whatsapp-from-cyber-threats/"><u>Step-by-Step Tutorial: Protect Your WhatsApp From Cyber Threats</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/the-ultimate-tutorial-how-to-trim-photos-inside-a-pdf-document-using-windows-software-tools/"><u>The Ultimate Tutorial: How to Trim Photos Inside a PDF Document Using Windows Software Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/total-zen-closing-virtual-horizons/"><u>Total Zen Closing Virtual Horizons</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-s17t-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo S17t? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-craft-your-ideal-video-experience-on-vimeo-through-plan-selection/"><u>[New] Craft Your Ideal Video Experience on Vimeo Through Plan Selection</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-exploring-camstudios-impact-on-video-capture-2023-edition/"><u>[New] Exploring CamStudio's Impact on Video Capture - 2023 Edition</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-your-channel-maximizing-adsense-on-youtube/"><u>[New] In 2024, Elevating Your Channel Maximizing AdSense on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-streaming-programs-for-live-content/"><u>[New] Leading Streaming Programs for Live Content</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/avigating-the-mobile-journey-to-launch-a-youtube-channel/"><u>[New] Navigating the Mobile Journey to Launch a YouTube Channel</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-non-vimeo-powerhouses-for-video-content-creation/"><u>[Updated] In 2024, Non-Vimeo Powerhouses for Video Content Creation</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1-expert-guide-seamlessly-streaming-your-iphone-screen-onto-your-television/"><u>1. Expert Guide: Seamlessly Streaming Your iPhone Screen Onto Your Television</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-overload-into-order-with-skillful-tiktok-saves-edits/"><u>2024 Approved Transform Overload Into Order with Skillful TikTok Saves Edits</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/advanced-iis-settings-configuration-panel/"><u>Advanced IIS Settings Configuration Panel</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/comprehensive-guide-free-and-paid-tools-for-noise-reduction-for-2024/"><u>Comprehensive Guide Free & Paid Tools for Noise Reduction for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/defending-your-messages-a-comprehensive-guide-to-safeguard-whatsapp-against-unauthorized-access/"><u>Defending Your Messages: A Comprehensive Guide to Safeguard WhatsApp Against Unauthorized Access</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/downloading-and-installing-steelseries-arctis-5-headset-drivers-easily/"><u>Downloading and Installing SteelSeries Arctis 5 Headset Drivers Easily</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/mastering-the-capture-of-your-roblox-adventures-compatible-with-windows-mac-ipad-and-more/"><u>Mastering the Capture of Your Roblox Adventures - Compatible with Windows, Mac, iPad and More</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/navigating-group-license-agreements-streamlined-solutions-for-teams/"><u>Navigating Group License Agreements: Streamlined Solutions for Teams</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/retrieve-lost-correspondence-a-step-by-step-guide-to-restoring-deleted-messages-in-microsoft-outlook/"><u>Retrieve Lost Correspondence: A Step-by-Step Guide to Restoring Deleted Messages in Microsoft Outlook</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/the-best-2022-software-solutions-for-professional-passport-picture-edits/"><u>The Best 2022 Software Solutions for Professional Passport Picture Edits</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/tinytake-screen-recorder-review-and-alternative/"><u>TinyTake Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-picks-for-enhancing-your-images-with-perfect-backgrounds-online-guides/"><u>Top Picks for Enhancing Your Images with Perfect Backgrounds - Online Guides</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/understanding-condition-based-prompting-in-user-interfaces/"><u>Understanding Condition-Based Prompting in User Interfaces</u></a></li>
 </ul></div>
 

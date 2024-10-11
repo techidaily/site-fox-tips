@@ -1,7 +1,7 @@
 ---
 title: Strategic Application Distribution Plan
-date: 2024-10-03T19:34:07.003Z
-updated: 2024-10-05T20:03:31.348Z
+date: 2024-10-09T18:49:50.104Z
+updated: 2024-10-11T01:08:20.883Z
 tags:
   - user-guide
 categories:
@@ -101,10 +101,10 @@ This view allows you to properly configure a new Web Application Mapping for you
 ![Application mapping](https://cdn.advancedinstaller.com/img/ui/application-mapping.png "Application mapping")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new web application mapping
@@ -112,10 +112,10 @@ This view allows you to properly configure a new Web Application Mapping for you
 Use the \[New... \] button, the “New...” context menu item or press theInsert key while the list control is focused.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing a web application mapping
@@ -123,16 +123,10 @@ Use the \[New... \] button, the “New...” context menu item or press theInser
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element from the list control is selected.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing a web application mapping
@@ -140,10 +134,10 @@ Use the \[Edit... \] button, the “Edit...” context menu item or press theSpa
 Use the \[Remove \] button, the “Remove” context menu item or press theDelete key while an element from the list control is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -184,22 +178,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-above-and-beyond-selecting-premium-software-for-drone-filmmaking/"><u>[New] 2024 Approved Above & Beyond Selecting Premium Software for Drone Filmmaking</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-achieving-studio-quality-with-audacity/"><u>[New] Achieving Studio Quality with Audacity</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-installation-walkthrough-for-moviemaker-6-users/"><u>[Updated] Installation Walkthrough for Moviemaker 6 Users</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1-expert-guide-seamlessly-streaming-your-iphone-screen-onto-your-television/"><u>1. Expert Guide: Seamlessly Streaming Your iPhone Screen Onto Your Television</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/best-software-for-converting-images-to-plain-white-canvas-backdrops/"><u>Best Software for Converting Images to Plain White Canvas Backdrops</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/decoding-legal-paper-standards-the-optimal-size-for-official-papers/"><u>Decoding Legal Paper Standards: The Optimal Size for Official Papers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-tales-woven-on-airwaves/"><u>In 2024, Best Tales Woven on Airwaves</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-branding-beyond-words-eye-catching-podcast-graphics/"><u>In 2024, Branding Beyond Words Eye-Catching Podcast Graphics</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/mastering-the-capture-of-your-roblox-adventures-compatible-with-windows-mac-ipad-and-more/"><u>Mastering the Capture of Your Roblox Adventures - Compatible with Windows, Mac, iPad and More</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/navigating-group-license-agreements-streamlined-solutions-for-teams/"><u>Navigating Group License Agreements: Streamlined Solutions for Teams</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-lost-contacts-steam-fixes-for-windows-11/"><u>Restoring Lost Contacts: Steam Fixes for Windows 11</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/retrieve-lost-correspondence-a-step-by-step-guide-to-restoring-deleted-messages-in-microsoft-outlook/"><u>Retrieve Lost Correspondence: A Step-by-Step Guide to Restoring Deleted Messages in Microsoft Outlook</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-effortlessly-upload-and-save-your-voicemails-digitally/"><u>Step-by-Step Guide: Effortlessly Upload and Save Your Voicemails Digitally</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-secrets-to-polished-photo-edits-in-canva/"><u>The Secrets to Polished Photo Edits in Canva</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/understanding-condition-based-prompting-in-user-interfaces/"><u>Understanding Condition-Based Prompting in User Interfaces</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unlock-and-save-your-favorite-fb-videos/"><u>Unlock and Save Your Favorite FB Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-easy-mp4-from-facebook-videos-quick-guide/"><u>[New] In 2024, Easy MP4 From Facebook Videos - Quick Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-playlist-of-timeless-anime-themes/"><u>[New] The Ultimate Playlist of Timeless Anime Themes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-immersive-playgrounds-androids-top-15-simulations-for-2024/"><u>[Updated] Immersive Playgrounds Android's Top 15 Simulations for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-capturing-your-beloved-tv/"><u>[Updated] In 2024, The Ultimate Guide to Capturing Your Beloved TV</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-w10-ultimate-screen-replay-suite-for-2024/"><u>[Updated] W10 Ultimate Screen Replay Suite for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/advanced-methods-to-expertly-extract-items-in-photos/"><u>Advanced Methods to Expertly Extract Items in Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/breathe-life-into-your-xbox-application/"><u>Breathe Life Into Your Xbox Application</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/customizing-search-results-mastering-the-filter-options-panel/"><u>Customizing Search Results: Mastering the Filter Options Panel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-chatbot-technology-for-mass-appeal/"><u>Dissecting Chatbot Technology for Mass Appeal</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/enhancing-photos-via-ipatch-the-ultimate-image-update-tutorial/"><u>Enhancing Photos via IPatch - The Ultimate Image Update Tutorial</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratuiti-mp3-di-alta-qualita-con-la-conversione-di-file-mpe-da-parte-di-movavi/"><u>Gratuiti MP3 Di Alta Qualità Con La Conversione Di File MPE Da Parte Di Movavi</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-personalize-your-android-device-with-unique-backgrounds/"><u>How to Personalize Your Android Device with Unique Backgrounds</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-s24-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy S24 to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/identifying-norton-360-refund-frauds-a-close-look-at-the-malwarefox-phishing-scheme/"><u>Identifying Norton 360 Refund Frauds: A Close Look at the MalwareFox Phishing Scheme</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/manage-instance-settings-navigating-the-component-tab/"><u>Manage Instance Settings: Navigating the Component Tab</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/retrieving-contact-information-from-an-android-smartphone-made-effortless/"><u>Retrieving Contact Information From an Android Smartphone Made Effortless</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/the-insidious-world-of-fileless-malware-unveiling-its-functionality-and-essential-protection-measures-for-your-system/"><u>The Insidious World of Fileless Malware - Unveiling Its Functionality & Essential Protection Measures for Your System</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-rated-video-editing-tools-with-stunning-visual-enhancements/"><u>Top-Rated Video Editing Tools with Stunning Visual Enhancements</u></a></li>
 </ul></div>
 

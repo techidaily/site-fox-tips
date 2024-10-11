@@ -1,7 +1,7 @@
 ---
 title: Mastering Software Installation with Enhanced Ribbon Features and Options
-date: 2024-10-01T19:02:29.960Z
-updated: 2024-10-05T21:43:57.177Z
+date: 2024-10-05T16:03:35.489Z
+updated: 2024-10-11T06:48:01.679Z
 tags:
   - user-guide
 categories:
@@ -69,10 +69,10 @@ Advanced Installer’s **Ribbon** offers an efficient and easy way to navigate y
 ![Ribbon](https://cdn.advancedinstaller.com/img/ui/ribbon.png "Ribbon")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Quick Access Toolbar
@@ -80,13 +80,6 @@ Advanced Installer’s **Ribbon** offers an efficient and easy way to navigate y
 The **Quick-access Toolbar** is a customizable toolbar which shows commands that are most often used.
 
 ![Quick-access toolbar](https://cdn.advancedinstaller.com/img/ui/quick-access-toolbar.png "Quick-access toolbar")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * **Save** \- save the current project
 * **Build** \- can choose to create all builds, rebuild all builds, or create a specific build
@@ -107,6 +100,26 @@ In the Tabs group, there is also a button to access the context-sensitive **User
 
 ![User Guide](https://cdn.advancedinstaller.com/img/ui/user-guide-button.png "User Guide")
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution Tab
 
 ![Home Tab](https://cdn.advancedinstaller.com/img/ui/solution-tab.png "Home Tab")
@@ -114,16 +127,16 @@ In the Tabs group, there is also a button to access the context-sensitive **User
 * **Build** \- build the solution
 * **Options** \- edit solution options using [Edit Solution Options Dialog](https://tools.techidaily.com/advancedinstaller/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Project Tab
 
 ![Home Tab](https://cdn.advancedinstaller.com/img/ui/home-tab.png "Home Tab")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * **Build** \- can choose to create all builds, rebuild all builds, or create a specific build
 * **Run** \- launch the installer; if it was not built it will generate it first
@@ -145,13 +158,6 @@ In the Tabs group, there is also a button to access the context-sensitive **User
 #### View Tab
 
 ![View Tab](https://cdn.advancedinstaller.com/img/ui/view-tab.png "View Tab")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * **Show**  
    * **Left Pane** \- show or hide the left pane  
@@ -190,10 +196,10 @@ In the Tabs group, there is also a button to access the context-sensitive **User
 ![Wizards Tab](https://cdn.advancedinstaller.com/img/ui/wizards-tab.png "Wizards Tab")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * **[Convert Paths](https://tools.techidaily.com/advancedinstaller/products/)** \- convert existing project paths to use path variables
@@ -240,10 +246,10 @@ The **Application Menu** contains commands that affect the entire project and wo
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Advanced Installer Ribbon has page and project type specific contextual tabs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -284,16 +290,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-ignite-your-screenplay-essential-wins11-apps-and-games/"><u>[New] Ignite Your Screenplay Essential Wins11 Apps & Games</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-premier-handwear-for-immersive-vr-experiences-for-2024/"><u>[New] Premier Handwear for Immersive VR Experiences for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-zeoid-startups-revealed-in-panzoids/"><u>[New] Top Zeoid Startups Revealed in Panzoids</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-instant-best-picture-viewer-pro/"><u>[Updated] Instant Best Picture Viewer Pro</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/efficient-script-editing-master-the-script-substitutions-pane/"><u>Efficient Script Editing: Master the 'Script Substitutions' Pane</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-6-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Apple iPhone 6 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/mastering-the-microsoft-wow643node-system-configuration-via-registry/"><u>Mastering the Microsoft WOW643node System Configuration via Registry</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/seamlessly-shift-snaps-transferring-photos-from-ios-to-macos-catalina/"><u>Seamlessly Shift Snaps: Transferring Photos From iOS to macOS Catalina</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-windows-on-steam-deck-made-simple/"><u>Setting Up Windows on Steam Deck Made Simple</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-instructions-for-recording-zoom-calls-across-computers-iphones-and-tablets/"><u>Step-by-Step Instructions for Recording Zoom Calls Across Computers, iPhones, and Tablets</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-techniques-for-capturing-high-quality-images-of-your-ipod-display/"><u>Top Techniques for Capturing High-Quality Images of Your iPod Display</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-from-bland-to-breatited-the-ultimate-video-title-guide/"><u>[New] In 2024, From Bland to Breatited The Ultimate Video Title Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-definition-hardware-unveiled-by-gamers/"><u>[Updated] 2024 Approved High-Definition Hardware Unveiled by Gamers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-ultimate-youtube-camera-buying-guide/"><u>[Updated] In 2024, The Ultimate YouTube Camera Buying Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-navigating-instagram-reels-a-comprehensive-guide/"><u>2024 Approved Navigating Instagram Reels A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-prime-hdr-cameras-a-comprehensive-guide/"><u>2024 Approved Unveiling Prime HDR Cameras A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/evasion-tactics-can-malware-bypass-detection-in-task-manager-insights-by-malwarefox/"><u>Evasion Tactics: Can Malware Bypass Detection in Task Manager - Insights by MalwareFox</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-advantages-of-wi-fi-6-the-next-generation-wireless-protocol-80211ax-explained/"><u>Exploring the Advantages of Wi-Fi 6 - The Next Generation Wireless Protocol, 802.11AX Explained</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-online-concert-streamers/"><u>In 2024, Superior Online Concert Streamers</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/mastering-ui-hierarchies-strategic-approaches-to-organizing-page-groups/"><u>Mastering UI Hierarchies: Strategic Approaches to Organizing Page Groups</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-how-to-alter-picture-backgrounds-with-a-photo-editing-tool/"><u>Step-by-Step Guide: How to Alter Picture Backgrounds with a Photo Editing Tool</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-protect-your-whatsapp-from-cyber-threats/"><u>Step-by-Step Tutorial: Protect Your WhatsApp From Cyber Threats</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-potential-with-8-must-try-crowdfire-innovations/"><u>Unlocking Potential with 8 Must-Try Crowdfire Innovations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Centralized Resources Portfolio Pages
-date: 2024-10-03T18:46:07.124Z
-updated: 2024-10-05T18:59:22.751Z
+date: 2024-10-06T01:38:33.429Z
+updated: 2024-10-10T18:41:58.272Z
 tags:
   - user-guide
 categories:
@@ -78,16 +78,10 @@ The “Resources” pages allow you to specify the structure of the project. In 
 ![Resources](https://cdn.advancedinstaller.com/img/ui/page-resources.png "Resources")  
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -142,17 +136,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/horeographing-climactic-crescendos/"><u>[New] Choreographing Climactic Crescendos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-a-comprehensive-guide-to-building-facebook-slideshow-mastery-for-2024/"><u>[Updated] A Comprehensive Guide to Building Facebook Slideshow Mastery for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/achieving-peak-performance-with-updated-hyperx-soundcard-drivers/"><u>Achieving Peak Performance with Updated HyperX Soundcard Drivers</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-infinix-zero-5g-2023-turbo-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Infinix Zero 5G 2023 Turbo? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-and-fortify-dotnet-windows-style-max-156/"><u>Fix & Fortify DotNet, Windows Style (Max 156)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-13-pro-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone 13 Pro The Right Way</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-identify-phony-it-assistance-cons-jobs-and-shield-your-personal-info/"><u>How to Identify Phony IT Assistance Cons Jobs & Shield Your Personal Info</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-unraveling-the-mystery-of-non-exporting-srt-in-premiere/"><u>In 2024, Unraveling the Mystery of Non-Exporting SRT in Premiere</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/mastering-software-installation-with-enhanced-ribbon-features-and-options/"><u>Mastering Software Installation with Enhanced Ribbon Features and Options</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/streaming-fifa-world-cup-live-mobile-app-to-pc-setup-guide/"><u>Streaming FIFA World Cup Live: Mobile App to PC Setup Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/ultimate-troubleshooting-guide-resolving-itunes-cant-read-iphone-content-error/"><u>Ultimate Troubleshooting Guide: Resolving 'iTunes Can't Read iPhone Content' Error</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-captivating-images-with-intentional-leading-lines-iphone/"><u>[New] Captivating Images with Intentional Leading Lines (iPhone)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-leveraging-your-roku-setup-for-exclusive-fb-live-content/"><u>[New] In 2024, Leveraging Your Roku Setup for Exclusive FB Live Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-methods-for-amending-silent-obs-recordings/"><u>[Updated] 2024 Approved Methods for Amending Silent OBS Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-capture-and-replay-top-tools-to-secure-every-web-moment/"><u>[Updated] In 2024, Capture & Replay Top Tools to Secure Every Web Moment</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-flipping-the-script-on-instagrams-video-content/"><u>2024 Approved Flipping the Script on Instagram's Video Content</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-intel-thunderbolt-controllers-installed-quickly-with-our-driver-downloads/"><u>Get Your Intel Thunderbolt Controllers Installed Quickly with Our Driver Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-zexmte-bluetooth-adapter-drivers-for-optimal-performance-on-windows-11-7-and-8-free-download-available-now/"><u>Latest Zexmte Bluetooth Adapter Drivers for Optimal Performance on Windows 11, 7 & 8 - Free Download Available Now!</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/navigating-medical-history-with-the-health-status-tab-a-comprehensive-overview/"><u>Navigating Medical History with the 'Health Status' Tab - A Comprehensive Overview</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/navigating-the-iupdates-project-stay-informed-with-our-latest-insights-and-news-features/"><u>Navigating the IUpdates Project: Stay Informed with Our Latest Insights & News Features</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-to-setting-up-an-ssltls-certificate/"><u>Step-by-Step Guide to Setting Up an SSL/TLS Certificate</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-making-your-jpg-image-fully-translucent/"><u>Step-by-Step Guide: Making Your JPG Image Fully Translucent</u></a></li>
 </ul></div>
 

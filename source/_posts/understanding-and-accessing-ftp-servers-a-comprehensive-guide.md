@@ -1,7 +1,7 @@
 ---
 title: "Understanding and Accessing FTP Servers: A Comprehensive Guide"
-date: 2024-10-01T20:43:11.594Z
-updated: 2024-10-05T16:50:18.777Z
+date: 2024-10-03T17:43:14.420Z
+updated: 2024-10-10T23:58:45.358Z
 tags:
   - user-guide
 categories:
@@ -98,10 +98,10 @@ Table of Contents
 ![Ftp access](https://cdn.advancedinstaller.com/img/ui/ftp-access.png "Ftp access")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Create FTP access
@@ -121,10 +121,10 @@ ftp://yourdomain/parent_web_site_name/virtual_directory_name
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Set NTFS security flags
@@ -132,10 +132,10 @@ Copy
 Enable this option to allow anonymous FTP connection in case this access mode is used. Otherwise only a registered user on the target machine, having the proper access rights, can connect through FTP.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### FTP Access rights
@@ -175,22 +175,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-luts-as-the-key-to-vivid-film-colors-for-2024/"><u>[New] Luts as the Key to Vivid Film Colors for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlocking-format-fluidity-convert-srt-quickly/"><u>[New] Unlocking Format Fluidity Convert SRT Quickly</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-science-of-display-understanding-srgb-vs-rgb-colors/"><u>[Updated] 2024 Approved The Science of Display Understanding Srgb vs Rgb Colors</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-stream-like-a-pro-top-5-cams-revolutionizing-live-broadcasts-on-twitch/"><u>[Updated] In 2024, Stream Like a Pro Top 5 Cams Revolutionizing Live Broadcasts on Twitch</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-breakthrough-in-drone-tech-yuneec-q500-4k/"><u>2024 Approved Breakthrough in Drone Tech Yuneec Q500 4K</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/5-top-free-image-enhancement-tools-for-ebay-listings-boost-your-product-photography/"><u>5 Top Free Image Enhancement Tools for eBay Listings: Boost Your Product Photography</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/comprehensive-overview-of-setting-customization-options/"><u>Comprehensive Overview of Setting Customization Options</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effortless-guide-converting-jpg-images-into-pdf-format-on-your-pc/"><u>Effortless Guide: Converting JPG Images Into PDF Format on Your PC</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/explore-sql-server-databases-a-comprehensive-guide/"><u>Explore SQL Server Databases: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/exploring-im6-limitations-in-driving-performance-an-in-depth-analysis/"><u>Exploring IM6 Limitations in Driving Performance: An In-Depth Analysis</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/revealing-hidden-applications-a-step-by-step-guide-for-iphones/"><u>Revealing Hidden Applications: A Step-by-Step Guide for iPhones</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/strategies-for-adjusting-music-tempo-on-spotify-app-for-2024/"><u>Strategies for Adjusting Music Tempo on Spotify App for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-4-windows-apps-for-webp-image-inspectors/"><u>Top 4 Windows Apps for WebP Image Inspectors</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-rated-flv-format-conversion-tools-unlocking-peak-performance/"><u>Top-Rated Flv Format Conversion Tools: Unlocking Peak Performance</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/ultimate-guide-how-to-integrate-emojis-into-your-videos/"><u>Ultimate Guide: How to Integrate Emojis Into Your Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uninstall-software-efficiently-on-your-mac-system/"><u>Uninstall Software Efficiently on Your Mac System</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-leaders-in-the-game-tiktoks-top-videographers/"><u>[New] In 2024, Leaders in the Game TikTok's Top Videographers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-verdict-on-the-m1-powered-macbook-for-editors-for-2024/"><u>[Updated] The Verdict on the M1-Powered MacBook for Editors for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-groundbreaking-gear-for-virtual-reality-players/"><u>2024 Approved Groundbreaking Gear for Virtual Reality Players</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-proven-pathways-to-promoting-in-vr-lands/"><u>2024 Approved Proven Pathways to Promoting in VR Lands</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-seamless-workflow-achieved-utilize-the-io-screener-efficiently/"><u>2024 Approved Seamless Workflow Achieved Utilize the IO Screener Efficiently</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/alternatives-to-fraps-comprehensive-guide-to-comparable-recording-software-options/"><u>Alternatives to Fraps: Comprehensive Guide to Comparable Recording Software Options</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/complete-guide-successfully-setting-up-your-android-devices-usb-drivers/"><u>Complete Guide: Successfully Setting Up Your Android Device's USB Drivers</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/custom-com-component-installation-guide-your-step-by-step-resource/"><u>Custom COM Component Installation Guide: Your Step-by-Step Resource</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-remedies-when-your-pcs-audio-equipment-stops-working/"><u>Effective Remedies When Your PC's Audio Equipment Stops Working</u></a></li>
+<li><a href="https://article-tips.techidaily.com/expertly-convert-your-content-to-stellar-hd-with-top-tools-for-2024/"><u>Expertly Convert Your Content to Stellar HD with Top Tools for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oppo-reno-10-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Oppo Reno 10 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-copying-youtube-videos-from-your-android-device-to-a-windows-computer/"><u>Step-by-Step Tutorial: Copying YouTube Videos From Your Android Device to a Windows Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformacion-gratuita-de-archivos-cr2-a-png-online-con-movavi/"><u>Transformación Gratuita De Archivos CR2 a PNG Online Con Movavi</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/understanding-session-settings-optimize-your-websites-user-experience/"><u>Understanding Session Settings: Optimize Your Website's User Experience</u></a></li>
 </ul></div>
 

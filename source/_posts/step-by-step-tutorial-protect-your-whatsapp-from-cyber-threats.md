@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Protect Your WhatsApp From Cyber Threats"
-date: 2024-10-02T18:57:26.152Z
-updated: 2024-10-05T17:04:05.551Z
+date: 2024-10-05T17:59:30.091Z
+updated: 2024-10-11T02:55:00.632Z
 tags:
   - product
   - antivirus
@@ -66,10 +66,10 @@ After enabling this, WhatsApp will randomly ask you for the 6-digit passcode so 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Verify End-to-End Encryption
@@ -93,13 +93,20 @@ Whenever you use WhatsApp on a different device, the security code of end-to-end
 3. Toggle the button to turn ON the Security notifications.![enable security notification](https://www.malwarefox.com/wp-content/uploads/2021/09/enable-security-notification.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. You will get these notifications when the security code changes.![security notifications](https://www.malwarefox.com/wp-content/uploads/2021/09/security-notifications.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -121,13 +128,6 @@ The drawback of this feature is that the messages can be saved in other ways lik
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Enable View Once for Photos/Videos
 
 Another privacy-focused feature that was recently added is **View Once**. While sharing a photo or video in a personal or group chat, you get the option to enable the View Once. It will ensure that after an image or video is viewed by the recipients once, they won’t be able to reaccess it.
@@ -140,10 +140,10 @@ Here is how you can use the **View Once** feature:
 4. You will get the notification that the photo is set to View Once.![view once enabled](https://www.malwarefox.com/wp-content/uploads/2021/09/view-once-set.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. After the receiver views the media once, you will be notified about that too (only if Read receipts is enabled).
@@ -152,18 +152,18 @@ Again, this feature also has the practicality issue as the receiver can easily t
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Perform Tweaks in Privacy Settings
 
 WhatsApp provides you options to configure some privacy settings as per your preference. After opening the app, navigate to **Settings -> Account -> Privacy**. You can perform changes in the following options:
 
 ![privacy options](https://www.malwarefox.com/wp-content/uploads/2021/09/privacy-options.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * **Last Seen:** set it to _Everyone_, _My contacts_, or _Nobody_ as per your preference.
 * **Profile Photo:** set it to _Everyone_, _My contacts_, or _Nobody_ as per your preference. This will let you put your picture and hide it from unknowns.
@@ -178,7 +178,27 @@ WhatsApp provides you options to configure some privacy settings as per your pre
 * **Blocked contacts:** let you add or remove the contacts from the block list.
 * **Fingerprint Lock:** This is one of the critical features as **_WhatsApp now does not permit third-party app locks_**. Enable Fingerprint lock to add an extra security layer to access your WhatsApp account. Allowing it would prevent others from opening your chats. You can set it to _lock immediately_, _after 1 minute_, or _after 30 minutes_, as per your preference.![fingerprint lock](https://www.malwarefox.com/wp-content/uploads/2021/09/fingerprint-lock.png)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disable the Cloud Backup
 
@@ -192,27 +212,13 @@ Here is how:
 4. From the options, select **Never** bullet point.![never back up](https://www.malwarefox.com/wp-content/uploads/2021/09/never-back-up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Summing Up
 
@@ -255,17 +261,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-captivating-viewers-with-tiktoks-best-captioning-practices-top-5/"><u>2024 Approved Captivating Viewers with TikTok's Best Captioning Practices (Top 5)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-expert-insights-into-mov-file-recording-on-latest-win-11-edition/"><u>2024 Approved Expert Insights Into .MOV File Recording on Latest Win 11 Edition</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/accessing-resources-via-the-iini-entry-interface/"><u>Accessing Resources via the Iini Entry Interface</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/boost-your-workflow-with-these-8-best-facebook-timers/"><u>Boost Your Workflow with These 8 Best Facebook Timers</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/fixing-itunes-how-to-successfully-transfer-music-and-movies-to-your-iphone/"><u>Fixing iTunes: How to Successfully Transfer Music and Movies to Your iPhone</u></a></li>
-<li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-clip-courage-embracing-twitters-viral-vanguard/"><u>In 2024, Clip Courage Embracing Twitter's Viral Vanguard</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-tipps-zur-reduzierung-der-dateigrosse-von-mov-filmen-effiziente-komprimierungsstrategien/"><u>Top Tipps Zur Reduzierung Der Dateigröße Von MOV-Filmen: Effiziente Komprimierungsstrategien</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-rated-software-for-capturing-screenshots-on-your-microsoft-surface-pro/"><u>Top-Rated Software for Capturing Screenshots on Your Microsoft Surface Pro</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/understanding-interface-characteristics-and-features-a-comprehensive-guide/"><u>Understanding Interface Characteristics and Features: A Comprehensive Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-sculpting-the-silence-an-in-depth-look-at-modifying-audio-keyframes-for-immersive-experiences-in-final-cut-pro-x-for-2024/"><u>Updated Sculpting the Silence An In-Depth Look at Modifying Audio Keyframes for Immersive Experiences in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-harness-the-power-of-yt-green-screens-for-imaginative-projects/"><u>[New] 2024 Approved Harness the Power of YT Green Screens for Imaginative Projects</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-become-a-broadcast-pro-screen-sharing-101-for-facebookers/"><u>[New] Become a Broadcast Pro Screen Sharing 101 for Facebookers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-rhythm-revelations-mastering-music-for-visual-storytelling/"><u>[New] In 2024, Rhythm Revelations Mastering Music for Visual Storytelling</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-content-effortless-conversion-from-srt/"><u>[Updated] Streamlining Content Effortless Conversion From SRT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-navigating-the-world-of-lut-based-color-correction/"><u>2024 Approved Navigating the World of LUT-Based Color Correction</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-y100-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y100 5G Fingerprint Lock</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/discover-our-java-essentials-premium-coffee-blends-and-accessories/"><u>Discover Our Java Essentials: Premium Coffee Blends & Accessories</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/expert-tips-for-restoring-pictures-on-an-unresponsive-iphone-a-comprehensive-walkthrough/"><u>Expert Tips for Restoring Pictures on an Unresponsive iPhone - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/free-online-3gp-video-converter-effortlessly-transform-your-videos-into-compatible-mobile-format/"><u>Free Online 3GP Video Converter: Effortlessly Transform Your Videos Into Compatible Mobile Format</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-search-for-proof-of-registration-entry-in-databases/"><u>How to Search for Proof of Registration Entry in Databases</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-successfully-avoid-the-tiktok-logo-the-ultimate-removal-techniques-of-2023/"><u>How to Successfully Avoid the TikTok Logo: The Ultimate Removal Techniques of 2023</u></a></li>
+<li><a href="https://techidaily.com/how-windows-11-integrates-with-android-phones-through-onedrive/"><u>How Windows 11 Integrates with Android Phones Through OneDrive</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/idefault-program-fa-qanda-your-guide-to-understanding-and-optimizing-the-default-application/"><u>IDefault Program FA Q&A - Your Guide to Understanding and Optimizing the Default Application</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mastering-smooth-transitions-to-prevent-drops-in-obs/"><u>In 2024, Mastering Smooth Transitions to Prevent Drops in OBS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-pinnacle-strategies-for-persuasive-client-centered-videography/"><u>In 2024, The Pinnacle Strategies for Persuasive Client-Centered Videography</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/pc-playthroughs-unleashed-the-ultimate-tutorial-on-livestreaming-call-of-duty-mobile-battles/"><u>PC Playthroughs Unleashed: The Ultimate Tutorial on Livestreaming Call of Duty Mobile Battles</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/successful-file-retrieval-on-ipads-a-step-by-step-guide-to-restoring-lost-data/"><u>Successful File Retrieval on iPads: A Step-by-Step Guide to Restoring Lost Data</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/tailored-pre-launch-checklist-and-requirements-analysis/"><u>Tailored Pre-Launch Checklist and Requirements Analysis</u></a></li>
 </ul></div>
 

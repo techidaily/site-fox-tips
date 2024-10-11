@@ -1,7 +1,7 @@
 ---
 title: Multilingual Conversion Gateway Pages
-date: 2024-09-30T20:12:00.558Z
-updated: 2024-10-05T21:30:06.966Z
+date: 2024-10-09T20:11:04.492Z
+updated: 2024-10-11T05:47:00.260Z
 tags:
   - user-guide
 categories:
@@ -88,39 +88,39 @@ Change or update default strings translation, save and manage dictionaries in th
 ![Test Installation UI](https://cdn.advancedinstaller.com/img/toolbar/test-ui.png "Test Installation UI")Use the \[Test Installation UI \] toolbar button in the "Translations" page. This will create a temporary package in the Temp folder and run it without performing an actual installation. Since the package is not installed on your machine, only the installation UI sequence can be tested.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)This option requires at least an [Enterprise](https://tools.techidaily.com/advancedinstaller/products/) or Architect project type.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Testing the maintenance User Interface
 
 ![Test Maintenance UI](https://cdn.advancedinstaller.com/img/toolbar/test-maintenance-ui.png "Test Maintenance UI")Use the \[Test Maintenance UI \] toolbar button in the "Translations" page. This will create a temporary package in the Temp folder and run it without performing an actual installation. Your product is temporarily registered with Windows Installer so the maintenance UI sequence can be tested..
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)This option requires at least an Enterprise or Architect project type.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -167,16 +167,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-syma-x5c-an-in-depth-beginners-guide-for-future-pilots-for-2024/"><u>[Updated] Syma X5C An In-Depth Beginner’s Guide for Future Pilots for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/12-top-changes-to-expect-with-windows-11s-latest-release/"><u>12 Top Changes to Expect with Windows 11'S Latest Release</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/digital-palette-perfection-quick-tricks-for-color-enhancement/"><u>Digital Palette Perfection Quick Tricks for Color Enhancement</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/discover-our-java-essentials-premium-coffee-blends-and-accessories/"><u>Discover Our Java Essentials: Premium Coffee Blends & Accessories</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-successfully-avoid-the-tiktok-logo-the-ultimate-removal-techniques-of-2023/"><u>How to Successfully Avoid the TikTok Logo: The Ultimate Removal Techniques of 2023</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-camon-30-pro-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Tecno Camon 30 Pro 5G Phone without PIN</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/seamless-integration-converting-ape-files-for-enhanced-compatibility-with-apple-music-and-macos/"><u>Seamless Integration: Converting APE Files for Enhanced Compatibility with Apple Music & macOS</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/simplifying-file-navigation-setting-up-quick-links-with-installation-wizard/"><u>Simplifying File Navigation: Setting Up Quick Links with Installation Wizard</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-removing-a-checkered-pattern-backdrop-from-images-without-using-adobe-photoshop/"><u>Step-by-Step Guide: Removing a Checkered Pattern Backdrop From Images Without Using Adobe Photoshop</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/form-your-media-a-curated-list-of-the-best-free-video-editing-software-top-9-for-2024/"><u>Transform Your Media A Curated List of the Best Free Video Editing Software (Top 9) for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/travel-friendly-bluetooth-audio-system-your-ultimate-companion-for-easy-journeys/"><u>Travel-Friendly Bluetooth Audio System - Your Ultimate Companion for Easy Journeys</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-zooms-role-in-professional-podcast-recording-explained-for-2024/"><u>[Updated] Zoom's Role in Professional Podcast Recording Explained for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/bypass-icloud-locks-on-your-iphoneipad-with-premium-crack-programs-expert-reviews-and-comparisons/"><u>Bypass iCloud Locks on Your iPhone/iPad with Premium Crack Programs - Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/comprehensive-guide-on-rat-infections-and-effective-defenses-against-remote-access-hacking/"><u>Comprehensive Guide on RAT Infections & Effective Defenses Against Remote Access Hacking</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/customizing-your-path-variables-easy-editing-tutorial/"><u>Customizing Your PATH Variables: Easy Editing Tutorial</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/effective-strategies-for-ransomware-decryption-and-data-restoration/"><u>Effective Strategies for Ransomware Decryption & Data Restoration</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/engineering-eye-catching-teaser-tales-for-2024/"><u>Engineering Eye-Catching Teaser Tales for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/exclusive-argon-dashboard-professional-edition-superior-premium-angular-framework-design-by-creative-tim/"><u>Exclusive Argon Dashboard Professional Edition: Superior Premium Angular Framework Design by Creative Tim</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/get-access-to-explicit-media-on-dare-dorm-safe-and-fast-download-options/"><u>Get Access to Explicit Media on Dare Dorm – Safe and Fast Download Options</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-get-your-nvidia-gpus-updated-drivers-on-windows-1nt-step-by-step/"><u>How to Securely Get Your NVIDIA GPU's Updated Drivers on Windows 1nT – Step-by-Step</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/implementing-incremental-noise-reduction-using-audacity/"><u>Implementing Incremental Noise Reduction Using Audacity</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/mastering-software-installation-with-enhanced-ribbon-features-and-options/"><u>Mastering Software Installation with Enhanced Ribbon Features and Options</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/new-updates-on-various-project-categories/"><u>New Updates on Various Project Categories</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/the-ultimate-tutorial-how-to-trim-photos-inside-a-pdf-document-using-windows-software-tools/"><u>The Ultimate Tutorial: How to Trim Photos Inside a PDF Document Using Windows Software Tools</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-samsung-galaxy-f04-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Samsung Galaxy F04 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-eight-video-grabber-software-for-2024/"><u>Top Eight Video Grabber Software for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-immersive-gaming-and-music-experiences-with-top-pc-sound-cards/"><u>Unleash Immersive Gaming & Music Experiences with Top PC Sound Cards</u></a></li>
 </ul></div>
 

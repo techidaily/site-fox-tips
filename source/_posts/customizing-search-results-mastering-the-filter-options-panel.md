@@ -1,7 +1,7 @@
 ---
 title: "Customizing Search Results: Mastering the Filter Options Panel"
-date: 2024-10-04T17:09:08.504Z
-updated: 2024-10-05T18:59:18.906Z
+date: 2024-10-04T19:33:05.626Z
+updated: 2024-10-11T00:12:30.570Z
 tags:
   - user-guide
 categories:
@@ -103,10 +103,10 @@ In this dialog, you can edit the filters that allow you to select which files wi
 Specify what files (or types of files) should be added to the project.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name Patterns
@@ -114,10 +114,10 @@ Specify what files (or types of files) should be added to the project.
 You can specify what files will be added to the package. Use the \[New \], \[Edit \] and \[Remove \] buttons to do that. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Attributes
@@ -126,6 +126,13 @@ You can specify the attributes of the files that will be added to the package.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The include filters are applied only to files. They are not taken into consideration for folders.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Exclude Filters
 
 Specify what files (or types of files) should be left out of the project. The exclude filters can be configured so they apply only to files, only to folders or both. 
@@ -133,22 +140,15 @@ Specify what files (or types of files) should be left out of the project. The ex
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Folders can be excluded only by using an exclude filter.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Exclude sub-folders
 
 Enable the “Exclude Sub-folders” check-box if you don't want to include the synchronized folder's sub-folders in your project.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -188,18 +188,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-elevate-your-content-incorporating-exact-timestamps-in-videos/"><u>[Updated] Elevate Your Content Incorporating Exact Timestamps in Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-guide-to-mp3-skype-recorder-record-skype-call-for-free/"><u>[Updated] The Ultimate Guide to MP3 Skype Recorder| Record Skype Call For Free</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-optimal-window-calls-8-top-rated-titles-4-1/"><u>2024 Approved Optimal Window Calls 8 Top Rated Titles #4-#1</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/and-iphone-8-users/"><u>And iPhone 8 Users</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/beginners-guide-creating-stunning-time-lapse-videos-on-any-device/"><u>Beginner's Guide: Creating Stunning Time-Lapse Videos on Any Device</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/best-paint-to-screen-applications-compatible-with-both-pc-and-mac/"><u>Best Paint-to-Screen Applications Compatible with Both PC & Mac</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/building-personalized-actions-with-net-an-intuitive-guide/"><u>Building Personalized Actions with .NET - An Intuitive Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/discover-the-art-of-effective-web-browsing-navigating-search-pages-with-ease/"><u>Discover the Art of Effective Web Browsing: Navigating Search Pages with Ease</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/how-to-duplicate-your-instagram-posts-for-2024/"><u>How to Duplicate Your Instagram Posts for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-moto-g13-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola Moto G13 FRP Bypass</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-and-updated-broadband-device-drivers-enhanced-connectivity-ready-for-download/"><u>New & Updated Broadband Device Drivers - Enhanced Connectivity Ready for Download</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-5-free-android-apps-for-effortless-mobile-video-transcoding/"><u>Top 5 Free Android Apps for Effortless Mobile Video Transcoding</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-whatsapps-compatibility-with-various-video-formats/"><u>Understanding WhatsApp's Compatibility with Various Video Formats</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-universal-guide-to-capturing-cinema-pc-mac-and-mobile-edition-for-2024/"><u>[New] Universal Guide to Capturing Cinema PC, Mac & Mobile Edition for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1-seamless-transfer-of-iphone-contacts-to-your-new-samsung-galaxy-s6/"><u>1. Seamless Transfer of iPhone Contacts to Your New Samsung Galaxy S6</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-why-cant-i-watch-video-on-sony-a6400-camera/"><u>2024 Approved Why Can't I Watch Video on Sony A6400 Camera?</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/accessing-resources-via-the-iini-entry-interface/"><u>Accessing Resources via the Iini Entry Interface</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/adjusting-features-in-the-modify-element-parameters-panel/"><u>Adjusting Features in the Modify Element Parameters Panel</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-using-revo-uninstaller-pro-to-perform-an-efficient-and-secure-factory-reset-on-windows-10/"><u>Complete Guide: Using Revo Uninstaller Pro to Perform an Efficient and Secure Factory Reset on Windows 10</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/demystifying-the-functionality-of-registry-key-windows-dialogue-boxes/"><u>Demystifying the Functionality of Registry Key Windows Dialogue Boxes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-wf-2760-printer-drivers-for-windows-11-10-and-8/"><u>Download the Latest Epson WF-2760 Printer Drivers for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-benefits-of-using-a-nulaxy-km18-car-bluetooth-adapter-insights-and-review/"><u>Exploring the Benefits of Using a Nulaxy KM18 Car Bluetooth Adapter: Insights & Review</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/fixing-itunes-how-to-successfully-transfer-music-and-movies-to-your-iphone/"><u>Fixing iTunes: How to Successfully Transfer Music and Movies to Your iPhone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nnovators-handbook-crafting-cool-youtube-videos-for-2024/"><u>Mac Innovators' Handbook Crafting Cool Youtube Videos for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/simple-steps-to-remove-whatsapp-chat-history-from-your-iphone/"><u>Simple Steps to Remove WhatsApp Chat History From Your iPhone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-on-removing-stickers-and-icons-from-your-images/"><u>Step-by-Step Guide on Removing Stickers and Icons From Your Images</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-chatgpt-on-your-phone-here-are-ebx-nine-ways-to-get-it-working-perfectly/"><u>Struggling with ChatGPT on Your Phone? Here Are Ebx Nine Ways to Get It Working Perfectly</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-reviews-why-the-netgear-nighthawk-rax120-is-a-leader-in-wireless-connectivity-speeds/"><u>Top Reviews: Why the Netgear Nighthawk RAX120 Is a Leader in Wireless Connectivity Speeds</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-rated-software-for-capturing-screenshots-on-your-microsoft-surface-pro/"><u>Top-Rated Software for Capturing Screenshots on Your Microsoft Surface Pro</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/understanding-interface-characteristics-and-features-a-comprehensive-guide/"><u>Understanding Interface Characteristics and Features: A Comprehensive Guide</u></a></li>
 </ul></div>
 

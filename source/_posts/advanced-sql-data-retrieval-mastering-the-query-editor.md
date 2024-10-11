@@ -1,7 +1,7 @@
 ---
 title: "Advanced SQL Data Retrieval: Mastering the Query Editor"
-date: 2024-09-29T16:55:33.019Z
-updated: 2024-10-05T17:26:40.404Z
+date: 2024-10-10T05:32:26.381Z
+updated: 2024-10-10T17:18:07.896Z
 tags:
   - user-guide
 categories:
@@ -82,13 +82,6 @@ Table of Contents
 
 This tab allows you to configure the selected SQL query.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Execution
 
 Set the execution options for the SQL query.
@@ -97,13 +90,6 @@ Set the execution options for the SQL query.
 
 The SQL query can be triggered by scheduling the [associated custom action](https://tools.techidaily.com/advancedinstaller/products/) in the install execution stage or by directly invoking the custom action with a [published event](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Abort installation in case of error
 
 Abort the installation if an error is encountered during query execution.
@@ -111,10 +97,10 @@ Abort the installation if an error is encountered during query execution.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can suppress the **spawned message box** for the SQL query operation by setting theSqlSuppressSpawnMsgBox property to1. You can set this property_statically_ (from [Install Parameters](https://tools.techidaily.com/advancedinstaller/products/)) or _dynamically_ (from the[installer UI](https://tools.techidaily.com/advancedinstaller/products/) \- associated with an[Edit Control](https://tools.techidaily.com/advancedinstaller/products/) or with a [Set installer property value](https://tools.techidaily.com/advancedinstaller/products/) Initialization/Published Event).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Data Binding
@@ -122,10 +108,16 @@ Abort the installation if an error is encountered during query execution.
 This section allows you to configure data bindings for your SQL query.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new data binding
@@ -138,15 +130,22 @@ Use the \[Up \], \[Down \] buttons, the “Up”, “Down” context menu items 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The top-bottom order of the data bindings is important because it will represent the left-right columns order in the result set.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Removing a data binding
 
 Use the \[Remove \] button, the “Remove” context menu item or press theDelete key while an element from the list control is focused.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Results
@@ -159,6 +158,13 @@ The specified binding properties will be used by Advanced Installer to return th
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For an example on how data bindings are set in an SQL query follow[SQL Query Examples](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## SQL
 
 ### Script File
@@ -169,18 +175,18 @@ Specify the file for the query. Use \[... \] button to select it.
 
 Use the embedded editor to instantly create a query on the fly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Statement separator (SQL Batch file separator)
 
 Specify the separator for the SQL statements.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)By default this field is empty; if you supply a statement separator (Eg. semicolon  ;  or  GO), during installation the SQL script batch file will be automatically split into component statements using the supplied statement separator and each SQL statement will be executed individually. Otherwise, SQL script will be executed as a whole.**Format:** with the exception of semicolon  ;, the statement separator must always begin with a_letter_ and can contain only_alpha-numeric_ characters.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Some Database Servers do not permit executing multiple statements at once. In this case supply a statement separator to indicate that the SQL queries should be executed individually. For more information please read [Why does my SQL Script fail to run when executed from the installer?](https://tools.techidaily.com/advancedinstaller/products/) FAQ.
 
@@ -193,16 +199,10 @@ Removes all comments from the SQL script. (This option also removes SQL comments
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Make sure the SQL code you supply is well-tested before deployment. If errors occur during installation, the changes cannot be undone. This functionality assumes familiarity with SQL syntax. Advanced Installer Technical Support does not provide assistance with debugging SQL statements.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -243,19 +243,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-key-principles-of-metaverse-commercial-strategy/"><u>[New] Key Principles of Metaverse Commercial Strategy</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-utilization-of-polarr-for-professional-results/"><u>[New] Step-By-Step Utilization of Polarr for Professional Results</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-checklist-for-instagram-popularity-surge-for-2024/"><u>[Updated] The Ultimate Checklist for Instagram Popularity Surge for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/capture-youtube-video-sounds-with-our-top-audio-extraction-software-perfect-for-content-creators/"><u>Capture YouTube Video Sounds with Our Top Audio Extraction Software - Perfect for Content Creators!</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/differentiating-false-alarms-from-real-threats-mastering-the-art-of-correctly-identifying-misidentified-files-by-your-antivirus/"><u>Differentiating False Alarms From Real Threats: Mastering the Art of Correctly Identifying Misidentified Files by Your Antivirus</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722972286437-download-brother-mfc-9130cw-printer-drivers-step-by-step-guide/"><u>Download Brother MFC-9130CW Printer Drivers: Step by Step Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/excellent-unrestricted-pubg-visual-sequences/"><u>Excellent Unrestricted PUBG Visual Sequences</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-s17-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo S17 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-hook-it-game-winning-podcast-beginnings/"><u>In 2024, The Hook-It Game Winning Podcast Beginnings</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/navigating-the-iupdates-project-stay-informed-with-our-latest-insights-and-news-features/"><u>Navigating the IUpdates Project: Stay Informed with Our Latest Insights & News Features</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/simple-and-comprehensive-guide-to-easily-download-instagram-reel-videos/"><u>Simple & Comprehensive Guide to Easily Download Instagram Reel Videos</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-making-your-jpg-image-fully-translucent/"><u>Step-by-Step Guide: Making Your JPG Image Fully Translucent</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-ultimate-guide-to-youtube-editing-in-imovie-software/"><u>The Ultimate Guide to YouTube Editing in iMovie Software</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/understanding-and-leveraging-telegram-browser-features-for-2024/"><u>Understanding and Leveraging Telegram Browser Features for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-parable-pioneers-guild-premier-peak/"><u>[Updated] Parable Pioneers Guild – Premier Peak</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-protect-your-data-while-turning-youtube-to-mp3-3-steps/"><u>[Updated] Protect Your Data While Turning YouTube to MP3 - 3 Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/android-and-iphone-collage-kings-the-best-montage-apps/"><u>Android & iPhone Collage Kings The Best Montage Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/implementing-gradual-intensity-boost-in-audio-projects-for-2024/"><u>Implementing Gradual Intensity Boost in Audio Projects for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/localized-conversation-interface-optimizing-user-experience/"><u>Localized Conversation Interface: Optimizing User Experience</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/by-step-guide-private-yt-content-with-google-login-for-2024/"><u>Step-by-Step Guide Private YT Content with Google Login for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-to-restoring-your-chrome-firefox-and-edge-browsers-to-factory-settings/"><u>Step-by-Step Guide to Restoring Your Chrome, Firefox & Edge Browsers to Factory Settings</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/streamline-the-conversion-process-top-tips-to-transform-4k-into-full-hd-with-ease/"><u>Streamline the Conversion Process: Top Tips to Transform 4K Into Full HD with Ease</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/understanding-the-configuration-options-in-xml-file-preferences/"><u>Understanding the Configuration Options in XML File Preferences</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/unlock-the-potential-of-your-business-with-advanced-import-registry-file-techniques/"><u>Unlock the Potential of Your Business with Advanced Import Registry File Techniques</u></a></li>
 </ul></div>
 

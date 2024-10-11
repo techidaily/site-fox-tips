@@ -1,7 +1,7 @@
 ---
 title: Advanced IIS Settings Configuration Panel
-date: 2024-10-02T18:30:44.259Z
-updated: 2024-10-05T21:46:24.308Z
+date: 2024-10-03T17:08:34.143Z
+updated: 2024-10-11T00:37:54.025Z
 tags:
   - user-guide
 categories:
@@ -102,19 +102,25 @@ This dialog allows you to configure IIS properties.
 ![IIS Attribute Dialog](https://cdn.advancedinstaller.com/img/dialog/iis-attribute.png "IIS Attribute Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Attribute ID
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Section
@@ -123,18 +129,18 @@ The attribute you want to set must be a member of this IIS configuration section
 
 <**WebSite**\>, <**VirtualDirectory**\> and <**ApplicationPool**\> are section pseudonames used for grouping direct attributes of the website/virtual directory/application pool.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Name
 
 Specify a name for the attribute.
 
 ## Attribute Value
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Type
 
@@ -142,16 +148,22 @@ Provides type information for the selected attribute.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)An **Enum** attribute consists of just one of the displayed options. A **Flags** attribute may contain any number of the displayed options, separated by a comma.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Value
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -186,20 +198,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-ace-6-tools-to-effortlessly-grab-videos-on-mac-for-2024/"><u>[New] Ace 6 Tools to Effortlessly Grab Videos on Mac for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-your-own-beat-no-cost-fb-version/"><u>[New] Your Own Beat, No Cost - FB Version</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-explore-the-finest-virtual-hydro-adventures-for-2024/"><u>[Updated] Explore the Finest Virtual Hydro Adventures for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-tecno-camon-20-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Tecno Camon 20</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/all-access-fb-melodic-streaming/"><u>All-Access FB Melodic Streaming</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/alternatives-to-fraps-comprehensive-guide-to-comparable-recording-software-options/"><u>Alternatives to Fraps: Comprehensive Guide to Comparable Recording Software Options</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effective-strategies-for-updating-software-detection/"><u>Effective Strategies for Updating Software Detection</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/enhancing-your-instareel-game-with-unbeatable-slow-motion-techniques-for-2024/"><u>Enhancing Your InstaReel Game with Unbeatable Slow Motion Techniques for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ensuring-optimal-performance-updating-your-toshiba-satellites-windows-drivers-made-simple/"><u>Ensuring Optimal Performance: Updating Your Toshiba Satellite's Windows Drivers Made Simple</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/expert-casttingo-advisory-services-your-pathway-to-strategic-success/"><u>Expert Casttingo Advisory Services - Your Pathway to Strategic Success</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/mastering-mobile-product-photography-expert-techniques-for-stunning-images/"><u>Mastering Mobile Product Photography: Expert Techniques for Stunning Images</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/mastering-the-art-of-portrait-photography-comprehensive-insights-for-professionals/"><u>Mastering the Art of Portrait Photography: Comprehensive Insights for Professionals</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-get-creative-with-glitch-video-editing-best-software-for-windows-mac-and-web-for-2024/"><u>New Get Creative with Glitch Video Editing Best Software for Windows, Mac, and Web for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-copying-youtube-videos-from-your-android-device-to-a-windows-computer/"><u>Step-by-Step Tutorial: Copying YouTube Videos From Your Android Device to a Windows Computer</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/understanding-session-settings-optimize-your-websites-user-experience/"><u>Understanding Session Settings: Optimize Your Website's User Experience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-uncovering-key-pace-requirements-for-exceptional-slow-motion-videos/"><u>[Updated] Uncovering Key Pace Requirements for Exceptional Slow-Motion Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/comprehensive-overview-of-setting-customization-options/"><u>Comprehensive Overview of Setting Customization Options</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/comprehensive-product-info-hub-your-one-stop-guide/"><u>Comprehensive Product Info Hub: Your One-Stop Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-unavailable-alert-bcm20702a0/"><u>Driver Unavailable Alert - BCM20702A0</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/effortless-guide-converting-jpg-images-into-pdf-format-on-your-pc/"><u>Effortless Guide: Converting JPG Images Into PDF Format on Your PC</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/explore-sql-server-databases-a-comprehensive-guide/"><u>Explore SQL Server Databases: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/exploring-im6-limitations-in-driving-performance-an-in-depth-analysis/"><u>Exploring IM6 Limitations in Driving Performance: An In-Depth Analysis</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-tecno-camon-20-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Tecno Camon 20 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/revealing-hidden-applications-a-step-by-step-guide-for-iphones/"><u>Revealing Hidden Applications: A Step-by-Step Guide for iPhones</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-transforming-mkv-files-into-avi-format-with-premium-quality-offline-and-online-methods/"><u>Step-by-Step Guide: Transforming MKV Files Into AVI Format with Premium Quality Offline & Online Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/strategic-growth-abbyys-new-alliances-revolutionizing-government-agency-digitization/"><u>Strategic Growth: ABBYY's New Alliances Revolutionizing Government Agency Digitization</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-rated-flv-format-conversion-tools-unlocking-peak-performance/"><u>Top-Rated Flv Format Conversion Tools: Unlocking Peak Performance</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-solutions-for-windows-bad-memory-allocation-error-code-0x00000019/"><u>Troubleshooting and Solutions for Windows Bad Memory Allocation (Error Code 0X00000019)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-hackers-flock-to-chatgpt-platforms/"><u>Why Hackers Flock to ChatGPT Platforms?</u></a></li>
 </ul></div>
 

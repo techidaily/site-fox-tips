@@ -1,7 +1,7 @@
 ---
 title: Creative Tim's 65-Page Collection of Free Design Assets and Templates Using the Argon Design System
-date: 2024-09-23T19:23:12.934Z
-updated: 2024-09-30T11:34:35.500Z
+date: 2024-10-08T18:23:12.204Z
+updated: 2024-10-10T17:55:50.377Z
 tags:
   - product
 categories:
@@ -20,19 +20,25 @@ thumbnail: https://thmb.techidaily.com/f99c7a68577d51b6e82bec3d3d1de09b7626e91bd
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,22 +60,22 @@ thumbnail: https://thmb.techidaily.com/f99c7a68577d51b6e82bec3d3d1de09b7626e91bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-constructing-unique-instagram-story-panels-for-2024/"><u>[New] Constructing Unique Instagram Story Panels for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-reviewing-magix-music-production-for-budding-musicians/"><u>[New] Reviewing Magix Music Production for Budding Musicians</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-time-efficient-methods-for-recording-vimeo-videos/"><u>[New] Time-Efficient Methods for Recording Vimeo Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-top-5-cloud-based-voice-customizers-for-chrome-os-vocal-transformation-tools-reviewed/"><u>[Updated] Top 5 Cloud-Based Voice Customizers for Chrome OS Vocal Transformation Tools Reviewed</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/accessing-your-flipbuilder-ebook-content-on-iphones-ipads-or-android-phones-a-step-by-step-guide/"><u>Accessing Your FlipBuilder eBook Content on iPhones, iPads, or Android Phones: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/adding-dates-and-times-in-rtf-and-txt-files-during-flipbook-conversion-flipbuilder-guide/"><u>Adding Dates & Times in RTF and TXT Files During FlipBook Conversion - FlipBuilder Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-quality-in-every-way-comprehensive-look-at-the-oneplus-nord-n100/"><u>Affordable Quality in Every Way - Comprehensive Look at the OnePlus Nord N100</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/compatibility-of-flipbuilder-created-ebooks-with-apples-ipad-a-comprehensive-guide/"><u>Compatibility of FlipBuilder Created eBooks with Apple's iPad: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/comprehensive-guide-mastering-the-art-of-flip-builders-chm-knowledge-platform/"><u>Comprehensive Guide: Mastering the Art of Flip Builder's CHM Knowledge Platform</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/lent-tools-to-save-live-feeds-from-youtube-vids-for-2024/"><u>Excellent Tools to Save Live Feeds From YouTube Vids for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/free-admin-template-with-bootstrap-4-discover-the-new-nowui-dashboard-by-creative-tim/"><u>Free Admin Template with Bootstrap 4: Discover the New NowUI Dashboard by Creative Tim</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/professional-paper-pro-kit-advanced-bootstrap-user-interface-by-creative-tim/"><u>Professional Paper Pro Kit: Advanced Bootstrap User Interface by Creative Tim</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Reasons why Pokémon GPS does not Work On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/section-2a-understanding-scale-ratios-and-representation/"><u>Section 2A: Understanding Scale Ratios and Representation</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-artisans-guide-to-instagram-stories-preservation/"><u>The Artisan’s Guide to Instagram Stories Preservation</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/ucc-article-grocery-sales-but-not-services-or-real-estate/"><u>UCC Article Grocery Sales, but Not Services or Real Estate.</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-effortlessly-record-circles-iphone-techniques-for-fb-feed/"><u>[Updated] In 2024, Effortlessly Record Circles IPhone Techniques for FB Feed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-step-up-your-media-game-with-xps-movie-editor/"><u>[Updated] In 2024, Step Up Your Media Game with XP's Movie Editor</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-key-fb-video-plays-for-optimal-engagement/"><u>2024 Approved Key FB Video Plays for Optimal Engagement</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accelerating-your-creative-process-a-guide-to-crafting-fast-google-collage-images/"><u>Accelerating Your Creative Process A Guide to Crafting Fast Google Collage Images</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/backdoor-threats-explained-effective-measures-for-safeguarding-your-electronic-gadgets-from-cyber-attacks/"><u>Backdoor Threats Explained: Effective Measures for Safeguarding Your Electronic Gadgets From Cyber Attacks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/become-an-interview-pro-leveraging-chatgpt-expertise/"><u>Become an Interview Pro: Leveraging ChatGPT Expertise</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/discover-our-java-essentials-premium-coffee-blends-and-accessories/"><u>Discover Our Java Essentials: Premium Coffee Blends & Accessories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-ai-communication-responding-with-purpose-to-prompts/"><u>Enhanced AI Communication: Responding with Purpose to Prompts</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/expert-review-comprehensive-guide-to-premier-chrome-screenshot-tools/"><u>Expert Review: Comprehensive Guide to Premier Chrome Screenshot Tools</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-configure-the-merge-module-interface-with-ease/"><u>How to Configure the Merge Module Interface with Ease</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-successfully-avoid-the-tiktok-logo-the-ultimate-removal-techniques-of-2023/"><u>How to Successfully Avoid the TikTok Logo: The Ultimate Removal Techniques of 2023</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-pioneering-artistry-on-screen-top-15-stop-motion-marvels/"><u>In 2024, Pioneering Artistry on Screen Top 15 Stop-Motion Marvels</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/install-stellar-with-ease-direct-support/"><u>Install Stellar with Ease, Direct Support</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/simplifying-file-navigation-setting-up-quick-links-with-installation-wizard/"><u>Simplifying File Navigation: Setting Up Quick Links with Installation Wizard</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-eradicating-slimcleaner-plus-with-malwarefox/"><u>Step-by-Step Guide: Eradicating SlimCleaner Plus with MalwareFox</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-removing-a-checkered-pattern-backdrop-from-images-without-using-adobe-photoshop/"><u>Step-by-Step Guide: Removing a Checkered Pattern Backdrop From Images Without Using Adobe Photoshop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/your-ultimate-guide-to-at-home-3d-movie-streaming-on-fandango-easy-steps-inside/"><u>Your Ultimate Guide to At-Home 3D Movie Streaming on Fandango – Easy Steps Inside!</u></a></li>
 </ul></div>
 

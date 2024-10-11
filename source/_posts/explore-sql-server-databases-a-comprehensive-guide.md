@@ -1,7 +1,7 @@
 ---
 title: "Explore SQL Server Databases: A Comprehensive Guide"
-date: 2024-10-04T17:21:59.860Z
-updated: 2024-10-05T20:49:20.690Z
+date: 2024-10-04T23:04:24.844Z
+updated: 2024-10-11T00:56:58.498Z
 tags:
   - user-guide
 categories:
@@ -80,6 +80,13 @@ Table of Contents
 
 ![Sql server browse](https://cdn.advancedinstaller.com/img/ui/sql-server-browse.png "Sql server browse")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Browse type
 
 Advanced Installer supports three types of SQL browsing:
@@ -93,15 +100,22 @@ Advanced Installer supports three types of SQL browsing:
 The "Please Wait..." message box for SQL Server Browse will be shown. Also, if an error occurs when connecting to the SQL Server, a dialog box will be shown containing the error response.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Output
 
 Advanced Installer dumps the result of the browse operation (the SQL Servers list) in one of the following locations:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Display the result into a ListBox or CheckList control
 
@@ -111,13 +125,6 @@ Specify the installer property associated with a [ListBox](https://tools.techida
 
 Specify the installer property associated with a [ComboBox control](https://tools.techidaily.com/advancedinstaller/products/) which will be populated with the available SQL servers.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Put the result into a property
 
 A flat, comma separated list of the available SQL servers (names only) will be dumped into the specified installer property.
@@ -125,10 +132,10 @@ A flat, comma separated list of the available SQL servers (names only) will be d
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The browse operation also dumps the result into our predefined_SERVER\_PROP_ property and populates any combo box or list box control associated with _SERVER\_PROP_ property. It happens because this is the associated property of "Server" field from our predefined "SQLConnectionDlg" dialog.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Output text format
@@ -149,22 +156,15 @@ This is the selected item value format when outputting to ListBox or ComboBox co
 SQL Server Browse can be triggered by scheduling the associated action in the Wizard Dialogs Stage or by directly invoking the action with a published/init event on a dialog.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Run in UI sequence
 
 Enabling this option will trigger the SQL Server Browse operation when an associated custom action will be executed in the installation sequence. To configure the custom action in the [Custom Actions Page](https://tools.techidaily.com/advancedinstaller/products/), press on the **Scheduled Action** link button.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Attached to an event
 
@@ -205,22 +205,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-from-snap-to-share-the-ultimate-guide-to-archiving-photos-for-2024/"><u>[New] From Snap to Share The Ultimate Guide to Archiving Photos for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-convert-for-free-from-twitter-videos-to-animated-gifs/"><u>[Updated] Convert for Free From Twitter Videos to Animated Gifs</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/advanced-methods-to-expertly-extract-items-in-photos/"><u>Advanced Methods to Expertly Extract Items in Photos</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/customizing-search-results-mastering-the-filter-options-panel/"><u>Customizing Search Results: Mastering the Filter Options Panel</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/enhancing-photos-via-ipatch-the-ultimate-image-update-tutorial/"><u>Enhancing Photos via IPatch - The Ultimate Image Update Tutorial</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/expert-reviews-the-creme-de-la-creme-usb-drives/"><u>Expert Reviews: The Crème De La Crème USB Drives</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-asus-rog-phone-8-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Asus ROG Phone 8?</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-personalize-your-android-device-with-unique-backgrounds/"><u>How to Personalize Your Android Device with Unique Backgrounds</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-poco-c51-by-drfone-android/"><u>How to Show Wi-Fi Password on Poco C51</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/identifying-norton-360-refund-frauds-a-close-look-at-the-malwarefox-phishing-scheme/"><u>Identifying Norton 360 Refund Frauds: A Close Look at the MalwareFox Phishing Scheme</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-v27-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo V27 FRP</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-14-pro-max-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 14 Pro Max in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/manage-instance-settings-navigating-the-component-tab/"><u>Manage Instance Settings: Navigating the Component Tab</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-bend-reality-with-these-10-glitch-art-video-editing-apps-for-ios-and-android-for-2024/"><u>New Bend Reality with These 10 Glitch Art Video Editing Apps for iOS and Android for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/retrieving-contact-information-from-an-android-smartphone-made-effortless/"><u>Retrieving Contact Information From an Android Smartphone Made Effortless</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-rated-video-editing-tools-with-stunning-visual-enhancements/"><u>Top-Rated Video Editing Tools with Stunning Visual Enhancements</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/windows-best-video-conferencing-apps-2-1/"><u>Windows' Best Video Conferencing Apps, #2-#1</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-leading-the-way-in-personal-trail-tracking-drone-innovation/"><u>[Updated] In 2024, Leading the Way in Personal Trail-Tracking Drone Innovation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-visuals-detailed-guide-to-hero5-black-proficiency/"><u>[Updated] Unlocking Visuals Detailed Guide to Hero5 Black Proficiency</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1-mastering-installation-management-the-ultimate-guide-to-effective-installer-control/"><u>1. Mastering Installation Management: The Ultimate Guide to Effective Installer Control</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-elevate-your-expression-a-gallery-of-stunning-video-themes-for-tiktok/"><u>2024 Approved Elevate Your Expression A Gallery of Stunning Video Themes for TikTok</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ultimate-virtual-races-the-quintessential-list/"><u>2024 Approved Ultimate Virtual Races The Quintessential List</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/customizing-image-settings-during-software-installation-process/"><u>Customizing Image Settings During Software Installation Process</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/exploring-im6-limitations-in-driving-performance-an-in-depth-analysis/"><u>Exploring IM6 Limitations in Driving Performance: An In-Depth Analysis</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-epson-wf-7710-compatible-with-windows-driver-downloads-for-win-108187/"><u>Get Your Epson WF-7710 Compatible with Windows - Driver Downloads for Win 10/8.1/8/7</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-how-to-seamlessly-capture-igtv-5-windows-and-mac-downloading-tips/"><u>In 2024, How to Seamlessly Capture IGTV 5 Windows & Mac Downloading Tips</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/leading-no-cost-screen-capture-software-find-your-perfect-match/"><u>Leading No-Cost Screen Capture Software: Find Your Perfect Match!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/maximizing-movie-file-saving-6-methods-for-win-11-for-2024/"><u>Maximizing Movie File Saving 6 Methods for Win 11 for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/printer-interface-for-officejet-7740/"><u>Printer Interface for Officejet 7740</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/quick-guide-accessing-live-tv-channels-via-vod-services-on-your-android-phone-or-tablet/"><u>Quick Guide: Accessing Live TV Channels via VOD Services on Your Android Phone or Tablet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/revolutionize-your-media-conversions-with-macx-video-converter-pro-v59-the-ultimate-in-high-speed-efficiency-through-innovative-hardware-acceleration/"><u>Revolutionize Your Media Conversions with MacX Video Converter Pro v5.9 - The Ultimate in High-Speed Efficiency Through Innovative Hardware Acceleration!</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/strategic-application-distribution-plan/"><u>Strategic Application Distribution Plan</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/understanding-permission-prompts-enhancing-user-experience/"><u>Understanding Permission Prompts: Enhancing User Experience</u></a></li>
 </ul></div>
 

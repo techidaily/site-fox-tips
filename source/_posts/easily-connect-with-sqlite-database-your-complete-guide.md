@@ -1,7 +1,7 @@
 ---
 title: "Easily Connect with SQLite Database: Your Complete Guide"
-date: 2024-10-03T19:15:28.810Z
-updated: 2024-10-05T16:02:50.565Z
+date: 2024-10-09T21:28:12.336Z
+updated: 2024-10-10T22:52:05.371Z
 tags:
   - user-guide
 categories:
@@ -86,16 +86,10 @@ You can use this type of SQL connection to run your scripts on an SQLite databas
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)There is no need to have an SQLite library to install (e.g. as a prerequisite). This .DLL is included automatically when a script is used.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Condition
@@ -103,10 +97,10 @@ You can use this type of SQL connection to run your scripts on an SQLite databas
 Condition the execution of all scripts from this connection. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Database
@@ -116,17 +110,17 @@ Specify the path to the database file you want to use.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create database if it does not exist
@@ -170,17 +164,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-ios-screenshoting-hack/"><u>[New] 2024 Approved The Ultimate iOS Screenshoting Hack</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-ideal-tags-elevating-your-contents-discovery-potential-for-2024/"><u>[Updated] Ideal Tags Elevating Your Content's Discovery Potential for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-2023-download-all-favorites-without-spending/"><u>[Updated] In 2024, 2023 Download All Favorites Without Spending</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/advanced-iis-settings-configuration-panel/"><u>Advanced IIS Settings Configuration Panel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-printer-settings-for-secure-edge-environment/"><u>Configuring Printer Settings for Secure Edge Environment</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/defending-your-messages-a-comprehensive-guide-to-safeguard-whatsapp-against-unauthorized-access/"><u>Defending Your Messages: A Comprehensive Guide to Safeguard WhatsApp Against Unauthorized Access</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-note-12t-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi Note 12T Prowith/without a PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-poco-f5-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Poco F5 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-14-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone 14 Pro to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-picks-for-enhancing-your-images-with-perfect-backgrounds-online-guides/"><u>Top Picks for Enhancing Your Images with Perfect Backgrounds - Online Guides</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/unveiling-apowermirror-the-new-cutting-edge-tv-mirroring-device/"><u>Unveiling ApowerMirror: The New Cutting-Edge TV Mirroring Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-5-best-screens-for-playstation-5-gamers/"><u>[New] TOP 5 Best Screens for PlayStation 5 Gamers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/backdoor-threats-explained-effective-measures-for-safeguarding-your-electronic-gadgets-from-cyber-attacks/"><u>Backdoor Threats Explained: Effective Measures for Safeguarding Your Electronic Gadgets From Cyber Attacks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-google-other-ar-sticker-solutions-for-2024/"><u>Beyond Google Other AR Sticker Solutions for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/expert-review-comprehensive-guide-to-premier-chrome-screenshot-tools/"><u>Expert Review: Comprehensive Guide to Premier Chrome Screenshot Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-configure-the-merge-module-interface-with-ease/"><u>How to Configure the Merge Module Interface with Ease</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-xiaomi-civi-3-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Xiaomi Civi 3 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-14-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 14 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722737298351-is-the-apeman-c450-the-best-value-in-dashcams-rigorous-budget-camera-assessment-inside/"><u>Is the Apeman C450 the Best Value in Dashcams? Rigorous Budget Camera Assessment Inside</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/maximize-your-efficiency-a-guide-to-using-multiple-tabs-in-macos-x/"><u>Maximize Your Efficiency: A Guide to Using Multiple Tabs in MacOS X</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-10-blockbuster-films-edited-with-final-cut-pro/"><u>New 2024 Approved 10 Blockbuster Films Edited with Final Cut Pro</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-eradicating-slimcleaner-plus-with-malwarefox/"><u>Step-by-Step Guide: Eradicating SlimCleaner Plus with MalwareFox</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-review-of-the-moto-g-power-elegant-design-meets-extraordinary-battery-life/"><u>The Ultimate Review of the Moto G Power: Elegant Design Meets Extraordinary Battery Life</u></a></li>
 </ul></div>
 

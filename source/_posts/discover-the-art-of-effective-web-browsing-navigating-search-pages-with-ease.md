@@ -1,7 +1,7 @@
 ---
 title: "Discover the Art of Effective Web Browsing: Navigating Search Pages with Ease"
-date: 2024-10-01T19:15:29.133Z
-updated: 2024-10-05T17:26:23.240Z
+date: 2024-10-10T01:11:09.128Z
+updated: 2024-10-11T00:00:05.986Z
 tags:
   - user-guide
 categories:
@@ -89,19 +89,33 @@ The result of your search will be a string placed in a newly created Windows Ins
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If the installation package is run with full UI, the searches will be performed only once during AppSearch standard action from the [Wizard Dialogs Stage](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creating a new search using a wizard
 
 ![New Search Wizard](https://cdn.advancedinstaller.com/img/toolbar/wizard.png "New Search Wizard")Use the \[New Search Wizard \] toolbar button, to quickly and easily set up a new search, following step-by-step directions.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Creating a new Search
 
 ![New Search](https://cdn.advancedinstaller.com/img/toolbar/search-new.png "New Search")Use the \[New Search \] toolbar button, the “New Search” context menu item or press the Insert key while the tree control is focused. The result property will be added in the left-side tree and you can edit it in order to change it. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a new File Search
@@ -112,23 +126,9 @@ The result of your search will be a string placed in a newly created Windows Ins
 
 ![New XML Search](https://cdn.advancedinstaller.com/img/toolbar/xml-search.png "New XML Search") Use the \[New XML Search \] toolbar button or the “New XML Search” context menu item. The resulted search operation will be added in the left-side tree with its name displaying the search path and the XML filename. It can not be renamed as it will always display the search path and the XML file on which the search operation is performed. You can edit the [XML Search Properties](https://tools.techidaily.com/advancedinstaller/products/) in the right-side panel. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating a new Extended Search
 
  Use the “New Extended Search” context menu item. The result property will be added in the left-side tree with a default name and you can edit it in order to change it. You can edit the [Extended Search Properties](https://tools.techidaily.com/advancedinstaller/products/) in the right-side panel.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Adding a Search Location
 
@@ -144,57 +144,51 @@ The result of your search will be a string placed in a newly created Windows Ins
 Use the “Add Predefined Search” context menu to add an already configured search. These searches are ready for use right after creation (they don't require additional settings).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Specifying the builds that will contain the search
 
  Use the “Builds” context menu item. This option will be available only if more that one build is defined.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Testing Searches
 
 ![Test search](https://cdn.advancedinstaller.com/img/toolbar/test-search.png "Test search")Use the\[Test \] toolbar button or the “Test” context menu item while the "Searches" tree root (Target Computer) or a search property is selected. A MSI will be launched to test your searches and the results will be displayed in the [Search Results](https://tools.techidaily.com/advancedinstaller/products/). The searches are tested as following:
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * If the tree root is selected (Target Computer) is selected all the searches will be tested.
 * If a search is selected it will be tested along with all its locators.
 * If a locator is selected it will be tested along with its associated search.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Renaming Searches
 
  Use the “Rename” tree context menu item or press the F2 key while a search is selected.
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Removing Searches and Locations
 
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” tree context menu item or press the Delete key while an element from the “Searches” panel is selected. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -249,21 +243,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-stories-in-fb-networks/"><u>[New] 2024 Approved Harnessing the Power of Stories in FB Networks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-elevate-your-mobile-film-experience-with-optimal-accessories-for-2024/"><u>[New] Elevate Your Mobile Film Experience with Optimal Accessories for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-motion-blur-aadobe-photoshop-tutorial/"><u>[Updated] Mastering Motion Blur AAdobe Photoshop Tutorial</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/advanced-methods-to-expertly-extract-items-in-photos/"><u>Advanced Methods to Expertly Extract Items in Photos</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/best-software-solutions-for-inserting-songs-into-videos-top-picks/"><u>Best Software Solutions for Inserting Songs Into Videos: Top Picks</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/enhancing-photos-via-ipatch-the-ultimate-image-update-tutorial/"><u>Enhancing Photos via IPatch - The Ultimate Image Update Tutorial</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/from-fresh-face-to-hashtag-hero-unleash-the-secrets-for-swift-social-media-success-on-instagram/"><u>From Fresh Face to Hashtag Hero Unleash the Secrets for Swift Social Media Success on Instagram</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-edge-40-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Edge 40 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/interactive-active-configuration-prompt-window/"><u>Interactive Active Configuration Prompt Window</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-ultimate-lip-sync-experience-5-must-try-apps/"><u>New In 2024, The Ultimate Lip Sync Experience 5 Must-Try Apps</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-converting-wmv-files-to-mov-format-on-pc-and-mac/"><u>Step-by-Step Guide: Converting WMV Files to MOV Format on PC and Mac</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/the-insidious-world-of-fileless-malware-unveiling-its-functionality-and-essential-protection-measures-for-your-system/"><u>The Insidious World of Fileless Malware - Unveiling Its Functionality & Essential Protection Measures for Your System</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/ultimate-guide-adding-time-stamps-to-your-images-a-step-by-step-tutorial/"><u>Ultimate Guide: Adding Time Stamps to Your Images - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unlocking-streaming-excellence-a-battle-between-chromecast-and-roku-for-top-spot/"><u>Unlocking Streaming Excellence: A Battle Between Chromecast and Roku for Top Spot</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-of-samsung-galaxy-fit-reviews-and-insights-for-a-healthier-lifestyle/"><u>Unveiling the Potential of Samsung Galaxy Fit – Reviews and Insights for a Healthier Lifestyle</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-enhancing-your-viewing-experience-facebook-and-roku-synergy/"><u>[New] Enhancing Your Viewing Experience Facebook & Roku Synergy</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-become-a-youtube-star-essential-skills-training/"><u>[Updated] 2024 Approved Become a YouTube Star Essential Skills Training</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-highest-paid-youtuber-in-the-world/"><u>[Updated] Highest Paid YouTuber in the World</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/weboma-movavi/"><u>無償で使えるWebベースのOMA形式変換ツール - MOVAVI</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/and-iphone-8-users/"><u>And iPhone 8 Users</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/combining-sections-interface-a-comprehensive-guide-on-merge-modules-pages/"><u>Combining Sections Interface: A Comprehensive Guide on Merge Modules Pages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-to-using-utorrent-for-easy-and-safe-film-acquisition/"><u>Comprehensive Guide to Using uTorrent for Easy and Safe Film Acquisition</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/creative-communication-techniques-unlocking-meaningful-child-interactions/"><u>Creative Communication Techniques: Unlocking Meaningful Child Interactions</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/easily-connect-with-sqlite-database-your-complete-guide/"><u>Easily Connect with SQLite Database: Your Complete Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/enhancing-efficiency-in-package-redistribution-leveraging-advanced-installers-adaptation-tools/"><u>Enhancing Efficiency in Package Redistribution: Leveraging Advanced Installer’s Adaptation Tools</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-12-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 12?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-xr-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone XR</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-essential-steps-after-unboxing-your-new-pc-or-laptop/"><u>Top 5 Essential Steps After Unboxing Your New PC or Laptop</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixing-slow-frame-rates-for-a-smoother-playthrough-of-outriders/"><u>Troubleshooting and Fixing Slow Frame Rates for a Smoother Playthrough of Outriders</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/understanding-microsofts-internet-information-services-iis-a-comprehensive-guide/"><u>Understanding Microsoft's Internet Information Services (IIS): A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Section 2A: Understanding Scale Ratios and Representation"
-date: 2024-09-23T08:34:54.179Z
-updated: 2024-09-29T21:10:52.127Z
+date: 2024-10-09T19:22:33.481Z
+updated: 2024-10-10T21:53:16.667Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,17 +54,18 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leading-windows-call-platforms-7-1-ranked/"><u>[New] 2024 Approved Leading Windows Call Platforms #7-#1 Ranked</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-large-scale-tiktok-content-acquisition/"><u>[Updated] The Ultimate Guide to Large-Scale TikTok Content Acquisition</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unleashing-screen-content-with-zdsofts-magic-for-2024/"><u>[Updated] Unleashing Screen Content with ZDSoft's Magic for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/7-significant-advantages-to-disconnecting-online/"><u>7 Significant Advantages to Disconnecting Online</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/excellent-substitutes-for-dentex-effortless-youtube-downloading-on-windows-and-macos-systems/"><u>Excellent Substitutes for Dentex: Effortless YouTube Downloading on Windows & MacOS Systems</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/guide-ultime-telecharger-en-mp4-des-videos-de-jeuxvideo/"><u>Guide Ultime : Télécharger en MP4 Des Vidéos De Jeuxvidéo</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/guide-steps-to-successfully-download-content-from-motherless-platforms/"><u>Guide: Steps to Successfully Download Content From Motherless Platforms</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-securely-download-films-from-imdb-a-step-by-step-guide/"><u>How to Securely Download Films From IMDb - A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/i-top-8-migliori-programmi-di-riparazione-fotografica-aperti-source-con-algoritmo-ia/"><u>I Top 8 Migliori Programmi Di Riparazione Fotografica Aperti Source Con Algoritmo IA</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-best-9-french-video-translators-online-and-download-options-for-2024/"><u>New Best 9 French Video Translators Online and Download Options for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/overview-of-google-ar-sticker-and-its-alternative-for-2024/"><u>Overview of Google AR Sticker and Its Alternative for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nalizing-who-can-see-your-youtube-content-for-2024/"><u>Personalizing Who Can See Your YouTube Content for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-advanced-color-grading-with-luts-in-premiere-pro/"><u>[Updated] 2024 Approved Advanced Color Grading with LUTs in Premiere Pro</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-revolutionize-your-workflow-with-lenovos-screen-capture-tools/"><u>2024 Approved Revolutionize Your Workflow with Lenovo's Screen Capture Tools</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/identifying-norton-360-refund-frauds-a-close-look-at-the-malwarefox-phishing-scheme/"><u>Identifying Norton 360 Refund Frauds: A Close Look at the MalwareFox Phishing Scheme</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-essentials-to-produce-a-charismatic-vlog-dialogue/"><u>In 2024, Essentials to Produce a Charismatic Vlog Dialogue</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-satirize-a-guide-to-parody-production/"><u>In 2024, How to Satirize A Guide to Parody Production</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/seamless-ios-file-handling-with-top-iexplorer-alternatives/"><u>Seamless iOS File Handling with Top IExplorer Alternatives</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-casting-your-samsung-galaxy-note10-screen-on-a-smart-tv/"><u>Step-by-Step Tutorial: Casting Your Samsung Galaxy Note10 Screen on a Smart TV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-blueprint-for-eliminating-unwanted-chatgpt-data/"><u>The Blueprint for Eliminating Unwanted ChatGPT Data</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-recommended-mobile-applications-for-sharpening-blurry-images-on-android-and-ios-devices/"><u>Top Recommended Mobile Applications for Sharpening Blurry Images on Android & iOS Devices</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-rated-video-editing-tools-with-stunning-visual-enhancements/"><u>Top-Rated Video Editing Tools with Stunning Visual Enhancements</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/transform-playtime-into-memories-with-switch-videos-for-2024/"><u>Transform Playtime Into Memories with Switch Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-casting-issues-from-your-pc-to-a-second-screen-on-windows-11-solutions/"><u>Troubleshooting Casting Issues From Your PC to a Second Screen on Windows 11: Solutions</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/ultimate-tutorial-on-screen-recording-exploring-obs-features-and-effective-substitutes-for-streamers-and-content-creators/"><u>Ultimate Tutorial on Screen Recording: Exploring OBS Features & Effective Substitutes for Streamers and Content Creators</u></a></li>
 </ul></div>
 

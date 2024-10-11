@@ -1,7 +1,7 @@
 ---
 title: Customizing Image Settings During Software Installation Process
-date: 2024-10-04T16:22:12.062Z
-updated: 2024-10-05T21:26:27.815Z
+date: 2024-10-07T16:06:56.051Z
+updated: 2024-10-10T18:18:01.178Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,16 @@ Table of Contents
 ![Image Options](https://cdn.advancedinstaller.com/img/dialog/image-options.png "Image Options")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Image Path
@@ -91,10 +97,10 @@ Table of Contents
 Specify the image's path. Use the \[... \] to select it.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Property Name
@@ -134,20 +140,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-top-7-android-adblockers-seamless-browsing-experience/"><u>[New] 2024 Approved Top 7 Android AdBlockers Seamless Browsing Experience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonizing-content-and-platform-youtubes-brief-melodies-explained/"><u>[Updated] 2024 Approved Harmonizing Content and Platform YouTube's Brief Melodies Explained</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-polarr-photo-editor-demystified-in-depth-analysis/"><u>[Updated] 2024 Approved Polarr Photo Editor Demystified In-Depth Analysis</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-elevate-video-editing-expert-use-of-obs-on-mobile-devices/"><u>2024 Approved Elevate Video Editing Expert Use of OBS on Mobile Devices</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/determining-the-best-site-for-product-assembly-tips-and-strategies/"><u>Determining the Best Site for Product Assembly: Tips & Strategies</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-from-zero-to-timer-hero-3-essential-fcpx-steps/"><u>In 2024, From Zero to Timer Hero 3 Essential FCPX Steps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-mobile-artistry-top-tactics-for-idevice-collage-excellence/"><u>Mastering Mobile Artistry Top Tactics for iDevice Collage Excellence</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-capturing-whatsapp-messages-across-all-devices/"><u>Step-by-Step Guide: Capturing WhatsApp Messages Across All Devices</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-rated-photo-editing-tools-with-transparent-background-features/"><u>Top Rated Photo Editing Tools with Transparent Background Features</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-your-chatgpt-sign-in-problems-a-comprehensive-guide/"><u>Troubleshooting Your ChatGPT Sign-In Problems - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/ultimate-iphone-slide-show-creator-the-1-pick-for-mobile-presentations/"><u>Ultimate iPhone Slide Show Creator: The #1 Pick for Mobile Presentations</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/understanding-microsofts-internet-information-services-iis-a-comprehensive-guide/"><u>Understanding Microsoft's Internet Information Services (IIS): A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/zero-dollar-techniques-decrease-png-and-jpeg-file-dimensions-for-faster-loading/"><u>Zero Dollar Techniques: Decrease PNG and JPEG File Dimensions for Faster Loading</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fb-cover-videos-strategies-for-maximum-impact-for-2024/"><u>[Updated] FB Cover Videos Strategies for Maximum Impact for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-listenguide-review/"><u>[Updated] ListenGuide Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-youtube-tricks-for-enhancing-screen-real-estate/"><u>2024 Approved YouTube Tricks for Enhancing Screen Real Estate</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-audio-interfaces-for-computers-2024s-top-selections-revealed/"><u>Best Audio Interfaces for Computers - 2024'S Top Selections Revealed</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/centralized-resources-portfolio-pages/"><u>Centralized Resources Portfolio Pages</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-evaluations-by-tom-the-hardware-hub/"><u>Comprehensive Evaluations by Tom: The Hardware Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-wacom-software-quickly-for-a-smooth-experience/"><u>Download Wacom Software Quickly for a Smooth Experience</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/efficient-launch-conditions-module-streamline-your-systems-deployment/"><u>Efficient Launch Conditions Module: Streamline Your System's Deployment</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/efficient-script-editing-master-the-script-substitutions-pane/"><u>Efficient Script Editing: Master the 'Script Substitutions' Pane</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/enhance-your-building-projects-with-imsibuilds-advanced-strategies-and-tools/"><u>Enhance Your Building Projects with IMsiBuild's Advanced Strategies and Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-restoring-windows-11-search-efficiency/"><u>Essential Tips: Restoring Windows 11 Search Efficiency</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-xiaomi-redmi-note-12-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Xiaomi Redmi Note 12 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-a-treasure-trove-guide-to-public-domain-images/"><u>In 2024, A Treasure Trove Guide to Public Domain Images</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/mastering-the-microsoft-wow643node-system-configuration-via-registry/"><u>Mastering the Microsoft WOW643node System Configuration via Registry</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/seamlessly-shift-snaps-transferring-photos-from-ios-to-macos-catalina/"><u>Seamlessly Shift Snaps: Transferring Photos From iOS to macOS Catalina</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-instructions-for-recording-zoom-calls-across-computers-iphones-and-tablets/"><u>Step-by-Step Instructions for Recording Zoom Calls Across Computers, iPhones, and Tablets</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-techniques-for-capturing-high-quality-images-of-your-ipod-display/"><u>Top Techniques for Capturing High-Quality Images of Your iPod Display</u></a></li>
 </ul></div>
 

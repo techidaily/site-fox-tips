@@ -1,7 +1,7 @@
 ---
 title: Enhancing Photos via IPatch - The Ultimate Image Update Tutorial
-date: 2024-10-04T20:34:24.013Z
-updated: 2024-10-05T16:17:24.183Z
+date: 2024-10-09T02:21:23.163Z
+updated: 2024-10-10T23:22:07.472Z
 tags:
   - user-guide
 categories:
@@ -118,32 +118,26 @@ Table of Contents
 ## IPatchUpgradeImage
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 IPatchUpgradeImage : IDispatch
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Overview
 
 This interface is meant to edit patch upgraded image properties.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
@@ -162,10 +156,16 @@ This interface is meant to edit patch upgraded image properties.
 **Array<IPatchTargetImage> TargetImages**  \-.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -179,10 +179,10 @@ This interface is meant to edit patch upgraded image properties.
 **DeleteTargetImage(IPatchTargetImage aTargetImage)** Deletes the specified targe image.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -224,17 +224,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-comparative-analysis-lowest-priced-cloud-vendors/"><u>[New] Comparative Analysis Lowest Priced Cloud Vendors</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-expert-analysis-zdsoft-for-screen-recording/"><u>[New] Expert Analysis ZDSoft for Screen Recording</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-creating-clip-sensations-tiktoks-viral-guide-for-2024/"><u>[Updated] Creating Clip Sensations TikTok's Viral Guide for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-full-screen-tips-for-premiere-pro-users/"><u>[Updated] Ultimate Full Screen Tips for Premiere Pro Users</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevating-video-popularity-on-youtube/"><u>2024 Approved Elevating Video Popularity on YouTube</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-socialcapture-youtube-from-fb/"><u>2024 Approved SocialCapture - YouTube From FB</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/efficient-querying-techniques-with-xml-search-parameters-for-enhanced-information-extraction/"><u>Efficient Querying Techniques with XML Search Parameters for Enhanced Information Extraction</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/excellent-movie-selections-for-kids-on-netflix-platform/"><u>Excellent Movie Selections for Kids on Netflix Platform</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tutorial-guide-to-fade-out-music-in-premiere-pro/"><u>In 2024, Tutorial Guide To Fade Out Music In Premiere Pro</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/simple-methods-to-transform-your-product-images-background-into-perfect-white-no-photoshop-required/"><u>Simple Methods to Transform Your Product Images' Background Into Perfect White - No Photoshop Required!</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-transforming-your-music-files-from-3ga-to-mp3-format/"><u>Step-by-Step Guide: Transforming Your Music Files From 3GA to MP3 Format</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/understanding-and-accessing-ftp-servers-a-comprehensive-guide/"><u>Understanding and Accessing FTP Servers: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-streaming-success-secrets-unveiling-monetization-on-dm-and-yo/"><u>[New] Streaming Success Secrets Unveiling Monetization on Dm & Yo</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-expert-advice-for-eliminating-youtube-video-skip-teasers-for-2024/"><u>[Updated] Expert Advice for Eliminating YouTube Video Skip Teasers for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-simplifying-the-process-of-creating-a-high-quality-rss-feed/"><u>[Updated] Simplifying the Process of Creating a High-Quality RSS Feed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-artistic-expression-download-movie-maker-for-win11-enthusiasts/"><u>[Updated] Unlock Artistic Expression Download Movie Maker for Win11 Enthusiasts</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-crafting-a-call-concert-customize-your-ios-sound-scape/"><u>2024 Approved Crafting a Call Concert Customize Your iOS Sound Scape</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/easy-to-use-quicktime-tool-free-videoaudio-recording-software/"><u>Easy-to-Use QuickTime Tool - Free Video/Audio Recording Software</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/effortless-techniques-for-converting-pages-into-words-top-tips-and-tools/"><u>Effortless Techniques for Converting Pages Into Words - Top Tips & Tools</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/free-online-3gp-video-converter-effortlessly-transform-your-videos-into-compatible-mobile-format/"><u>Free Online 3GP Video Converter: Effortlessly Transform Your Videos Into Compatible Mobile Format</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-seamlessly-acquire-and-enjoy-personalized-audio-collections-online/"><u>How to Seamlessly Acquire and Enjoy Personalized Audio Collections Online</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-huawei-p60-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Huawei P60 To Phone | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-techniques-for-converting-tubechop-files-into-mp3-format-a-step-by-step-guide/"><u>Top Techniques for Converting TubeChop Files Into MP3 Format: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/ultimate-guide-converting-ufctv-content-into-various-video-formats/"><u>Ultimate Guide: Converting UFC.TV Content Into Various Video Formats</u></a></li>
 </ul></div>
 
