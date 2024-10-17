@@ -1,7 +1,7 @@
 ---
 title: Automatische Löschung Von Dateien in Windows 10 - Problembehebung Und Lösungen
-date: 2024-10-05T18:41:48.782Z
-updated: 2024-10-11T01:53:07.450Z
+date: 2024-10-15T22:08:08.835Z
+updated: 2024-10-17T04:11:20.309Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/95b8d87ab463f7ac2adc7d19611917fbcf5034fba80cc910d2cfc1667a896a93.jpg
@@ -42,6 +42,13 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 4. [Suggestion: backup your crucial loading files in advance](https://tools.techidaily.com/ubackup/products/)
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## User case: Windows 11 winload.efi missing, F8 button not working
 
 My HP is not starting up. I’ve received the ‘winload efi is missing or corrupt’. All the troubleshooting steps require me to go into startup settings but in order for me to do that, I have to press F8 however when I do press it my screen flashes and it doesn’t take me there (this is on the blue ‘recovery’ screen with the error message). Can anyone help me please. I need to get back into my laptop. I can’t afford to reinstall the OS. Too much important files and data that I didn’t back up unfortunately.
@@ -78,13 +85,6 @@ Furthermore, AOMEI Backupper proves invaluable in tackling various problems such
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Best free bootable media creation tool
 
 [**Download Freeware** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -106,10 +106,10 @@ After creating bootable media (just a few minutes), boot your computer from this
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
@@ -142,6 +142,13 @@ Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4\. Type or paste the following command and press **Enter**:
 
 **chkdsk c: /f** (This command checks and fixes errors on the system drive.)
@@ -149,6 +156,13 @@ Step 4\. Type or paste the following command and press **Enter**:
 Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
 
@@ -208,13 +222,6 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Suggestion: backup your crucial loading files in advance
 
 A reliable backup software like [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) allows you to create a bootable disc and system backup, preventing startup loop errors and addressing various computer failures. In the event of a system crash, you can restore the system image to a new hard drive and regain normal functionality. AOMEI Backupper Standard offers numerous advantages for seamless backup and recovery processes.
@@ -231,20 +238,20 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -264,10 +271,10 @@ Was the provided information useful? Your vote is important to us!
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Related Articles
@@ -290,13 +297,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -308,10 +308,10 @@ Safeguard any data of your computer with backup, sync and clone.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -329,24 +329,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-alternative-windows-filmmakers-for-2024/"><u>[New] Alternative Windows Filmmakers for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-the-best-practices-for-fb-video-advertising-for-2024/"><u>[New] Navigating the Best Practices for FB Video Advertising for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-common-youtube-shorts-when-thumbnails-disappear-without-notice/"><u>[Updated] 2024 Approved Common YouTube Shorts When Thumbnails Disappear Without Notice</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mastering-desktop-preservation-on-windows-8/"><u>[Updated] Mastering Desktop Preservation on Windows 8</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-step-forward-with-borders-on-instagram-videos/"><u>[Updated] Step Forward with Borders on Instagram Videos</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1-comparing-music-streaming-giants-key-distinctions-between-deezer-and-pandora/"><u>1. Comparing Music Streaming Giants: Key Distinctions Between Deezer & Pandora</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1-free-music-downloads-convert-any-youtube-audio-clip-into-high-quality-mp3-or-flac-files-with-mp3-jam/"><u>1. Free Music Downloads: Convert Any YouTube Audio Clip Into High-Quality MP3 or FLAC Files with MP3 Jam</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/access-high-quality-educational-content-nptels-engineering-and-science-lectures-for-download/"><u>Access High-Quality Educational Content: NPTEL's Engineering and Science Lectures for Download</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/convert-and-save-cnbc-footage-as-high-quality-mp4-wmv-or-avi-files-for-easy-viewing/"><u>Convert and Save CNBC Footage as High-Quality MP4, WMV, or AVI Files for Easy Viewing!</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/convert-and-save-your-favorite-vidspot-videos-as-mp4movavi-with-ease-video-converter-app/"><u>Convert and Save Your Favorite Vidspot Videos as MP4/MOV/AVI with Ease - Video Converter App</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/convert-your-giantbomb-videos-into-high-quality-mp4-files/"><u>Convert Your GiantBomb Videos Into High-Quality MP4 Files</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/download-high-quality-movies-from-pornotube-in-mp4movavi-formats-with-ease/"><u>Download High-Quality Movies From Pornotube in MP4/MOV/AVI Formats with Ease</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-itel-p40plus-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Itel P40+ to PC? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Infinix Smart 7 HD? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-samsung-galaxy-watch-a-blend-of-style-and-tech-brilliance/"><u>In-Depth Analysis of Samsung Galaxy Watch: A Blend of Style & Tech Brilliance</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-downloading-race-broadcasts-from-pc-and-mac-systems/"><u>Step-by-Step Guide: Downloading Race Broadcasts From PC & Mac Systems</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-snagit-substitute-for-macos-and-windows-users-discover-allavsofts-powerful-solution/"><u>Top Snagit Substitute for macOS & Windows Users – Discover Allavsoft's Powerful Solution!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/form-videos-with-easy-to-use-sound-effects/"><u>Transform Videos with Easy-to-Use Sound Effects!</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-the-power-of-youtube-live-selling-unlock-your-sales-potential/"><u>Updated The Power of YouTube Live Selling Unlock Your Sales Potential</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-definitive-list-of-win10s-top-video-capture-software/"><u>[New] 2024 Approved The Definitive List of Win10's Top Video Capture Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-creativity-producing-original-and-entertaining-reels-on-facebook/"><u>[New] Unlocking Creativity Producing Original and Entertaining Reels on Facebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-does-youtube-manage-post-upload-operations/"><u>[Updated] 2024 Approved How Does YouTube Manage Post-Upload Operations?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-platform-power-play-which-one-dominates-vimeo-youtubeplusdailymotion/"><u>[Updated] Platform Power Play Which One Dominates - Vimeo, YouTube+DailyMotion?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-subtle-shadows-perfectly-blurred-iphone-photos-explained/"><u>[Updated] Subtle Shadows Perfectly Blurred iPhone Photos Explained</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/apple-music-crashes-constantly-on-ios-16-a-comprehensive-guide-with-fonebackup/"><u>Apple Music Crashes Constantly on iOS 16: A Comprehensive Guide with FoneBackup</u></a></li>
+<li><a href="https://fox-info.techidaily.com/compre-written-in-clear-language-this-ultimate-guide-explores-all-facets-of-using-the-iphone-xs-animoji-feature-for-2024/"><u>Compre Written in Clear Language, This Ultimate Guide Explores All Facets of Using the iPhone X's Animoji Feature for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/diy-lenovo-g50-fix-disk-instructions-two-methods-to-revitalize-your-pc-easily/"><u>DIY Lenovo G50 Fix Disk Instructions - Two Methods to Revitalize Your PC Easily</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/effective-steps-for-executing-a-dell-datasafe-system-restore-and-urgent-data-recovery/"><u>Effective Steps for Executing a Dell Datasafe System Restore & Urgent Data Recovery</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/erreur-technique-survenu-pendant-la-configuration-du-lecteur-de-reconstitution-avec-resolu/"><u>Erreur Technique Survenu Pendant La Configuration Du Lecteur De Reconstitution Avec Résolu</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/essential-checklist-preparing-data-for-windows-11-fresh-installation/"><u>Essential Checklist: Preparing Data for Windows 11 Fresh Installation</u></a></li>
+<li><a href="https://discover-community.techidaily.com/expertly-crafted-business-applications-powered-by-movavi-technology/"><u>Expertly Crafted Business Applications Powered by Movavi Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-ogg-to-mp3-konverteren-professioneel-en-online-zelfs-met-movavi/"><u>Gratuit Ogg-to-MP3 Konverteren: Professioneel en Online, Zelfs Met Movavi!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guida-rapida-come-registrare-il-monitor-del-tuo-pc-con-windows-10-nelle-configurazioni-ottimali/"><u>Guida Rapida: Come Registrare Il Monitor Del Tuo PC Con Windows 10 Nelle Configurazioni Ottimali</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/invaliddataaccesstrap-error-resolved-on-windows-11-complete-guide/"><u>INVALID_DATA_ACCESS_TRAP Error Resolved on Windows 11 – Complete Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/quick-guide-effective-techniques-to-clear-out-your-hard-drive-partition/"><u>Quick Guide: Effective Techniques to Clear Out Your Hard Drive Partition</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/quickly-resolve-windows-11-safe-mode-failed-discover-3-simple-troubleshooting-steps/"><u>Quickly Resolve 'Windows 11 Safe Mode Failed'? Discover 3 Simple Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/aktmal-tthbyt-windows-11-fory-alkst-dman-sha-altaalymat-albrmgya-don-haga-il-cd/"><u>اكتمال تثبيت Windows 11 فوري! القسط: ضمان صحة التعليمات البرمجية دون حاجة إلى CD</u></a></li>
 </ul></div>
 

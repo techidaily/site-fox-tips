@@ -1,7 +1,7 @@
 ---
 title: "Manage Instance Settings: Navigating the Component Tab"
-date: 2024-10-09T19:29:17.915Z
-updated: 2024-10-10T20:05:10.154Z
+date: 2024-10-15T00:29:19.867Z
+updated: 2024-10-16T23:28:38.502Z
 tags:
   - user-guide
 categories:
@@ -77,10 +77,16 @@ Table of Contents
 ![Instance components tab](https://cdn.advancedinstaller.com/img/ui/instance-components-tab.png "Instance components tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overwrite Components
@@ -124,22 +130,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-full-scoop-deciphering-the-google-podcast-app-for-2024/"><u>[New] Full Scoop Deciphering the Google Podcast App for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1-mastering-installation-management-the-ultimate-guide-to-effective-installer-control/"><u>1. Mastering Installation Management: The Ultimate Guide to Effective Installer Control</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hdtv-revolution-comparing-the-leading-8k-tv-brands/"><u>2024 Approved HDTV Revolution Comparing the Leading 8K TV Brands</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024s-video-show-app-detailed-assessment-and-tips/"><u>2024'S Video Show App - Detailed Assessment & Tips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-tecno-phantom-v-fold-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/advanced-sql-data-retrieval-mastering-the-query-editor/"><u>Advanced SQL Data Retrieval: Mastering the Query Editor</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/battles-and-ballads-decoding-the-language-of-viking-bards/"><u>Battles & Ballads: Decoding the Language of Viking Bards</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/comprehensive-overview-of-setting-customization-options/"><u>Comprehensive Overview of Setting Customization Options</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/comprehensive-product-info-hub-your-one-stop-guide/"><u>Comprehensive Product Info Hub: Your One-Stop Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/customizing-image-settings-during-software-installation-process/"><u>Customizing Image Settings During Software Installation Process</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-perfectly-blending-iphones-multimedia/"><u>In 2024, Perfectly Blending iPhones' Multimedia</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-synthesis-of-song-elements-the-crossfade-approach/"><u>In 2024, Synthesis of Song Elements The Crossfade Approach</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-13-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your iPhone 13</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/quick-guide-accessing-live-tv-channels-via-vod-services-on-your-android-phone-or-tablet/"><u>Quick Guide: Accessing Live TV Channels via VOD Services on Your Android Phone or Tablet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-freezing-taskbars-in-windows-11-most-efficient-methods/"><u>Resolving Freezing Taskbars in Windows 11 – Most Efficient Methods</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/revealing-hidden-applications-a-step-by-step-guide-for-iphones/"><u>Revealing Hidden Applications: A Step-by-Step Guide for iPhones</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/strategic-application-distribution-plan/"><u>Strategic Application Distribution Plan</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-seamless-sharing-of-vast-viewpoints-uploading-wide-angle-content-on-iosandroid-for-2024/"><u>[New] Seamless Sharing of Vast Viewpoints Uploading Wide Angle Content on iOS/Android for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-zenful-grooves-top-20-tranquil-country-beats-for-stress-free-dancing-tiktok/"><u>[New] Zenful Grooves Top 20 Tranquil Country Beats for Stress-Free Dancing (TikTok)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlined-file-sharing-from-your-computer-to-iphone/"><u>[Updated] Streamlined File Sharing From Your Computer To iPhone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1-quick-guide-resolving-operating-system-failed-to-load-error-on-windows-7/"><u>1. Quick Guide: Resolving 'Operating System Failed to Load' Error on Windows 7</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-insiders-guide-to-professional-vsco-usage/"><u>2024 Approved The Insider's Guide to Professional VSCO Usage</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/disk-partition-removal-made-easy-on-windows-11-step-by-step-tutorial/"><u>Disk Partition Removal Made Easy on Windows 11 – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-realme-narzo-60-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Realme Narzo 60 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/grasp-growth-with-free-fb-extractor-apps-for-2024/"><u>Grasp Growth with Free FB Extractor Apps for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/recovery-techniques-for-missing-avi-videos-unveiling-the-secrets-of-avi-data-retrieval/"><u>Recovery Techniques for Missing AVI Videos - Unveiling the Secrets of AVI Data Retrieval</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/schlusselstrategien-zur-sicheren-archivierung-von-outlooks-2007-emails-und-kontaktdaten/"><u>Schlüsselstrategien Zur Sicheren Archivierung Von Outlooks 2007 Emails Und Kontaktdaten</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/schritt-fur-schritt-anleitung-zum-erstellen-eines-windows-7-installationsabbilds-iso-fur-reparaturzwecke/"><u>Schritt-Für-Schritt Anleitung Zum Erstellen Eines Windows 7 Installationsabbilds (ISO) Für Reparaturzwecke</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-restoring-deleted-yahoo-mail-with-minimal-effort/"><u>Step-by-Step Tutorial: Restoring Deleted Yahoo Mail with Minimal Effort</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/transferer-des-donnees-entre-deux-serveurs-nas-sans-probleme-techniques-simplifiees/"><u>Transférer Des Données Entre Deux Serveurs NAS Sans Problème: Techniques Simplifiées</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-guide-to-quality-captures/"><u>Ultimate Guide to Quality Captures</u></a></li>
 </ul></div>
 

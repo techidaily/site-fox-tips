@@ -1,7 +1,7 @@
 ---
 title: Centralized Resources Portfolio Pages
-date: 2024-10-06T01:38:33.429Z
-updated: 2024-10-10T18:41:58.272Z
+date: 2024-10-12T11:19:09.832Z
+updated: 2024-10-16T19:01:40.784Z
 tags:
   - user-guide
 categories:
@@ -78,10 +78,10 @@ The “Resources” pages allow you to specify the structure of the project. In 
 ![Resources](https://cdn.advancedinstaller.com/img/ui/page-resources.png "Resources")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -136,16 +136,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-captivating-images-with-intentional-leading-lines-iphone/"><u>[New] Captivating Images with Intentional Leading Lines (iPhone)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-leveraging-your-roku-setup-for-exclusive-fb-live-content/"><u>[New] In 2024, Leveraging Your Roku Setup for Exclusive FB Live Content</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-methods-for-amending-silent-obs-recordings/"><u>[Updated] 2024 Approved Methods for Amending Silent OBS Recordings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-capture-and-replay-top-tools-to-secure-every-web-moment/"><u>[Updated] In 2024, Capture & Replay Top Tools to Secure Every Web Moment</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-flipping-the-script-on-instagrams-video-content/"><u>2024 Approved Flipping the Script on Instagram's Video Content</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-intel-thunderbolt-controllers-installed-quickly-with-our-driver-downloads/"><u>Get Your Intel Thunderbolt Controllers Installed Quickly with Our Driver Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-zexmte-bluetooth-adapter-drivers-for-optimal-performance-on-windows-11-7-and-8-free-download-available-now/"><u>Latest Zexmte Bluetooth Adapter Drivers for Optimal Performance on Windows 11, 7 & 8 - Free Download Available Now!</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/navigating-medical-history-with-the-health-status-tab-a-comprehensive-overview/"><u>Navigating Medical History with the 'Health Status' Tab - A Comprehensive Overview</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/navigating-the-iupdates-project-stay-informed-with-our-latest-insights-and-news-features/"><u>Navigating the IUpdates Project: Stay Informed with Our Latest Insights & News Features</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-to-setting-up-an-ssltls-certificate/"><u>Step-by-Step Guide to Setting Up an SSL/TLS Certificate</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-making-your-jpg-image-fully-translucent/"><u>Step-by-Step Guide: Making Your JPG Image Fully Translucent</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-chortle-creator-suite-for-2024/"><u>[Updated] Chortle Creator Suite for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-understanding-and-managing-facebooks-hidden-history/"><u>[Updated] Understanding & Managing Facebook's Hidden History</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-igniting-conversations-fostering-a-supportive-youtube-environment/"><u>2024 Approved Igniting Conversations Fostering a Supportive YouTube Environment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-gopro-cinematography-luts-15-best/"><u>2024 Approved The Ultimate Guide to GoPro Cinematography LUTs (15 Best)</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/windows-0x8078002a/"><u>解決 Windows 系統代碼 0X8078002A 時常出現的錯誤方法</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/complete-guide-to-running-exe-flipbooks-at-full-resolution-on-flipbuilder-no-more-windowed-limitations/"><u>Complete Guide to Running EXE Flipbooks at Full Resolution on FlipBuilder - No More Windowed Limitations!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-conduct-a-symphony-on-the-ppt-stage/"><u>In 2024, Conduct a Symphony on the PPT Stage</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/schnelles-und-leichtes-migrations-tutorial-fur-windows-11-auf-neuem-rechner/"><u>Schnelles Und Leichtes Migrations-Tutorial Für Windows 11 Auf Neuem Rechner</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/ubertragung-von-live-fotos-vom-iphone-auf-den-pc-zwei-hilfreiche-techniken-erklart/"><u>Übertragung Von Live-Fotos Vom iPhone Auf Den PC: Zwei Hilfreiche Techniken Erklärt</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/windows-7810-synctoy/"><u>Windows 7/8/10で効率的なファイル同期: SyncToyとその他ツール</u></a></li>
 </ul></div>
 

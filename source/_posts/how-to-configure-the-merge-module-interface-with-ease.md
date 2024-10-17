@@ -1,7 +1,7 @@
 ---
 title: How to Configure the Merge Module Interface with Ease
-date: 2024-10-05T18:55:37.582Z
-updated: 2024-10-10T21:21:06.502Z
+date: 2024-10-15T19:53:01.734Z
+updated: 2024-10-17T10:02:11.950Z
 tags:
   - user-guide
 categories:
@@ -76,19 +76,19 @@ This dialog allows you to configure the merge process.
 ![Configure Merge Module Dialog](https://cdn.advancedinstaller.com/img/dialog/configure-merge-module.png "Configure Merge Module Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feature
@@ -96,10 +96,10 @@ This dialog allows you to configure the merge process.
 You can select the feature that will contain the merge modules' components after the merge process ends. By default, it is the Main Feature (you can use the \[... \] button to select another one). The [Feature Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) will pop up, allowing you to select a feature to reference.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Folder
@@ -109,10 +109,10 @@ You can select the parent folder for the merge module's "TARGETDIR" directory. B
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Usually the "TARGETDIR" folder of a merge module is ".". This means that all the files and folders from the merge module's "TARGETDIR" are going to the selected folder.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -148,24 +148,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-democratize-music-distribution-via-social-media/"><u>[New] 2024 Approved Democratize Music Distribution via Social Media</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-advanced-8-visual-boosts-for-online-broadcasts/"><u>[Updated] Advanced 8 Visual Boosts for Online Broadcasts</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-intergalactic-visions-the-best-sci-fi-movies-in-virtual-universes/"><u>[Updated] In 2024, Intergalactic Visions The Best Sci-Fi Movies in Virtual Universes</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-of-the-incredible-tools-hidden-under-final-cut-pro-x-we-bring-final-cut-pro-l-cuts-and-j-cuts-in-todays-article-learn-what-is-a-j-cut-in-final/"><u>2024 Approved Of the Incredible Tools Hidden Under Final Cut Pro X, We Bring Final Cut Pro L-Cuts and J-Cuts in Todays Article. Learn What Is a J-Cut in Final Cut Pro Along with an L-Cut and How to Do Them in FCPX</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bending-words-altering-text-images-for-2024/"><u>Bending Words Altering Text Images for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/best-software-solutions-for-inserting-songs-into-videos-top-picks/"><u>Best Software Solutions for Inserting Songs Into Videos: Top Picks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-s18e-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo S18e</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/efficient-script-editing-master-the-script-substitutions-pane/"><u>Efficient Script Editing: Master the 'Script Substitutions' Pane</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/enhance-your-building-projects-with-imsibuilds-advanced-strategies-and-tools/"><u>Enhance Your Building Projects with IMsiBuild's Advanced Strategies and Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ignite-a-sizzling-online-presence-with-these-instagram-9-strategies-for-2024/"><u>Ignite a Sizzling Online Presence with These Instagram #9 Strategies for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/interactive-active-configuration-prompt-window/"><u>Interactive Active Configuration Prompt Window</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/must-watch-tv-series-and-films-on-hulu-disneyplus-and-more-this-march-our-expert-guide-by-zdnet/"><u>Must-Watch TV Series and Films on Hulu, Disney+, and More This March: Our Expert Guide by ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-easy-hp-envy-5660-printer-drivers-free-downloads-and-simple-setup/"><u>Quick and Easy HP Envy 5660 Printer Drivers: Free Downloads & Simple Setup</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/seamlessly-shift-snaps-transferring-photos-from-ios-to-macos-catalina/"><u>Seamlessly Shift Snaps: Transferring Photos From iOS to macOS Catalina</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-converting-wmv-files-to-mov-format-on-pc-and-mac/"><u>Step-by-Step Guide: Converting WMV Files to MOV Format on PC and Mac</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-instructions-for-recording-zoom-calls-across-computers-iphones-and-tablets/"><u>Step-by-Step Instructions for Recording Zoom Calls Across Computers, iPhones, and Tablets</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/the-insidious-world-of-fileless-malware-unveiling-its-functionality-and-essential-protection-measures-for-your-system/"><u>The Insidious World of Fileless Malware - Unveiling Its Functionality & Essential Protection Measures for Your System</u></a></li>
-<li><a href="https://article-files.techidaily.com/top-10-steps-youtube-to-mp3mpeg-conversion-process-for-2024/"><u>Top 10 Steps YouTube to MP3/MPEG Conversion Process for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/ultimate-guide-adding-time-stamps-to-your-images-a-step-by-step-tutorial/"><u>Ultimate Guide: Adding Time Stamps to Your Images - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-full-rotation-video-gear-for-social-media-broadcasts/"><u>[New] Full Rotation Video Gear for Social Media Broadcasts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-vivid-chroma-optimizer/"><u>[New] In 2024, Vivid Chroma Optimizer</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-skyrocket-your-channel-growth-with-these-top-5-video-marketing-methods/"><u>2024 Approved Skyrocket Your Channel Growth with These Top 5 Video Marketing Methods</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/1716199270453-360-degree-cameras-vs-3d-cameras-what-are-the-differences/"><u>360 Degree Cameras Vs 3D Cameras What Are the Differences?</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/windows-windows-10-windows-11/"><u>完整指南：如何自由地升级 Windows 系统，从 Windows 10 到 Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/foremost-biodegradable-equipment-for-video-filming-for-2024/"><u>Foremost Biodegradable Equipment for Video Filming for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/freezing-fun-at-the-beijing-olympics-2022/"><u>Freezing Fun at the Beijing Olympics 2022</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/guide-formatting-your-exterior-hdd-for-xbox-one-via-windows-os/"><u>Guide: Formatting Your Exterior HDD for Xbox One via Windows OS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-huawei-nova-y71-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Huawei Nova Y71</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-windows-movie-maker-download-and-setup-a-simple-easy-to-follow-guide/"><u>New 2024 Approved Windows Movie Maker Download and Setup A Simple, Easy-to-Follow Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/resolution-de-problemes-dexecution-installer-windows-11-malgre-les-limitations-du-pc/"><u>Résolution De Problèmes D'Exécution : Installer Windows 11 Malgré Les Limitations Du PC</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/schritt-fur-schritt-anleitung-zum-erstellen-von-bootfahigen-images-mit-windows-und-alternativen-methoden/"><u>Schritt-Für-Schritt-Anleitung Zum Erstellen Von Bootfähigen Images Mit Windows Und Alternativen Methoden</u></a></li>
 </ul></div>
 

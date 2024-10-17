@@ -1,7 +1,7 @@
 ---
 title: IDefault Program FA Q&A - Your Guide to Understanding and Optimizing the Default Application
-date: 2024-10-05T01:21:31.038Z
-updated: 2024-10-11T03:05:48.047Z
+date: 2024-10-15T05:10:32.847Z
+updated: 2024-10-17T00:27:35.436Z
 tags:
   - user-guide
 categories:
@@ -109,16 +109,16 @@ Table of Contents
 ## IDefaultProgramFA
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,15 +126,22 @@ Table of Contents
 IDefaultProgramFA : IDispatch 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to edit a default program setup
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Methods
 
@@ -143,13 +150,6 @@ Adds ProgId extension.
 
 **RemoveExtension(IExtensionFA DefaultProgram)**   
 Removes an added extension.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
@@ -163,10 +163,10 @@ Gets or sets the description of the setup.
 Gets the collection of added ProgId extensions.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,19 +208,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-master-your-youtube-experience-with-premium-subscription/"><u>[Updated] 2024 Approved Master Your YouTube Experience with Premium Subscription</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mint-magic-in-depth-analysis-and-instructions-for-ice-cream-cam/"><u>[Updated] 2024 Approved Mint Magic In-Depth Analysis & Instructions for Ice Cream Cam</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/building-personalized-actions-with-net-an-intuitive-guide/"><u>Building Personalized Actions with .NET - An Intuitive Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-vivo-y27-5g-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Vivo Y27 5G</u></a></li>
-<li><a href="https://blog-min.techidaily.com/convertir-videos-qt-a-wmv-gratuitement-en-ligne-le-guide-detaille-de-movavi/"><u>Convertir Vidéos QT À WMV Gratuitement En Ligne - Le Guide Détaillé De Movavi</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-the-social-media-synergy-twitters-most-shared-tiktoks/"><u>In 2024, The Social Media Synergy Twitter’s Most Shared TikToks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-mindmapping-innovative-strategies-using-chatgpt/"><u>Mastering the Art of Mindmapping: Innovative Strategies Using ChatGPT</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-capturing-whatsapp-messages-across-all-devices/"><u>Step-by-Step Guide: Capturing WhatsApp Messages Across All Devices</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/streamlined-methods-for-masking-facial-features-in-picscanner/"><u>Streamlined Methods for Masking Facial Features in PicScanner</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-epitome-of-engagement-celebrating-the-most-voted-posts-10-for-2024/"><u>The Epitome of Engagement Celebrating the Most-Voted Posts (10) for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-rated-photo-editing-tools-with-transparent-background-features/"><u>Top Rated Photo Editing Tools with Transparent Background Features</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/ultimate-iphone-slide-show-creator-the-1-pick-for-mobile-presentations/"><u>Ultimate iPhone Slide Show Creator: The #1 Pick for Mobile Presentations</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-online-stop-motion-animation-tools-free-and-paid-options/"><u>Updated 2024 Approved Top Online Stop Motion Animation Tools Free and Paid Options</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/zero-dollar-techniques-decrease-png-and-jpeg-file-dimensions-for-faster-loading/"><u>Zero Dollar Techniques: Decrease PNG and JPEG File Dimensions for Faster Loading</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastering-the-skill-how-to-securely-record-on-whatsapp-for-2024/"><u>[New] Mastering the Skill How to Securely Record on WhatsApp for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-integrating-social-spaces-tiktok-uploads-on-facebook/"><u>[Updated] In 2024, Integrating Social Spaces TikTok Uploads on Facebook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-no-expense-full-experience-the-fcp-way-for-2024/"><u>[Updated] No Expense, Full Experience The FCP Way for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-spreading-smiles-building-a-solid-foundation-in-gif-humor/"><u>2024 Approved Spreading Smiles Building a Solid Foundation in GIF Humor</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/6ieq5yqp5lplusu5b6p6luk6lyb55uj5o6n6kiy6yye5yiq6zmk5lql5lu277ya6auy5pwi5zue5b6p5pa55rov5oyh5y2x/"><u>自助修復車輛監控記錄刪除事件：高效回復方法指南</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/behind-the-scenes-look-at-mafia-the-final-cuts-launch-hiccups-now-resolved/"><u>Behind-the-Scenes Look at Mafia: The Final Cut's Launch Hiccups – Now Resolved!</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/eliminate-ransomware-fast-effective-strategies-for-file-restoration/"><u>Eliminate Ransomware Fast: Effective Strategies for File Restoration</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/error-code-explanation-decoding-the-meaning-of-a-missing-webpage-404/"><u>Error Code Explanation: Decoding the Meaning of a Missing Webpage (404)</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/exceedingly-simple-steps-to-recover-unsaved-excel-files-without-a-backup/"><u>Exceedingly Simple Steps to Recover Unsaved Excel Files Without a Backup</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-install-acer-monitor-drivers-top-resources-and-safe-download-links/"><u>Find and Install Acer Monitor Drivers: Top Resources and Safe Download Links</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/fixing-a-corrupted-and-unreadable-disk-essential-troubleshooting-steps/"><u>Fixing a Corrupted and Unreadable Disk: Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/handbrake-incompatibles-avec-windows-nouvelle-version-decouvrez-des-remedes-efficaces-et-dautres-convertisseurs-video-alternatifs/"><u>HandBrake Incompatibles Avec Windows Nouvelle Version : Découvrez Des Remèdes Efficaces Et D'autres Convertisseurs Vidéo Alternatifs</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1728501006287-hddwindows-11/"><u>HDDにWindows 11をインストールするための一番便利なガイド：初心者から上級者まで楽しめる方法</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-virtual-meetings-tips-for-effectively-using-zoom-in-emails/"><u>In 2024, Navigating Virtual Meetings Tips for Effectively Using Zoom in Emails</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-5-innovative-vr-drones-collaborations/"><u>In 2024, Top 5 Innovative VR Drones Collaborations</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/samsung-t7windows-113/"><u>Samsung T7とWindows 11で互換性を回復するための3つのテクニック</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-5-kostenne-gebooten-wie-je-uw-fotos-in-de-icloud-knipt/"><u>Top 5 Kostenne Gebooten: Wie Je Uw Foto's in De iCloud Knipt</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/troubleshooting-tips-for-when-kingston-ssd-utility-doesnt-detect-ssd-in-windows-10/"><u>Troubleshooting Tips for When Kingston SSD Utility Doesn't Detect SSD in Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover Our Java Essentials: Premium Coffee Blends & Accessories"
-date: 2024-10-03T21:47:32.130Z
-updated: 2024-10-10T18:31:51.677Z
+date: 2024-10-14T16:51:03.995Z
+updated: 2024-10-16T23:09:23.573Z
 tags:
   - user-guide
 categories:
@@ -88,29 +88,22 @@ Table of Contents
 
  For an example, see the [Java Product Installation](https://tools.techidaily.com/advancedinstaller/products/) tutorial.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Defining new products
 
 ![New Java Product](https://cdn.advancedinstaller.com/img/toolbar/java-new.png "New Java Product") Use the \[New Product \] toolbar button, the “New Product” list context menu item or press the Insert key while the “Products” panel is focused. Name the Java product as you would name the executable file of your Windows application.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)After creating the new product an executable with this name will be added to the installation. This is the [Native Java Launcher](https://tools.techidaily.com/advancedinstaller/products/) for your Java application.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If you are creating a Mac OS X package, any settings that you set for a Java Product (JVM parameters, classpath etc.) that are based on properties or environment variables will be invalid on Mac OS X.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For JavaFX applications, please follow [How do I create an installer for JavaFX applications?](https://tools.techidaily.com/advancedinstaller/products/) FAQ.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Binding two products' settings
 
@@ -119,33 +112,27 @@ Table of Contents
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When changing the settings of the parent product, the same child's settings will be synchronized. If any of the child's settings are modified instead, they will be excluded from the synchronization when changed again in the parent product.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Unbinding a product's settings
 
 Any child product can be easily desynchronized by selecting “Stop Syncing” from its context menu.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Duplicating the product settings
 
 If you are creating several products that have similar product settings, an easy way is to use Copy/Paste from the context menu. All the settings will be copied to the newly created Java product just like copying a file in Windows Explorer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Setting the Current Feature
 
@@ -154,15 +141,35 @@ Advanced Installer will create components for the added resources as necessary. 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can further manage your package's organization in the [Organization](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing products
 
 ![Remove Java Product](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove Java Product") Use the\[Delete \] toolbar button, the “Delete” list context menu item or press the Delete key while a product is selected. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bundling a JRE with your Application
 
@@ -174,13 +181,6 @@ Advanced Installer will create components for the added resources as necessary. 
 * Define and schedule your service to run on the [Services](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 For an example, see the [Java Service Installation](https://tools.techidaily.com/advancedinstaller/products/)") tutorial.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -228,15 +228,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/solved-firefox-keeps-freezing-2024-guide/"><u>[SOLVED] Firefox Keeps Freezing – 2024 Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-srt-revelation-transforming-computer-performance/"><u>[Updated] SRT Revelation Transforming Computer Performance</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-enhance-clear-speech-on-skype-calls/"><u>2024 Approved Enhance Clear Speech on Skype Calls</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/enhancing-efficiency-the-advanced-techniques-of-project-cache-tab-systems/"><u>Enhancing Efficiency: The Advanced Techniques of Project Cache Tab Systems</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/free-online-conversion-turning-mkv-files-into-m2ts-format-with-ease/"><u>Free Online Conversion: Turning MKV Files Into M2TS Format with Ease</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/mastering-mobile-product-photography-expert-techniques-for-stunning-images/"><u>Mastering Mobile Product Photography: Expert Techniques for Stunning Images</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/mastering-the-art-of-portrait-photography-comprehensive-insights-for-professionals/"><u>Mastering the Art of Portrait Photography: Comprehensive Insights for Professionals</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/simple-and-comprehensive-guide-to-easily-download-instagram-reel-videos/"><u>Simple & Comprehensive Guide to Easily Download Instagram Reel Videos</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/tailoring-your-content-youtube-video-length-reduction-guide/"><u>Tailoring Your Content YouTube Video Length Reduction Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/tomtom-gopro-alternative-review-the-action-cam-2023-for-2024/"><u>TomTom GoPro Alternative Review - The Action Cam 2023 for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/arnessing-the-power-of-short-videos-for-maximum-income/"><u>[New] Harnessing the Power of Short Videos for Maximum Income</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-step-by-step-sharing-your-content-on-facebook/"><u>[Updated] 2024 Approved Step-by-Step Sharing Your Content on Facebook</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-block-youtube-ads-on-chromefirefoxandroidiphone/"><u>[Updated] In 2024, How to Block YouTube Ads on Chrome/Firefox/Android/iPhone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-quickfix-for-podcast-broadcasts/"><u>[Updated] Master Quickfix for Podcast Broadcasts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-tips-for-inserting-captions-in-youtube-videos/"><u>[Updated] Tips for Inserting Captions in YouTube Videos</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1-four-effective-methods-for-copying-your-entire-ipod-library-onto-a-portable-usb-flash-drive/"><u>1. Four Effective Methods for Copying Your Entire iPod Library Onto a Portable USB Flash Drive</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/3-simple-methods-for-moving-your-itunes-music-collection-onto-your-iphone/"><u>3 Simple Methods for Moving Your iTunes Music Collection Onto Your iPhone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/channel-identity-visualization-the-ultimate-toolkit-of-10-for-2024/"><u>Channel Identity Visualization The Ultimate Toolkit of 10 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-jest-in-layout-and-edit-suite/"><u>In 2024, Best Jest in Layout & Edit Suite</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/resolving-file-disappearances-in-windows-11-a-comprehensive-guide-for-data-recovery/"><u>Resolving File Disappearances in Windows 11: A Comprehensive Guide for Data Recovery</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-setup-how-to-secure-sound-blaster-z-drivers-compatible-with-windows-10/"><u>Seamless Setup: How to Secure Sound Blaster Z Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/videosnatch-quality-inspector/"><u>VideoSnatch Quality Inspector</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/win111087raw/"><u>どうやってWin11/10/8/7でRAWパーティションを修復する？</u></a></li>
 </ul></div>
 
