@@ -1,7 +1,7 @@
 ---
 title: "Simplifying File Navigation: Setting Up Quick Links with Installation Wizard"
-date: 2024-10-16T02:45:17.363Z
-updated: 2024-10-16T21:53:59.259Z
+date: 2024-10-24T17:06:56.526Z
+updated: 2024-10-28T19:09:26.822Z
 tags:
   - user-guide
 categories:
@@ -89,15 +89,22 @@ Table of Contents
 
  Advanced Installer supports three types of targets for its shortcuts: URLs, installed files and external files which are already present on the target machine (this includes Uninstall shortcuts). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creating a new shortcut using a wizard
 
 ![New Shortcut Wizard](https://cdn.advancedinstaller.com/img/toolbar/wizard.png "New Shortcut Wizard")Use the \[New Shortcut Wizard \] toolbar button, to quickly and easily create a new shortcut, following step-by-step directions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a shortcut to an installed file
@@ -110,16 +117,10 @@ The new shortcut will be created by default in the “Application Shortcut Folde
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)In case of MSIX builds, shortcuts that are configured to be installed on Desktop will be created when the user launches the app for the first time.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a shortcut to an external file
@@ -129,10 +130,10 @@ Use the “New Shortcut To > External File...” list context menu item. A speci
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If this type of shortcut is being used, in the [Shortcut Properties View](https://tools.techidaily.com/advancedinstaller/products/), the _Shortcut Target_ field must begin with a property. Otherwise, the shortcut will **not** be created. The property can point to a location or a file. For example:\[WindowsVolume\]\\My\_App.exe
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a shortcut to a URL
@@ -143,25 +144,11 @@ Use the “New Shortcut To > URL...” list context menu item. To change the sho
 
 Use the \[New Shortcut... \] toolbar button, the “New Shortcut” list/tree context menu item. If a folder is selected in the tree , it will become the new shortcut's target, otherwise you will be prompted to select a folder to fulfill that role using the [Folder Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Setting shortcut properties
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the \[Properties... \] toolbar button, the “Properties...” list context menu item, press the Enter key while a shortcut is selected in the “Files” panel or double click on a shortcut.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Shortcuts can be renamed, moved or removed just like regular [Files](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Duplicating shortcuts
 
@@ -180,10 +167,10 @@ Another way to condition the installation of a shortcut is to use the "Shortcuts
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Name
@@ -194,6 +181,13 @@ Another way to condition the installation of a shortcut is to use the "Shortcuts
 * IconIndex
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see:[Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -235,20 +229,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-insightful-ways-of-gathering-photographic-elements/"><u>2024 Approved Insightful Ways of Gathering Photographic Elements</u></a></li>
-<li><a href="https://win-forum.techidaily.com/battle-with-a-crashy-windows-explorer-try-these-7-tactics/"><u>Battle with a Crashy Windows Explorer? Try These 7 Tactics</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effortless-file-migration-top-2-techniques-for-shifting-outlook-folders-between-computers/"><u>Effortless File Migration: Top 2 Techniques for Shifting Outlook Folders Between Computers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-itel-s23-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-se-2020-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone SE (2020) Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/impara-a-cancellare-i-byte-in-modo-veloce-sulla-periferica-hard-drive-seagate-con-due-strategie-chiave/"><u>Impara a Cancellare I Byte in Modo Veloce Sulla Periferica Hard Drive Seagate Con Due Strategie Chiave</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-how-to-create-meme-with-kinemaster/"><u>In 2024, How to Create Meme with KineMaster</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-synthesizing-soundscapes-the-top-10-music-manipulation-software-for-windows-and-mac-in-the-year-2024/"><u>New Synthesizing Soundscapes The Top 10 Music Manipulation Software for Windows & Mac in the Year 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/reconnect-your-file-history-drive-effortlessly-with-these-5-proven-fixes/"><u>Reconnect Your File History Drive Effortlessly with These 5 Proven Fixes</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/solving-the-bootstrap-dilemma-in-windows-server-2012-r2/"><u>Solving the Bootstrap Dilemma in Windows Server 2012 R2</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-to-duplicating-your-gpt-disk-using-clonezilla/"><u>Step-by-Step Guide to Duplicating Your GPT Disk Using Clonezilla</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-2-techniques-pour-reparer-et-reformater-un-hdd-extern-a-efficiently/"><u>Top 2 Techniques Pour Reparer Et Reformater Un HDD Extern] À Efficiently</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unleash-potential-get-updated-drivers-for-lenovos-yoga-900s-and-win10/"><u>Unleash Potential: Get Updated Drivers for Lenovo's Yoga 900S & Win10</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-adobe-premiere-pro-the-complete-guide-to-importing-and-exporting-videos-for-2024/"><u>Updated Adobe Premiere Pro The Complete Guide to Importing and Exporting Videos for 2024</u></a></li>
-<li><a href="https://win-great.techidaily.com/wonderfox-unveils-new-feature-the-ultimate-guide-for-locating-elusive-content/"><u>WonderFox Unveils New Feature: The Ultimate Guide for Locating Elusive Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-personalize-your-youtube-watch-experience-with-alerts-and-notes/"><u>[Updated] In 2024, Personalize Your Youtube Watch Experience with Alerts & Notes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-nikon-d7500-review/"><u>[Updated] Nikon D7500 Review</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/3-outlook/"><u>3優れたメソッドで Outlook 連絡先データの安全な保存手順</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/guide-facile-et-complet-pour-reparer-une-corbeille-endommagee-sur-windows-1011/"><u>Guide Facile Et Complet Pour Réparer Une Corbeille Endommagée Sur Windows 10/11</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-automate-regular-backups-for-your-sql-server-databases-sql-server-2012-2019/"><u>How to Automate Regular Backups for Your SQL Server Databases (SQL Server 2012-2019)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-nokia-c32-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-easily-upgrade-the-hard-drive-on-your-gateway-laptop-detailed-instructions-for-each-phase/"><u>How To Easily Upgrade The Hard Drive On Your Gateway Laptop: Detailed Instructions For Each Phase</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ultimate-guide-to-best-internet-recording-tools-2023/"><u>In 2024, Ultimate Guide to Best Internet Recording Tools 2023</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-ultimate-guides-to-3d-type-exploration/"><u>In 2024, Ultimate Guides to 3D Type Exploration</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-15-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Plus Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/recupero-rapido-dei-file-excel-soluzioni-per-il-recupero-la-sovrascrittura-e-leliminazione-accidentale-dei-dati/"><u>Recupero Rapido Dei File Excel: Soluzioni per Il Recupero, La Sovrascrittura E L'eliminazione Accidentale Dei Dati</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-lava-agni-2-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Lava Agni 2 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solutions-for-cutting-edge-video-sync-techniques/"><u>Solutions for Cutting-Edge Video Sync Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-remove-pictures-from-icloud-without-losing-them-on-iphone/"><u>Steps to Remove Pictures From iCloud Without Losing Them on iPhone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/the-most-efficient-techniques-for-safe-high-speed-file-transfers-between-personal-computers/"><u>The Most Efficient Techniques for Safe, High-Speed File Transfers Between Personal Computers</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-5-methods-for-bulk-transferring-contacts-into-your-whatsapp/"><u>Top 5 Methods for Bulk Transferring Contacts Into Your WhatsApp</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-benefits-an-exclusive-look-at-freestyle2s-blue-version-for-apple-product-users/"><u>Unveiling the Benefits: An Exclusive Look at Freestyle2's Blue Version for Apple Product Users</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/windows-11windowsapps/"><u>Windows 11用:「WindowsApps」ディレクトリのセキュリティ確保なしでの完全削除手順</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/windowsold/"><u>Windows系統中已移除的.Old檔案回復方法</u></a></li>
 </ul></div>
 

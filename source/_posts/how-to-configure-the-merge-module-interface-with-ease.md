@@ -1,7 +1,7 @@
 ---
 title: How to Configure the Merge Module Interface with Ease
-date: 2024-10-15T19:53:01.734Z
-updated: 2024-10-17T10:02:11.950Z
+date: 2024-10-21T23:11:41.130Z
+updated: 2024-10-28T22:04:36.771Z
 tags:
   - user-guide
 categories:
@@ -76,19 +76,19 @@ This dialog allows you to configure the merge process.
 ![Configure Merge Module Dialog](https://cdn.advancedinstaller.com/img/dialog/configure-merge-module.png "Configure Merge Module Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feature
@@ -96,10 +96,10 @@ This dialog allows you to configure the merge process.
 You can select the feature that will contain the merge modules' components after the merge process ends. By default, it is the Main Feature (you can use the \[... \] button to select another one). The [Feature Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) will pop up, allowing you to select a feature to reference.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Folder
@@ -109,10 +109,10 @@ You can select the parent folder for the merge module's "TARGETDIR" directory. B
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Usually the "TARGETDIR" folder of a merge module is ".". This means that all the files and folders from the merge module's "TARGETDIR" are going to the selected folder.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -148,17 +148,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-full-rotation-video-gear-for-social-media-broadcasts/"><u>[New] Full Rotation Video Gear for Social Media Broadcasts</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-vivid-chroma-optimizer/"><u>[New] In 2024, Vivid Chroma Optimizer</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-skyrocket-your-channel-growth-with-these-top-5-video-marketing-methods/"><u>2024 Approved Skyrocket Your Channel Growth with These Top 5 Video Marketing Methods</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/1716199270453-360-degree-cameras-vs-3d-cameras-what-are-the-differences/"><u>360 Degree Cameras Vs 3D Cameras What Are the Differences?</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/windows-windows-10-windows-11/"><u>完整指南：如何自由地升级 Windows 系统，从 Windows 10 到 Windows 11</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/foremost-biodegradable-equipment-for-video-filming-for-2024/"><u>Foremost Biodegradable Equipment for Video Filming for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/freezing-fun-at-the-beijing-olympics-2022/"><u>Freezing Fun at the Beijing Olympics 2022</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/guide-formatting-your-exterior-hdd-for-xbox-one-via-windows-os/"><u>Guide: Formatting Your Exterior HDD for Xbox One via Windows OS</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-huawei-nova-y71-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Huawei Nova Y71</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-windows-movie-maker-download-and-setup-a-simple-easy-to-follow-guide/"><u>New 2024 Approved Windows Movie Maker Download and Setup A Simple, Easy-to-Follow Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/resolution-de-problemes-dexecution-installer-windows-11-malgre-les-limitations-du-pc/"><u>Résolution De Problèmes D'Exécution : Installer Windows 11 Malgré Les Limitations Du PC</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/schritt-fur-schritt-anleitung-zum-erstellen-von-bootfahigen-images-mit-windows-und-alternativen-methoden/"><u>Schritt-Für-Schritt-Anleitung Zum Erstellen Von Bootfähigen Images Mit Windows Und Alternativen Methoden</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-guide-uploading-vimeo-videos/"><u>[New] In 2024, Instagram Guide Uploading Vimeo Videos</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1-quick-guide-resolving-operating-system-failed-to-load-error-on-windows-7/"><u>1. Quick Guide: Resolving 'Operating System Failed to Load' Error on Windows 7</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-honor-x50-gt-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Honor X50 GT Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-excessive-cpu-load-by-wdf-issues/"><u>Diagnosing and Resolving Excessive CPU Load by WDF Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/digital-revolution-meets-classic-reading-the-ultimate-guide-to-smartphones-laptops-and-books/"><u>Digital Revolution Meets Classic Reading: The Ultimate Guide to Smartphones, Laptops, and Books</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-14-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone 14?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-online-alter-ego-artistry-drawing-a-fancy-profile/"><u>In 2024, Online Alter-Ego Artistry Drawing a Fancy Profile</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-ai-with-claude-2-functions-features-and-uses-explained/"><u>Mastering AI with Claude 2: Functions, Features, and Uses Explained</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issues-with-launching-football-manager-2023-a-comprehensive-fix/"><u>Resolved: Issues with Launching Football Manager 2023 – A Comprehensive Fix</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1728465032817-windows-10/"><u>Windows 10系統載入影像自動化備存及復原方法</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1728503713586-windows-hdd/"><u>Windows 版本无限选择: 专业级全功能免费下载HDD克隆解决方案</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/shag-za-shagom-kak-skopirovat-dannye-s-odnogo-ssd-na-drugoj-bolshe-vo-vremya-raboty-v-windows-10-i-11/"><u>Шаг За Шагом: Как Скопировать Данные С Одного SSD На Другой Больше Во Время Работы В Windows 10 И 11</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/ucata-vadaja-ma-hataii-gaii-fiil-ka-kasa-panaraparapata-kara-anathana-thata/"><u>उचित विंडोज में हटाई गई फ़ाइलों को कैसे पुनर्प्राप्त करें: अनुदान-दूत</u></a></li>
 </ul></div>
 

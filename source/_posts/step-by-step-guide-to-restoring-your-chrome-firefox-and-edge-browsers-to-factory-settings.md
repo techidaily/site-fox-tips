@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Restoring Your Chrome, Firefox & Edge Browsers to Factory Settings
-date: 2024-10-11T06:27:54.363Z
-updated: 2024-10-17T00:23:49.992Z
+date: 2024-10-22T02:03:34.123Z
+updated: 2024-10-28T23:35:20.345Z
 tags:
   - product
   - antivirus
@@ -61,21 +61,22 @@ Google Chrome has an option to do the reset process by itself. To discover this 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/0.png)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Type **“reset”** in the search box provided. It will show you the resetting option.
 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/1-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Now, a dialogue box will display on the screen, asking for your confirmation to reset.
 
@@ -85,6 +86,13 @@ Google Chrome has an option to do the reset process by itself. To discover this 
 
 Thus successfully, your chrome has changed to the default stage without losing your important files or saved information.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mozilla FireFox
 
 Open the **Firefox** menu button, located on the upper-right corner of the browser window.
@@ -93,23 +101,9 @@ Open the **Firefox** menu button, located on the upper-right corner of the brows
 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/3-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Now from the slide-out, select the **“Troubleshooting Information”** option**.**
 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/4-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Now from the slide-out, select the **“Troubleshooting Information”** option**.**
 
@@ -119,13 +113,6 @@ Open the **Firefox** menu button, located on the upper-right corner of the brows
 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/5-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Again a dialogue box will appear, where you’ll have to click the **“Refresh Firefox”** button**.**
 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/6-3.png)
@@ -133,6 +120,13 @@ Open the **Firefox** menu button, located on the upper-right corner of the brows
 Now, you have successfully reset the Firefox to its default state. The refresh feature will create a new profile for the users. Firefox will store all of the critical data on the desktop in a new folder, named as “**Old Firefox Data**.”
 
 The steps above will help you to change your browser to its default stage. But still, it won’t delete your data completely; your password and add-ons will stay in your browser, within which specific threats may hide. Hence, the steps above can’t be an ultimate solution, at times.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Keep your Browsing Experience Safe
 
@@ -143,16 +137,10 @@ Antivirus programs aren’t capable of identifying many kinds of new and emergin
 ![](https://malwarefox.com/wp-content/uploads/2017/10/MalwareFox-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The MalwareFox scans your browser thoroughly to detect the presence any malware. If it detects any such malicious program, it will automatically remove it. It also includes a competent Real-time protection and Malware detection & removal features.
@@ -192,14 +180,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-culminating-sound-merging-music-with-vimeo-media-assets/"><u>[New] In 2024, Culminating Sound Merging Music with Vimeo Media Assets</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-list-the-5-most-excellent-slow-motion-cams/"><u>2024 Approved Ultimate List The 5 Most Excellent Slow-Motion Cams</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-gamers-manual-to-top-frame-rate-enhancers/"><u>A Gamer's Manual to Top Frame Rate Enhancers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-the-basics-enhancing-your-skills-in-board-games-and-art-with-chatgpts-my-gpt-bot-tools/"><u>Beyond the Basics: Enhancing Your Skills in Board Games & Art with ChatGPT's My GPT Bot Tools</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/como-configurar-respaldos-incrementales-automaticos-para-un-nas-con-servidor-de-escritorio-windows/"><u>Cómo Configurar Respaldos Incrementales Automáticos Para Un NAS Con Servidor De Escritorio Windows</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effective-techniques-for-disabling-sleep-mode-on-your-iphone/"><u>Effective Techniques for Disabling Sleep Mode on Your iPhone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/lost-on-netflix-discover-the-top-5-methods-for-retrieving-deleted-profiles-including-a-handy-hack/"><u>Lost on Netflix? Discover the Top 5 Methods for Retrieving Deleted Profiles, Including a Handy Hack!</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/reviving-your-system-mastering-the-art-of-windows-11-pc-recovery-with-three-essential-techniques/"><u>Reviving Your System: Mastering the Art of Windows 11 PC Recovery with Three Essential Techniques</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/ultimate-guide-for-fixing-damaged-drives-in-windows-1011-easy-solutions/"><u>Ultimate Guide for Fixing Damaged Drives in Windows 10/11 - Easy Solutions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/lavorful-footage-kitchen-film-making-101-for-2024/"><u>[New] Flavorful Footage Kitchen Film-Making 101 for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-elevate-hd-audiovideo-on-your-android-device-with-top-players/"><u>2024 Approved Elevate Hd Audio/Video on Your Android Device with Top Players</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-essential-gopro-video-editors-for-pros/"><u>2024 Approved Essential GoPro Video Editors for Pros</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-a54-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy A54 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1728491348778-word/"><u>透過如何救回無法找到的Word檔案: 高效搜索及修復技術</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/die-beste-anleitung-zur-maximierung-des-iphones-1414-pro14-pro-max-fur-die-musikbibliothek-funf-praktische-tipps-und-tricks-zum-herunterladen-von-songs/"><u>Die Beste Anleitung Zur Maximierung Des iPhones 14/14 Pro/14 Pro Max Für Die Musikbibliothek: Fünf Praktische Tipps Und Tricks Zum Herunterladen Von Songs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/dual-display-dynamics-video-recorder-rankings-for-2024/"><u>Dual Display Dynamics Video Recorder Rankings for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-7-plus-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 7 Plus Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/schritt-fur-schritt-anleitung-zur-dateiubertragung-zwischen-zwei-pcs/"><u>Schritt-Für-Schritt-Anleitung Zur Dateiübertragung Zwischen Zwei PCs</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/simple-steps-swapping-your-laptops-hard-drive-and-seamlessly-moving-data/"><u>Simple Steps: Swapping Your Laptop's Hard Drive & Seamlessly Moving Data</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-recommended-videos-block-the-videos-i-dont-like-for-2024/"><u>YouTube Recommended Videos - Block the Videos I Don't Like for 2024</u></a></li>
 </ul></div>
 
