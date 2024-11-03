@@ -1,7 +1,7 @@
 ---
 title: IDefault Program FA Q&A - Your Guide to Understanding and Optimizing the Default Application
-date: 2024-10-24T01:05:49.128Z
-updated: 2024-10-28T21:45:54.321Z
+date: 2024-10-27T17:25:05.659Z
+updated: 2024-11-03T16:05:22.779Z
 tags:
   - user-guide
 categories:
@@ -109,16 +109,10 @@ Table of Contents
 ## IDefaultProgramFA
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -130,10 +124,10 @@ IDefaultProgramFA : IDispatch
 This interface is meant to edit a default program setup
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -145,10 +139,10 @@ Adds ProgId extension.
 Removes an added extension.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -163,10 +157,10 @@ Gets or sets the description of the setup.
 Gets the collection of added ProgId extensions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,20 +202,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/enhanced-stability-how-total-war-warhammer-iii-crash-issues-are-fixed-for-a-smoother-pc-gameplay/"><u>[ENHANCED STABILITY] How Total War: Warhammer III Crash Issues Are Fixed for a Smoother PC Gameplay</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-dissecting-the-prospects-of-active-presenter-for-techies/"><u>[New] In 2024, Dissecting the Prospects of Active Presenter for Techies</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-5-strategies-for-storing-mov-on-windows-10/"><u>[Updated] 2024 Approved 5 Strategies for Storing .mov on Windows 10</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-poll-power-players-leading-electoral-game-reviews/"><u>[Updated] 2024 Approved Poll Power Players Leading Electoral Game Reviews</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-from-capture-to-share-expert-insights-into-screen-recording-software/"><u>[Updated] From Capture to Share Expert Insights Into Screen Recording Software</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-picks-excellent-4k-displays-for-playing-games/"><u>2024 Approved Top Picks Excellent 4K Displays for Playing Games</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/best-free-methods-secure-your-imessages-locally-without-using-apples-cloud-services/"><u>Best Free Methods: Secure Your iMessages Locally, Without Using Apple's Cloud Services</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/come-proteggere-i-tuoi-dati-prima-di-una-resetta-della-fabbrica-una-guida-su-backup-computer/"><u>Come Proteggere I Tuoi Dati Prima Di Una Resetta Della Fabbrica: Una Guida Su Backup Computer</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/essential-techniques-resolving-windows-10-glitches-and-optimizing-system-functionality/"><u>Essential Techniques: Resolving Windows 10 Glitches and Optimizing System Functionality</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-step-by-step-guide-to-basic-ps-color-correction/"><u>In 2024, Step-by-Step Guide to Basic PS Color Correction</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/mac-outlook-bento/"><u>Mac Outlook 連絡先のデフォルトに変更して、バッファローとBentoでどうやったらエクスポートできますか？</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-the-process-activatingdeactivating-your-iphone-recovery-mode/"><u>Master the Process: Activating/Deactivating Your iPhone Recovery Mode</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-free-outlook-data-backup-tools-comprehensive-guide-for-safeguarding-your-information/"><u>Top Free Outlook Data Backup Tools: Comprehensive Guide for Safeguarding Your Information</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-guide-to-environmentally-safe-tech/"><u>Ultimate Guide to Environmentally Safe Tech</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/unsolved-issue-why-is-the-backup-of-windows-server-2012-r2-not-displayed/"><u>Unsolved Issue: Why Is the Backup of Windows Server 2012 (R2) Not Displayed?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-unleash-views-the-most-effective-30-freefire-tags-for-gamers/"><u>[New] In 2024, Unleash Views The Most Effective 30 FreeFire Tags for Gamers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-secrets-from-pros-how-to-convert-insta-videos-to-premium-mp4-for-2024/"><u>[Updated] Secrets From Pros How to Convert Insta Videos to Premium MP4 for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/robocopy-windows/"><u>最適化された Robocopy コマンド：Windows 向けのシンプルなファイルバックアップ手法</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/guida-completa-come-restaurare-liphone-usando-il-backup-di-icloud/"><u>Guida Completa: Come Restaurare L'iPhone Usando Il Backup Di iCloud</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/hdd-windowspc/"><u>HDD Windows再インストール不要で別PCへの移行手順</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-nubia-red-magic-9-proplus-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Nubia Red Magic 9 Pro+ Unlock Without Password</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-influence-of-seo-on-youtube-video-popularity/"><u>In 2024, Influence of SEO on YouTube Video Popularity</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavis-no-cost-online-tool-for-moc-to-wma-format-transformation-start-now/"><u>Movavi's No-Cost Online Tool for MOC to WMA Format Transformation - Start Now!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/pricing-your-way-to-higher-youtube-traffic/"><u>Pricing Your Way to Higher YouTube Traffic</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/quelques-etapes-simples-pour-substituer-le-ssd-du-steam-deck/"><u>Quelques Étapes Simples Pour Substituer Le SSD Du Steam Deck!</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/reviving-your-files-top-strategies-for-retrieving-deleted-or-missing-data-in-windows-11/"><u>Reviving Your Files: Top Strategies for Retrieving Deleted or Missing Data in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-fixes-for-robloxs-code-262-hurdle/"><u>Swift Fixes for Roblox's Code 262 Hurdle</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1728491829985-chrome/"><u>ダウンロード後のChromeファイルが消えてしまう理由を解析する</u></a></li>
 </ul></div>
 

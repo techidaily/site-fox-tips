@@ -1,7 +1,7 @@
 ---
 title: Understanding the Configuration Options in XML File Preferences
-date: 2024-10-25T16:34:37.931Z
-updated: 2024-10-28T22:29:06.522Z
+date: 2024-10-28T16:05:19.028Z
+updated: 2024-11-03T19:03:13.128Z
 tags:
   - user-guide
 categories:
@@ -100,10 +100,10 @@ Table of Contents
 ## XML Declaration
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Version
@@ -122,10 +122,17 @@ Select the XML file encoding. The following options are available:
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The specified encoding will be used both in the XML declaration and when encoding the output file. When an XML file already exists and is being updated, the changes are made using the detected encoding from the target file, and not the one specified here.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Standalone
@@ -134,27 +141,20 @@ When enabled the Standalone xml flag will be set to “Yes”, otherwise it will
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)A value of “No” indicates that this XML document is not standalone and depends on an externally-defined DTD. A value of “Yes” indicates that the XML document is self-contained.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)These settings are used only when the XML file is created from scratch.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Indent
 
 Specify what type of characters should be used to indent the XML file and their number.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Note that the indent settings are used both when creating a file from scratch and when updating an existing file.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -189,24 +189,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-adopting-nature-positive-policies-in-urban-governance-for-2024/"><u>[New] Adopting Nature-Positive Policies in Urban Governance for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-essential-7-apps-for-high-quality-youtube-live-streaming-on-iphones-and-android-for-2024/"><u>[New] Essential 7 Apps for High-Quality YouTube Live Streaming on iPhones & Android for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-enhancing-viewers-interest-with-innovative-valorant-thumbnail-ideas/"><u>[Updated] Enhancing Viewers' Interest with Innovative Valorant Thumbnail Ideas</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-art-of-crafting-a-youtube-video-with-100kplus-reach/"><u>[Updated] The Art of Crafting a YouTube Video with 100K+ Reach</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/child-friendly-durable-cameras-a-familys-choice-review/"><u>Child-Friendly Durable Cameras - A Family's Choice Review</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/comment-reinitialiser-avec-elegance-le-cylindre-damorcage-sur-windows-111087-en-trois-etapes-faciles-a-suivre/"><u>Comment Réinitialiser Avec Élégance Le Cylindre D'Amorçage Sur Windows 11/10/8/7 en Trois Étapes Faciles À Suivre</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/easily-access-and-manage-your-iphone-files-on-windowsmac-without-itunes-the-complete-tutorial/"><u>Easily Access and Manage Your iPhone Files on Windows/Mac Without iTunes – The Complete Tutorial</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/easy-steps-to-retrieve-deleted-documents-on-your-windows-11-pc/"><u>Easy Steps to Retrieve Deleted Documents on Your Windows 11 PC</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effortless-implementation-how-to-automate-your-sql-database-backups-with-cloud-services/"><u>Effortless Implementation: How to Automate Your SQL Database Backups with Cloud Services</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/guide-facile-pour-activer-windows-11-sans-invite-to-activate-astuces-inedites/"><u>Guide Facile Pour Activer Windows 11 Sans Invite-to-Activate : Astuces Inédites</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-honor-play-7t-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Honor Play 7T.</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-transformative-meme-making-discovering-the-best-8-tools/"><u>In 2024, Transformative Meme-Making Discovering the Best 8 Tools</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/iphone-15-pro-max-vs-samsung-galaxy-s24-ultra-in-depth-comparison/"><u>IPhone 15 Pro Max Vs. Samsung Galaxy S24 Ultra: In-Depth Comparison</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/precision-toolkit-for-flawless-webp-to-jpg-changeover-for-2024/"><u>Precision Toolkit for Flawless WebP to JPG Changeover for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/resolve-your-missing-disk-space-issue-with-windows-11-step-by-step-partition-restoration-tutorial-video/"><u>Resolve Your Missing Disk Space Issue with Windows 11: Step-by-Step Partition Restoration Tutorial Video</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-troubleshooting-tips-to-repair-stuck-image-or-ghosting-effects-on-screens/"><u>Step-by-Step Troubleshooting Tips to Repair Stuck Image or Ghosting Effects on Screens</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-freeware-alternativen-zum-win32-disk-image-generator-gratis-herunterladen/"><u>Top Freeware: Alternativen Zum Win32 Disk Image-Generator - Gratis Herunterladen</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/uberwindet-trennungsschwierigkeiten-bei-macrium-reflect-volumes-funf-losungen-zum-ausprobieren/"><u>Überwindet: Trennungsschwierigkeiten Bei Macrium Reflect Volumes - Fünf Lösungen Zum Ausprobieren</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/werden-itunes-synchronisierte-bilder-nach-behebung-entfernt/"><u>Werden ITunes-Synchronisierte Bilder Nach Behebung Entfernt?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-from-sound-to-storage-logging-online-broadcasts-efficiently/"><u>[New] 2024 Approved From Sound to Storage Logging Online Broadcasts Efficiently</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-expert-tips-for-maximizing-vscos-potential/"><u>[Updated] 2024 Approved Expert Tips for Maximizing VSCO's Potential</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-precision-capturing-for-your-ps3-gaming-adventures/"><u>[Updated] In 2024, Precision Capturing for Your PS3 Gaming Adventures</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-melodies-and-movements-uncovering-three-economical-methods-of-syncing-sound-with-iphone-videos/"><u>[Updated] Melodies and Movements Uncovering Three Economical Methods of Syncing Sound with iPhone Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-chatbot-prompts-to-podcast-echoes/"><u>From ChatBot Prompts to Podcast Echoes</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/guide-facile-et-complet-pour-reparer-une-corbeille-endommagee-sur-windows-1011/"><u>Guide Facile Et Complet Pour Réparer Une Corbeille Endommagée Sur Windows 10/11</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/losen-sie-das-problem-des-leeren-ordners-und-der-fehlenden-dokumente-in-myrecover-exklusive-tipps-zur-wiederherstellung-ihrer-daten/"><u>Lösen Sie Das Problem Des Leeren Ordners Und Der Fehlenden Dokumente in 'MyRecover' | Exklusive Tipps Zur Wiederherstellung Ihrer Daten!</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/perfekt-planen-einfach-und-schnell-den-wechsel-zur-neuen-windows-11-bootfestplatte/"><u>Perfekt Planen: Einfach Und Schnell Den Wechsel Zur Neuen Windows 11 Bootfestplatte</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/recupero-rapido-dei-file-excel-soluzioni-per-il-recupero-la-sovrascrittura-e-leliminazione-accidentale-dei-dati/"><u>Recupero Rapido Dei File Excel: Soluzioni per Il Recupero, La Sovrascrittura E L'eliminazione Accidentale Dei Dati</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/risolvi-lerrore-0xc00-grovemente-su-windows-11-proteggi-i-tuoi-dati/"><u>Risolvi L'Errore '0XC00 Grovemente Su Windows 11 - Proteggi I Tuoi Dati</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/share-and-post-like-a-pro-mastering-instagram-gif-uploads-4-step-method-for-2024/"><u>Share & Post Like a Pro Mastering Instagram GIF Uploads (4-Step Method) for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/simple-steps-to-tackle-kernelbasedll-crashes-effectively/"><u>Simple Steps to Tackle KernelBase.dll Crashes Effectively</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/the-most-efficient-techniques-for-safe-high-speed-file-transfers-between-personal-computers/"><u>The Most Efficient Techniques for Safe, High-Speed File Transfers Between Personal Computers</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-12-camcorders-integrating-advanced-gps-technology-for-2024/"><u>Top 12 Camcorders Integrating Advanced GPS Technology for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-5-methods-for-bulk-transferring-contacts-into-your-whatsapp/"><u>Top 5 Methods for Bulk Transferring Contacts Into Your WhatsApp</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/understanding-video-aspect-ratios-a-comprehensive-guide/"><u>Understanding Video Aspect Ratios - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/using-a-single-microsoft-account-across-multiple-desktops-in-windows-10-how-does-it-work/"><u>Using a Single Microsoft Account Across Multiple Desktops in Windows 10: How Does It Work?</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/windows-11windowsapps/"><u>Windows 11用:「WindowsApps」ディレクトリのセキュリティ確保なしでの完全削除手順</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhancing Photos via IPatch - The Ultimate Image Update Tutorial
-date: 2024-10-10T11:02:26.236Z
-updated: 2024-10-17T02:02:20.717Z
+date: 2024-10-30T16:25:44.939Z
+updated: 2024-11-03T16:02:54.667Z
 tags:
   - user-guide
 categories:
@@ -118,31 +118,32 @@ Table of Contents
 ## IPatchUpgradeImage
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 IPatchUpgradeImage : IDispatch
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Overview
 
 This interface is meant to edit patch upgraded image properties.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -162,10 +163,10 @@ This interface is meant to edit patch upgraded image properties.
 **Array<IPatchTargetImage> TargetImages**  \-.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -177,13 +178,6 @@ This interface is meant to edit patch upgraded image properties.
 **NewTargetImage(String aMsiPackage) returns IPatchTargetImage** Creates new target image from a .msi file specified by its source path. 
 
 **DeleteTargetImage(IPatchTargetImage aTargetImage)** Deletes the specified targe image.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## See also
 
@@ -224,18 +218,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-obs-versus-streamlabs-the-live-stream-software-duel/"><u>2024 Approved OBS Versus Streamlabs – The Live Stream Software Duel</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-confusion-how-to-fix-0x8007045d-blue-screen-in-win11/"><u>Clearing Up Confusion: How to Fix 0X8007045d Blue Screen in Win11</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/clonezilla-success-guide-tips-for-effectively-copying-drives-with-errors-and-extensive-capacities/"><u>Clonezilla Success Guide: Tips for Effectively Copying Drives with Errors and Extensive Capacities</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/come-recuperare-i-promemoria-sul-tuo-iphone-in-un-clic/"><u>Come Recuperare I Promemoria Sul Tuo iPhone in Un Clic</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nokia-g42-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nokia G42 5G Phone that is Locked?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-y27-4g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo Y27 4G Device</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mastering-personalized-excel-views-preserving-and-sharing-preferred-workbook-layouts/"><u>Mastering Personalized Excel Views: Preserving and Sharing Preferred Workbook Layouts</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-best-free-mpeg-video-joiner-software-top-5-list/"><u>New Best Free MPEG Video Joiner Software Top 5 List</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/robust-ecosystem-the-interoperability-between-devices-creates-an-integrated-experience-for-users-who-own-multiple-apple-products-this-synergy-encourages-cus59/"><u>Robust Ecosystem: The Interoperability Between Devices Creates an Integrated Experience for Users Who Own Multiple Apple Products. This Synergy Encourages Customer Loyalty and Boosts Sales Across the Product Lineup.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-diy-skills-unveiling-the-power-of-gpt-4s-artificial-intelligence-innovation/"><u>Transform Your DIY Skills - Unveiling the Power of GPT-4's Artificial Intelligence Innovation</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/unveiling-the-art-of-chromatic-mastery-in-video-editing-11-steps-for-2024/"><u>Unveiling the Art of Chromatic Mastery in Video Editing (11 Steps) for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1728505210571-windows-10/"><u>Windows 10で回復用ドライブへのシステムファイルバックアップ手順</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1728485607634-windows-11c/"><u>Windows 11中四种簡便转移C槽程序至目标位置的方法</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-social-media-tags-leading-tools-reviewed-fbtwitterinsta/"><u>[New] Mastering Social Media Tags Leading Tools Reviewed (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1728470066238-pst/"><u>自動化PST檔案備份：簡單的方法與最佳做法</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/fehlerbehebung-bei-der-windows-10-versionshistorie-funktion/"><u>Fehlerbehebung Bei Der Windows 10 Versionshistorie-Funktion</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-playstation-to-your-desktop-ps4-controller-guide/"><u>From PlayStation to Your Desktop: PS4 Controller Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/guide-complet-pour-resoudre-le-probleme-de-peripherique-non-demarrable-sur-windows-11-apres-un-clonage/"><u>Guide Complet Pour Résoudre Le Problème De Périphérique Non-Démarrable Sur Windows 11 Après Un Clonage</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-advice-for-mastering-full-screen-in-ppro/"><u>In 2024, Expert Advice for Mastering Full Screen in PPro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-single-out-focal-point-using-affinity/"><u>In 2024, Single-Out Focal Point Using Affinity</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/schritt-fur-schritt-anleitung-wie-loschen-sie-dateien-wiederhergestellt-werden-konnen-die-im-team-verloren-gegangen-sind/"><u>Schritt-Für-Schritt Anleitung: Wie Löschen Sie Dateien Wiederhergestellt Werden Können, Die Im Team Verloren Gegangen Sind?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-sony-xperia-1-v-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Sony Xperia 1 V Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/soundscape-inversion-masterclass-identifying-the-premium-audio-reversers-available-today/"><u>Soundscape Inversion Masterclass Identifying the Premium Audio Reversers Available Today</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-restoring-files-from-a-western-digital-easystore/"><u>Step-by-Step Guide: Restoring Files From a Western Digital EasyStore</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/ultimate-guide-how-to-securely-preserve-your-files-before-performing-a-clean-windows-11-reinstall/"><u>Ultimate Guide: How to Securely Preserve Your Files Before Performing a Clean Windows 11 Reinstall</u></a></li>
+<li><a href="https://games-able.techidaily.com/who-wins-in-specifications-asus-rog-ally-or-steam-deck/"><u>Who Wins in Specifications: ASUS ROG Ally or Steam Deck?</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1728473389836-windows-11ssd/"><u>Windows 11のシステムへのSSD移行手順：クローニング不要</u></a></li>
 </ul></div>
 
