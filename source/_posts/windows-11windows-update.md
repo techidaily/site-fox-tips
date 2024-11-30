@@ -1,7 +1,7 @@
 ---
 title: 解決方法：Windows 11更新失敗時的“Windows Update出現問題，請在後台重新設定”
-date: 2024-11-15T16:25:54.040Z
-updated: 2024-11-22T12:50:45.909Z
+date: 2024-11-24T20:27:51.700Z
+updated: 2024-11-30T21:02:31.608Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/dd18e8bc3c9f273d09d135719fd511870ffe57b02ca619c624658544faadfc68.jpg
@@ -24,10 +24,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
@@ -48,13 +44,13 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
@@ -73,6 +69,10 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -86,7 +86,7 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
@@ -105,6 +105,10 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
@@ -122,7 +126,7 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -145,10 +149,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Autres articles connexes
 
 ##### [Meilleur logiciel pour sauvegarder NAS Buffalo sur disque dur externe](https://tools.techidaily.com/ubackup/products/)
@@ -169,10 +169,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -180,6 +176,10 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 [**Télécharger gratuiciel**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -198,24 +198,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-sync-your-mac-visuals-with-acoustic-backup/"><u>[New] 2024 Approved Sync Your Mac Visuals with Acoustic Backup</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-foremost-9-digital-mic-recorders-for-high-fidelity-capture/"><u>[New] In 2024, The Foremost 9 Digital Mic Recorders for High-Fidelity Capture</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-seo-essentials-for-climbing-the-youtube-popularity-ladder/"><u>[Updated] 2024 Approved SEO Essentials for Climbing the YouTube Popularity Ladder</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1-free-open-source-argon-css-framework-based-on-bootstrap-4-by-creative-tim/"><u>1. Free, Open-Source Argon CSS Framework Based on Bootstrap 4 by Creative Tim</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-process-of-android-video-u-turns/"><u>2024 Approved The Process of Android Video U-Turns</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/advanced-creative-tim-and-updivision-pro-dashboard-design-with-soft-ui-for-laravel-applications/"><u>Advanced Creative Tim & UPDIVISION Pro Dashboard Design with Soft UI for Laravel Applications</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/advanced-pro-user-interface-dashboard-using-laravel-livewire-a-joint-venture-by-creative-tim-and-updivision/"><u>Advanced Pro User Interface Dashboard Using Laravel Livewire: A Joint Venture by Creative Tim & UPDIVISION</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/comprehensive-vue-based-material-dashboard-for-laravel-developers-with-json-api-integration-by-creative-tim-professional-edition/"><u>Comprehensive Vue-Based Material Dashboard for Laravel Developers with JSON API Integration by Creative Tim - Professional Edition</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/creative-tims-65-page-collection-of-free-design-assets-and-templates-using-the-argon-design-system/"><u>Creative Tim's 65-Page Collection of Free Design Assets and Templates Using the Argon Design System</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/creative-tims-nuxt-black-a-complimentary-admin-template-with-nuxt-and-bootstrap-3/"><u>Creative Tim's Nuxt Black: A Complimentary Admin Template with Nuxt & Bootstrap 3</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/discover-the-ultimate-combination-of-react-frameworks-with-nextjs-and-material-ui-bundle-by-creative-tim-absolutely-free/"><u>Discover the Ultimate Combination of React Frameworks with NextJS & Material UI Bundle by Creative Tim - Absolutely Free!</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effortlessly-navigate-your-projects-using-the-complimentary-argon-tailwind-dashboard-by-creative-tim/"><u>Effortlessly Navigate Your Projects Using the Complimentary Argon Tailwind Dashboard by Creative Tim</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/get-started-for-free-with-notions-premium-tools-tailwind-css-plus-nextjs-ui-kit-and-admin-solutions/"><u>Get Started for Free with Notion's Premium Tools: Tailwind CSS + NextJS UI Kit & Admin Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-infinix-note-30-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Infinix Note 30.</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-nubia-z50-ultra-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Nubia Z50 Ultra</u></a></li>
-<li><a href="https://article-posts.techidaily.com/latest-vr-gaming-engines-review-2023-edition-for-2024/"><u>Latest VR Gaming Engines Review - 2023 Edition for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/pc-volume-issues-resolve-them-with-these-simple-steps/"><u>PC Volume Issues? Resolve Them with These Simple Steps!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/premium-performance-in-disk-cloning-discover-the-leading-mt2-nvme-ssd-cloner-tool-with-aomeis-innovative-backupper/"><u>Premium Performance in Disk Cloning: Discover the Leading M.t2 NVMe SSD Cloner Tool with AOMEI's Innovative Backupper</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unpacking-italys-decision-for-swiftly-banning-chatgpt-without-delay/"><u>Unpacking Italy's Decision for Swiftly Banning ChatGPT Without Delay</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-altering-who-can-access-your-youtube-videos/"><u>[Updated] Altering Who Can Access Your YouTube Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-getting-started-easy-video-intros-available/"><u>2024 Approved Getting Started Easy Video Intros Available</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-macbook-users-learn-how-to-download-and-use-videoleap/"><u>2024 Approved MacBook Users Learn How to Download and Use Videoleap</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-apply-windows-drivers-offline-comprehensive-instructions/"><u>Download and Apply Windows Drivers Offline – Comprehensive Instructions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-firewall-essential-fixes-for-a-shutdown-system/"><u>Enabling Firewall: Essential Fixes for a Shutdown System</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-prepare-monochrome-pictures-prior-to-publishing-with-flippingbook-a-step-by-step-guide/"><u>How to Prepare Monochrome Pictures Prior to Publishing with FlippingBook - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-secure-your-official-flipbuilder-licensing-code-from-within-your-organization/"><u>How to Secure Your Official FlipBuilder Licensing Code From Within Your Organization</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-set-up-a-print-feature-for-readers-in-your-digital-flipbooks-on-flipbuildercom/"><u>How to Set Up a Print Feature for Readers in Your Digital Flipbooks on FlipBuilder.com</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/is-there-an-onoff-function-for-annotations-in-flipbuilder-output-ebooks/"><u>Is There an On/Off Function for Annotations in FlipBuilder Output Ebooks?</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/mastering-quick-transitions-between-content-sections-using-flipbuilders-guide/"><u>Mastering Quick Transitions Between Content Sections Using FlipBuilder's Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/mastering-scale-the-ultimate-guide-to-resizing-pages-in-flipping-books-on-flipbuilder/"><u>Mastering Scale: The Ultimate Guide to Resizing Pages in Flipping Books on FlipBuilder</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-implementing-a-contact-icon-button-in-the-toolbar-with-flipbuilder/"><u>Step-by-Step Guide: Implementing a Contact Icon Button in the Toolbar with FlipBuilder</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-for-organizing-flip-images-with-bookmarks-using-flipbuilder-tool/"><u>Step-by-Step Tutorial for Organizing Flip Images with Bookmarks Using FlipBuilder Tool</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-complete-guide-to-professional-fbx-game-capture-for-2024/"><u>The Complete Guide to Professional FBX Game Capture for 2024</u></a></li>
 </ul></div>
 
