@@ -1,7 +1,7 @@
 ---
 title: "From Turntables to Touchscreens: The Fascinating History Behind Modern DJ Controllers"
-date: 2024-11-24T20:01:00.172Z
-updated: 2024-11-30T20:02:23.267Z
+date: 2024-12-04T19:34:07.859Z
+updated: 2024-12-08T19:09:54.655Z
 tags:
   - product
 categories:
@@ -64,7 +64,7 @@ It’s amazing to think it all started with that little 2U 19″ rackmountable c
 **Where Did All These DJ Controllers Come From?** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,24 +86,19 @@ https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png 0 0 Ryan Sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ultimate-workstations-your-tech-dreams-realized/"><u>[New] In 2024, Ultimate Workstations - Your Tech Dreams Realized</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-list-of-3d-animation-and-modelling-programs/"><u>[New] The Ultimate List of 3D Animation and Modelling Programs</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-unlocking-the-art-of-photographic-posts-on-instagram-for-2024/"><u>[Updated] Unlocking the Art of Photographic Posts on Instagram for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1-free-open-source-argon-css-framework-based-on-bootstrap-4-by-creative-tim/"><u>1. Free, Open-Source Argon CSS Framework Based on Bootstrap 4 by Creative Tim</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-comprehensive-codes-of-conduct-for-the-yt-community/"><u>2024 Approved Comprehensive Codes of Conduct for the Yt Community</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/advanced-creative-tim-and-updivision-pro-dashboard-design-with-soft-ui-for-laravel-applications/"><u>Advanced Creative Tim & UPDIVISION Pro Dashboard Design with Soft UI for Laravel Applications</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/advanced-pro-user-interface-dashboard-using-laravel-livewire-a-joint-venture-by-creative-tim-and-updivision/"><u>Advanced Pro User Interface Dashboard Using Laravel Livewire: A Joint Venture by Creative Tim & UPDIVISION</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-15-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 15 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/comprehensive-vue-based-material-dashboard-for-laravel-developers-with-json-api-integration-by-creative-tim-professional-edition/"><u>Comprehensive Vue-Based Material Dashboard for Laravel Developers with JSON API Integration by Creative Tim - Professional Edition</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/creative-tims-65-page-collection-of-free-design-assets-and-templates-using-the-argon-design-system/"><u>Creative Tim's 65-Page Collection of Free Design Assets and Templates Using the Argon Design System</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/creative-tims-nuxt-black-a-complimentary-admin-template-with-nuxt-and-bootstrap-3/"><u>Creative Tim's Nuxt Black: A Complimentary Admin Template with Nuxt & Bootstrap 3</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/discover-the-ultimate-combination-of-react-frameworks-with-nextjs-and-material-ui-bundle-by-creative-tim-absolutely-free/"><u>Discover the Ultimate Combination of React Frameworks with NextJS & Material UI Bundle by Creative Tim - Absolutely Free!</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effortlessly-navigate-your-projects-using-the-complimentary-argon-tailwind-dashboard-by-creative-tim/"><u>Effortlessly Navigate Your Projects Using the Complimentary Argon Tailwind Dashboard by Creative Tim</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/get-started-for-free-with-notions-premium-tools-tailwind-css-plus-nextjs-ui-kit-and-admin-solutions/"><u>Get Started for Free with Notion's Premium Tools: Tailwind CSS + NextJS UI Kit & Admin Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-tecno-spark-20-proplusmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Tecno Spark 20 Pro+Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-successfully-migrate-edb-mailboxes-to-a-running-exchange-environment/"><u>How to Successfully Migrate EDB Mailboxes to a Running Exchange Environment</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-depth-insights-on-creating-captivating-instagram-stories-for-2024/"><u>In-Depth Insights on Creating Captivating Instagram Stories for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/pro-mic-tech-review-best-9-online-recorders-uncovered-for-2024/"><u>Pro Mic Tech Review Best 9 Online Recorders Uncovered for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-must-have-iphone-apps-the-complete-roundup/"><u>Updated Must-Have iPhone Apps The Complete Roundup</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-1k-fans-on-yt-your-strategic-playbook-for-success/"><u>[Updated] 1K Fans on YT Your Strategic Playbook for Success</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-screen-shots-on-windows-machines-for-2024/"><u>[Updated] Mastering Screen Shots on Windows Machines for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-enhance-your-site-with-complimentary-microsoft-live-widgets/"><u>1. Enhance Your Site with Complimentary Microsoft Live Widgets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/access-chatgpt-effortlessly-a-guide-to-enjoying-its-features-account-free/"><u>Access ChatGPT Effortlessly: A Guide to Enjoying Its Features Account-Free</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/s-of-online-videos-the-easiest-10-ideas-for-beginners-on-youtube-for-2024/"><u>Basics of Online Videos The Easiest 10 Ideas for Beginners on YouTube for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/build-efficient-windows-shortcuts-using-tips-from-yl-software-experts/"><u>Build Efficient Windows Shortcuts Using Tips From YL Software Experts</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-x7b-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X7b Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/identifying-a-defective-sound-card-diagnosis-and-solutions-from-yl-computing/"><u>Identifying a Defective Sound Card - Diagnosis and Solutions From YL Computing</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/mastering-the-cryptocurrency-market-buying-selling-and-secure-storage-tips-by-yl-software-experts/"><u>Mastering the Cryptocurrency Market: Buying, Selling and Secure Storage Tips by YL Software Experts</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/securing-your-digital-assets-expert-tips-on-storing-cryptocurrency-safely-insights-from-yl-computing/"><u>Securing Your Digital Assets: Expert Tips on Storing Cryptocurrency Safely - Insights From YL Computing</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1337380-9780988677319-the-practical-shaman/"><u>The Practical Shaman | Free Book</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transformez-un-fichier-ts-en-video-mp4-gratuite-en-ligne-avec-videoregistrator/"><u>Transformez Un Fichier .TS en Vidéo MP4 Gratuite en Ligne Avec Videoregistrator</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/yl-softwares-exclusive-zebra-theme-imagery-for-personalized-pc-environments/"><u>YL Software's Exclusive Zebra Theme Imagery for Personalized PC Environments</u></a></li>
 </ul></div>
 
