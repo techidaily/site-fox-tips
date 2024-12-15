@@ -1,7 +1,7 @@
 ---
 title: Beta Release of Updated Karaoke Quest - KaraoQuest Song Query App Version 1.1.1 | DJ Software
-date: 2024-12-02T19:37:18.727Z
-updated: 2024-12-08T22:17:05.917Z
+date: 2024-12-13T01:54:16.329Z
+updated: 2024-12-15T01:58:45.495Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ The now-available 1.1.1 beta (via TestFlight) includes various bug fixes, perfor
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New And What To Test In KaraoQuest Beta 1.1.1
@@ -63,7 +63,7 @@ On application startup, if the last access was made from a public Internet addre
 * Various other small performance improvements
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How The KaraoQuest iOS App Works
@@ -84,7 +84,7 @@ Enter the IP address of the Karaoke host (provided by host to singer)
 [![KaraoQuest singer requests step 1](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/Connect-5s.png?fit=580%2C1030&ssl=1 "KaraoQuest Connect Step 1")](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/Connect-5s.png?fit=580%2C1030&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2 – Search Song**  
@@ -93,7 +93,7 @@ Browse or search through the song list and select a song for request.
 [![Browsing And Searching Song KaraoQuest](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/SongsTV-750x1334.png?fit=579%2C1030&ssl=1 "KaraoQuest Search Song")](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/SongsTV-750x1334.png?fit=579%2C1030&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3 – Request Song**  
@@ -106,7 +106,7 @@ Enter your name and press confirm request to send the request to the PCDJ Karaok
 _Have questions about the KaraokQuest **remote song request app**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -128,19 +128,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/karaoquest-app-v111.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-tiktok-hits-twitters-viral-top-10-list/"><u>[New] TikTok Hits Twitter's Viral Top 10 List</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-ultimate-list-mac-video-editors-for-macos-big-sur-11-users/"><u>[New] Ultimate List Mac Video Editors for macOS Big Sur 11 Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-textual-dimension-mastering-adobe-illustrator/"><u>2024 Approved The Art of Textual Dimension Mastering Adobe Illustrator</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/american-wilderness-high-resolution-wallpapers-and-backgrounds-by-yl-computing/"><u>American Wilderness: High-Resolution Wallpapers & Backgrounds by YL Computing</u></a></li>
-<li><a href="https://win-web3.techidaily.com/best-solutions-how-to-resolve-windows-11-error-code-0xc000000e-without-losing-your-data/"><u>Best Solutions: How to Resolve Windows 11 Error Code 0xC000000E without Losing Your Data</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/celebrate-australia-day-with-premier-wallpapers-from-yl-computings-professional-software-suite/"><u>Celebrate Australia Day with Premier Wallpapers From YL Computing's Professional Software Suite</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/challenges-to-overcome-a-deep-dive-into-why-chatgpt-jailbreaks-are-unfeasible-7-reasons/"><u>Challenges to Overcome: A Deep Dive Into Why ChatGPT Jailbreaks Are Unfeasible (7 Reasons)</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/detecting-graphic-card-malfunctions-tips-and-tricks-from-yl-computing/"><u>Detecting Graphic Card Malfunctions: Tips & Tricks From YL Computing</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/exploring-enhanced-protection-the-best-security-features-of-windows-11-unveiled-by-yl-computing/"><u>Exploring Enhanced Protection: The Best Security Features of Windows 11 - Unveiled by YL Computing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-se-2020-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone SE (2020) to Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/navigating-law-and-digital-assets-the-legal-impacts-of-cryptocurrencies-by-yl-software/"><u>Navigating Law and Digital Assets: The Legal Impacts of Cryptocurrencies by YL Software</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/preventing-issues-with-your-compatible-windows-devices-tips-and-tricks-yl-solutions/"><u>Preventing Issues with Your Compatible Windows Devices: Tips & Tricks - YL Solutions</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-top-tier-best-4k8k-video-editing-software-for-professionals/"><u>Updated In 2024, The Top Tier Best 4K/8K Video Editing Software for Professionals</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/visual-storytelling-support-center/"><u>Visual Storytelling Support Center</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-perfecting-transition-timings-in-premiere-audio-for-2024/"><u>[New] Perfecting Transition Timings in Premiere Audio for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-snappy-vids-guide-essential-info/"><u>[New] Snappy Vids Guide Essential Info</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-recording-to-releasing-editing-in-garageband/"><u>2024 Approved From Recording to Releasing Editing in GarageBand</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/constant-disconnects-with-your-printer-discover-why-and-fix-it-tips-by-yl-computing-expertise/"><u>Constant Disconnects with Your Printer? Discover Why and Fix It - Tips by YL Computing Expertise</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-tips-on-syncing-gmail-and-zoom-for-remote-collaboration/"><u>Expert Tips on Syncing Gmail and Zoom for Remote Collaboration</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-fix-a-scanner-that-wont-power-up-expert-advice-from-yl-computing/"><u>How To Fix A Scanner That Won't Power Up: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/kobe-wallpapers-high-quality-background-images-and-inspirational-photos-by-yl-computing/"><u>Kobe Wallpapers: High-Quality Background Images and Inspirational Photos by YL Computing</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/reviving-your-stubborn-printer-effective-solutions-by-yl-software-experts/"><u>Reviving Your Stubborn Printer: Effective Solutions by YL Software Experts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/scaling-up-on-igtv-through-powerful-hash-tagging-for-2024/"><u>Scaling Up on IGTV Through Powerful Hash Tagging for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-enabling-xvid-format-support-on-android-devices/"><u>Step-by-Step Tutorial for Enabling Xvid Format Support on Android Devices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-shots-premium-video-cams-for-slow-motion-magic-for-2024/"><u>Top Shots Premium Video Cams for Slow-Motion Magic for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/troubleshooting-guide-making-a-non-compatible-graphics-card-work-on-windows-tips-and-solutions-by-yl-software/"><u>Troubleshooting Guide: Making a Non-Compatible Graphics Card Work on Windows - Tips & Solutions by YL Software</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/ultimate-guide-to-securing-your-pc-against-malware-insights-from-yl-tech-experts/"><u>Ultimate Guide to Securing Your PC Against Malware - Insights From YL Tech Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-xinput13dll-and-troubleshooting-its-absence/"><u>Understanding XINPUT1_3.dll & Troubleshooting Its Absence</u></a></li>
 </ul></div>
 

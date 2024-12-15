@@ -1,7 +1,7 @@
 ---
 title: "From Turntables to Touchscreens: The Fascinating History Behind Modern DJ Controllers"
-date: 2024-12-04T19:34:07.859Z
-updated: 2024-12-08T19:09:54.655Z
+date: 2024-12-09T03:35:33.636Z
+updated: 2024-12-14T19:54:54.784Z
 tags:
   - product
 categories:
@@ -64,7 +64,7 @@ It’s amazing to think it all started with that little 2U 19″ rackmountable c
 **Where Did All These DJ Controllers Come From?** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,19 +86,20 @@ https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png 0 0 Ryan Sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/updated-1k-fans-on-yt-your-strategic-playbook-for-success/"><u>[Updated] 1K Fans on YT Your Strategic Playbook for Success</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-screen-shots-on-windows-machines-for-2024/"><u>[Updated] Mastering Screen Shots on Windows Machines for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/1-enhance-your-site-with-complimentary-microsoft-live-widgets/"><u>1. Enhance Your Site with Complimentary Microsoft Live Widgets</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/access-chatgpt-effortlessly-a-guide-to-enjoying-its-features-account-free/"><u>Access ChatGPT Effortlessly: A Guide to Enjoying Its Features Account-Free</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/s-of-online-videos-the-easiest-10-ideas-for-beginners-on-youtube-for-2024/"><u>Basics of Online Videos The Easiest 10 Ideas for Beginners on YouTube for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/build-efficient-windows-shortcuts-using-tips-from-yl-software-experts/"><u>Build Efficient Windows Shortcuts Using Tips From YL Software Experts</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-x7b-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X7b Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/identifying-a-defective-sound-card-diagnosis-and-solutions-from-yl-computing/"><u>Identifying a Defective Sound Card - Diagnosis and Solutions From YL Computing</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/mastering-the-cryptocurrency-market-buying-selling-and-secure-storage-tips-by-yl-software-experts/"><u>Mastering the Cryptocurrency Market: Buying, Selling and Secure Storage Tips by YL Software Experts</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/securing-your-digital-assets-expert-tips-on-storing-cryptocurrency-safely-insights-from-yl-computing/"><u>Securing Your Digital Assets: Expert Tips on Storing Cryptocurrency Safely - Insights From YL Computing</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1337380-9780988677319-the-practical-shaman/"><u>The Practical Shaman | Free Book</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transformez-un-fichier-ts-en-video-mp4-gratuite-en-ligne-avec-videoregistrator/"><u>Transformez Un Fichier .TS en Vidéo MP4 Gratuite en Ligne Avec Videoregistrator</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/yl-softwares-exclusive-zebra-theme-imagery-for-personalized-pc-environments/"><u>YL Software's Exclusive Zebra Theme Imagery for Personalized PC Environments</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-live-broadcast-essentials-for-macos-users-on-mixer/"><u>2024 Approved Live Broadcast Essentials for macOS Users on Mixer</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-youtube-profits-ajeys-guidebook/"><u>2024 Approved Mastering YouTube Profits Ajey's Guidebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/cutting-edge-screenrecord-a-compreraniary-examination/"><u>Cutting-Edge ScreenRecord A Compreraniary Examination</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-realme-10t-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Realme 10T 5G</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/expert-tips-for-easy-integration-of-latest-graphics-cards-into-your-pc-system-tech-solutions-by-yl-computing/"><u>Expert Tips for Easy Integration of Latest Graphics Cards Into Your PC System - Tech Solutions by YL Computing</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/expose-by-chinas-national-supervisory-authority-tackling-corruption-over-36000-cases-probed-and-52k-officials-disciplined-in-public-welfare-sector-yl-comput12/"><u>Exposé by China's National Supervisory Authority: Tackling Corruption, Over 36,000 Cases Probed and 52K Officials Disciplined in Public Welfare Sector - YL Computing Analysis | YL Software</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/guard-your-system-expert-tips-on-preventing-malware-and-virus-attacks-by-yl-software-team/"><u>Guard Your System: Expert Tips on Preventing Malware and Virus Attacks by YL Software Team</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/karaoke-cloud-pros-latest-launch-explore-out-of-the-woods-and-more/"><u>Karaoke Cloud Pro's Latest Launch: Explore Out Of The Woods and More!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-realme-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Realme FRP Without Computer</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-capture-your-best-self-10-top-rated-webcam-software-for-windows-10/"><u>New 2024 Approved Capture Your Best Self 10 Top-Rated Webcam Software for Windows 10</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/personalizing-your-start-menu-in-windows-11-a-step-by-step-guide-yl-computing/"><u>Personalizing Your Start Menu in Windows 11: A Step-by-Step Guide - YL Computing</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/resolving-issues-with-your-mouse-expert-advice-from-yl-computings-tech-support-team/"><u>Resolving Issues with Your Mouse: Expert Advice From YL Computing's Tech Support Team</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-turning-off-windows-firewall-via-the-control-panel-yl-computing-tips/"><u>Step-by-Step Guide: Turning Off Windows Firewall via the Control Panel - YL Computing Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-a2plus-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi A2+ Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
 
