@@ -1,7 +1,7 @@
 ---
 title: "From Turntables to Touchscreens: The Fascinating History Behind Modern DJ Controllers"
-date: 2024-12-09T03:35:33.636Z
-updated: 2024-12-14T19:54:54.784Z
+date: 2024-12-22T04:50:44.404Z
+updated: 2024-12-23T21:27:55.987Z
 tags:
   - product
 categories:
@@ -64,7 +64,7 @@ It’s amazing to think it all started with that little 2U 19″ rackmountable c
 **Where Did All These DJ Controllers Come From?** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,20 +86,24 @@ https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png 0 0 Ryan Sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-live-broadcast-essentials-for-macos-users-on-mixer/"><u>2024 Approved Live Broadcast Essentials for macOS Users on Mixer</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-youtube-profits-ajeys-guidebook/"><u>2024 Approved Mastering YouTube Profits Ajey's Guidebook</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/cutting-edge-screenrecord-a-compreraniary-examination/"><u>Cutting-Edge ScreenRecord A Compreraniary Examination</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-realme-10t-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Realme 10T 5G</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/expert-tips-for-easy-integration-of-latest-graphics-cards-into-your-pc-system-tech-solutions-by-yl-computing/"><u>Expert Tips for Easy Integration of Latest Graphics Cards Into Your PC System - Tech Solutions by YL Computing</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/expose-by-chinas-national-supervisory-authority-tackling-corruption-over-36000-cases-probed-and-52k-officials-disciplined-in-public-welfare-sector-yl-comput12/"><u>Exposé by China's National Supervisory Authority: Tackling Corruption, Over 36,000 Cases Probed and 52K Officials Disciplined in Public Welfare Sector - YL Computing Analysis | YL Software</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/guard-your-system-expert-tips-on-preventing-malware-and-virus-attacks-by-yl-software-team/"><u>Guard Your System: Expert Tips on Preventing Malware and Virus Attacks by YL Software Team</u></a></li>
-<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo Y17s? | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/karaoke-cloud-pros-latest-launch-explore-out-of-the-woods-and-more/"><u>Karaoke Cloud Pro's Latest Launch: Explore Out Of The Woods and More!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-realme-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Realme FRP Without Computer</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-capture-your-best-self-10-top-rated-webcam-software-for-windows-10/"><u>New 2024 Approved Capture Your Best Self 10 Top-Rated Webcam Software for Windows 10</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/personalizing-your-start-menu-in-windows-11-a-step-by-step-guide-yl-computing/"><u>Personalizing Your Start Menu in Windows 11: A Step-by-Step Guide - YL Computing</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/resolving-issues-with-your-mouse-expert-advice-from-yl-computings-tech-support-team/"><u>Resolving Issues with Your Mouse: Expert Advice From YL Computing's Tech Support Team</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-turning-off-windows-firewall-via-the-control-panel-yl-computing-tips/"><u>Step-by-Step Guide: Turning Off Windows Firewall via the Control Panel - YL Computing Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-a2plus-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi A2+ Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-top-vr-gloves-to-check-out/"><u>[New] 2024 Approved Top VR Gloves to Check Out</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-sign-up-saga-crafting-your-digital-persona-facebook-for-2024/"><u>[Updated] Sign Up Saga Crafting Your Digital Persona (Facebook) for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-backlit-display-blinks/"><u>Banish Backlit Display Blinks</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/customizing-your-computers-look-a-step-by-step-guide-through-the-control-panel-tips-by-yl-computing/"><u>Customizing Your Computer's Look: A Step-by-Step Guide Through the Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/examining-the-strengths-and-weaknesses-in-free2x-tools-for-2024/"><u>Examining the Strengths and Weaknesses in Free2X Tools for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-conversion-of-snd-audio-files-easy-with-movavi/"><u>Free Online Conversion of SND Audio Files - Easy with Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-watch-record-and-edit-football-matches-for-free-for-2024/"><u>How to Watch, Record, and Edit Football Matches for Free for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/identifying-the-root-of-screen-flickering-issues-insights-from-yl-computings-expertise/"><u>Identifying the Root of Screen Flickering Issues: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-insights-blending-visual-and-auditory-elements-in-windows-photos/"><u>In 2024, Expert Insights Blending Visual & Auditory Elements in Windows Photos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/monitor-your-bitcoin-cash-address-activity-a-step-by-step-tutorial-by-yl-software/"><u>Monitor Your Bitcoin Cash Address Activity: A Step-by-Step Tutorial by YL Software</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/resolving-graphics-card-issues-steps-to-prevent-your-pc-from-crashing-tips-by-yl-computing/"><u>Resolving Graphics Card Issues: Steps to Prevent Your PC From Crashing - Tips by YL Computing</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/setting-up-your-internet-connection-a-step-by-step-guide-tips-from-yl-computing/"><u>Setting Up Your Internet Connection: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/solving-common-printing-problems-on-your-pc-with-windows-a-step-by-step-guide/"><u>Solving Common Printing Problems on Your PC with Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-for-composing-and-dispatching-imessages-audibly-on-ios-devices/"><u>The Ultimate Walkthrough for Composing & Dispatching iMessages Audibly on iOS Devices</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/ultimate-guide-to-tailoring-your-control-panel-preferences-with-yl-software/"><u>Ultimate Guide to Tailoring Your Control Panel Preferences with YL Software</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/understanding-the-price-tag-of-security-can-you-get-windows-defender-for-free-tips-by-yl-software/"><u>Understanding the Price Tag of Security: Can You Get Windows Defender for Free? - Tips by YL Software</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/understanding-the-threat-detection-process-in-windows-defender-insights-from-yl-computings-expertise/"><u>Understanding the Threat Detection Process in Windows Defender - Insights From YL Computing's Expertise</u></a></li>
 </ul></div>
 
