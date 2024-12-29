@@ -1,7 +1,7 @@
 ---
 title: Beta Release of Updated Karaoke Quest - KaraoQuest Song Query App Version 1.1.1 | DJ Software
-date: 2024-12-17T16:48:16.627Z
-updated: 2024-12-23T22:21:30.934Z
+date: 2024-12-22T21:07:08.022Z
+updated: 2024-12-29T20:31:29.427Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ The now-available 1.1.1 beta (via TestFlight) includes various bug fixes, perfor
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New And What To Test In KaraoQuest Beta 1.1.1
@@ -63,7 +63,7 @@ On application startup, if the last access was made from a public Internet addre
 * Various other small performance improvements
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How The KaraoQuest iOS App Works
@@ -84,7 +84,7 @@ Enter the IP address of the Karaoke host (provided by host to singer)
 [![KaraoQuest singer requests step 1](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/Connect-5s.png?fit=580%2C1030&ssl=1 "KaraoQuest Connect Step 1")](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/Connect-5s.png?fit=580%2C1030&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2 – Search Song**  
@@ -93,7 +93,7 @@ Browse or search through the song list and select a song for request.
 [![Browsing And Searching Song KaraoQuest](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/SongsTV-750x1334.png?fit=579%2C1030&ssl=1 "KaraoQuest Search Song")](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/SongsTV-750x1334.png?fit=579%2C1030&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3 – Request Song**  
@@ -101,13 +101,13 @@ Enter your name and press confirm request to send the request to the PCDJ Karaok
 
 [![Requesting Songs From KaraoQuest App](https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/Request-5s.png?fit=580%2C1030&ssl=1 "KaraoQuest Request Song")](https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/Request-5s.png?fit=580%2C1030&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [GET KARAOQUEST APP](https://itunes.apple.com/ca/app/karaoquest/id1093902058?mt=8)
 
 _Have questions about the KaraokQuest **remote song request app**? Please leave them in the comments section below!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -128,20 +128,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/karaoquest-app-v111.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-elite-10-audio-amplifiers-desktops-to-smartphones-for-2024/"><u>[New] Elite 10 Audio Amplifiers Desktops to Smartphones for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-losen-sie-die-doppelten-bilder-auf-ihrem-ipad-nach-der-synchronisation-schnell-und-einfach/"><u>1. Lösen Sie Die Doppelten Bilder Auf Ihrem iPad Nach Der Synchronisation Schnell Und Einfach.</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/a-comprehensible-breakdown-of-discord-spoilers/"><u>A Comprehensible Breakdown of Discord Spoilers</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/build-efficient-windows-shortcuts-using-tips-from-yl-software-experts/"><u>Build Efficient Windows Shortcuts Using Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-popular.techidaily.com/como-generar-una-imagen-de-sistema-para-windows-server-2008-r2-guia-paso-a-paso/"><u>Cómo Generar Una Imagen De Sistema Para Windows Server 2008 (R2): Guía Paso a Paso</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/expert-guide-to-enhancing-your-dj-setup-custom-graphics-for-lyric-screens-in-karaoke-performances-how-to-video/"><u>Expert Guide to Enhancing Your DJ Setup: Custom Graphics for Lyric Screens in Karaoke Performances (How-To Video)</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-grayed-out-memory-protection-in-win11-update/"><u>Fixing Grayed-Out Memory Protection in Win11 Update</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/high-definition-audi-rs5-wallpaper-collection-stunning-car-image-backgrounds-digital-artistry-by-yl/"><u>High-Definition Audi RS5 Wallpaper Collection | Stunning Car Image Backgrounds - Digital Artistry by YL</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/professional-ebook-cover-wallpapers-and-graphics-for-pcmac-original-designs-from-yl-software/"><u>Professional Ebook Cover Wallpapers & Graphics for PC/Mac - Original Designs From YL Software</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-to-connecting-your-printer-via-lan-through-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide to Connecting Your Printer Via LAN Through Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/tailor-made-tips-for-tweaking-the-windows-11-start-menu-with-yl-software-expertise/"><u>Tailor-Made Tips for Tweaking the Windows 11 Start Menu with YL Software Expertise</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-content-optimization-for-maximum-subscriber-acquisition/"><u>The Art of Content Optimization for Maximum Subscriber Acquisition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-fundamentals-of-crafting-youtube-videos-from-scratch-for-2024/"><u>The Fundamentals of Crafting YouTube Videos From Scratch for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/understanding-potential-pitfalls-in-crypto-asset-investment-insights-by-yl-computing/"><u>Understanding Potential Pitfalls in Crypto Asset Investment: Insights by YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-embrace-apple-pay-a-comprehensive-tutorial-for-effortless-purchases-in-store-and-online/"><u>Why Embrace Apple Pay? A Comprehensive Tutorial for Effortless Purchases In-Store and Online</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-discovering-the-best-10-online-tools-for-vimeo-videos-for-2024/"><u>[New] Discovering the Best 10 Online Tools for Vimeo Videos for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/deal-history-streams-the-10-premier-channels-for-students-study/"><u>[New] Ideal History Streams The 10 Premier Channels for Students' Study</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-quick-guide-to-video-extraction-from-youtube/"><u>[New] In 2024, Quick Guide to Video Extraction From YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-design-youtube-introductory-videos-two-pathways-for-2024/"><u>[Updated] How to Design YouTube Introductory Videos Two Pathways for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-insight-into-quadcopters-functionality-uncovered-for-2024/"><u>[Updated] Insight Into Quadcopters Functionality Uncovered for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/customizing-your-computers-look-a-step-by-step-guide-through-the-control-panel-tips-by-yl-computing/"><u>Customizing Your Computer's Look: A Step-by-Step Guide Through the Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/googles-pixel-5-examined-striking-balance-between-humble-performance/"><u>Google's Pixel 5 Examined: Striking Balance Between Humble Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-managing-monthly-data-allowance-on-smartphones-and-computers/"><u>Guide to Managing Monthly Data Allowance on Smartphones and Computers</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/identifying-the-root-of-screen-flickering-issues-insights-from-yl-computings-expertise/"><u>Identifying the Root of Screen Flickering Issues: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-honor-x50i-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor X50i FRP?</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/monitor-your-bitcoin-cash-address-activity-a-step-by-step-tutorial-by-yl-software/"><u>Monitor Your Bitcoin Cash Address Activity: A Step-by-Step Tutorial by YL Software</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/understanding-the-threat-detection-process-in-windows-defender-insights-from-yl-computings-expertise/"><u>Understanding the Threat Detection Process in Windows Defender - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-realme-v30-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Realme V30? | Dr.fone</u></a></li>
 </ul></div>
 
