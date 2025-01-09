@@ -1,7 +1,7 @@
 ---
 title: Beta Release of Updated Karaoke Quest - KaraoQuest Song Query App Version 1.1.1 | DJ Software
-date: 2024-12-22T21:07:08.022Z
-updated: 2024-12-29T20:31:29.427Z
+date: 2025-01-02T16:07:19.069Z
+updated: 2025-01-08T18:59:54.635Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ The now-available 1.1.1 beta (via TestFlight) includes various bug fixes, perfor
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New And What To Test In KaraoQuest Beta 1.1.1
@@ -63,7 +63,7 @@ On application startup, if the last access was made from a public Internet addre
 * Various other small performance improvements
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How The KaraoQuest iOS App Works
@@ -84,7 +84,7 @@ Enter the IP address of the Karaoke host (provided by host to singer)
 [![KaraoQuest singer requests step 1](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/Connect-5s.png?fit=580%2C1030&ssl=1 "KaraoQuest Connect Step 1")](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/Connect-5s.png?fit=580%2C1030&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2 – Search Song**  
@@ -93,7 +93,7 @@ Browse or search through the song list and select a song for request.
 [![Browsing And Searching Song KaraoQuest](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/SongsTV-750x1334.png?fit=579%2C1030&ssl=1 "KaraoQuest Search Song")](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/SongsTV-750x1334.png?fit=579%2C1030&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3 – Request Song**  
@@ -106,7 +106,7 @@ Enter your name and press confirm request to send the request to the PCDJ Karaok
 _Have questions about the KaraokQuest **remote song request app**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -128,18 +128,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/karaoquest-app-v111.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-discovering-the-best-10-online-tools-for-vimeo-videos-for-2024/"><u>[New] Discovering the Best 10 Online Tools for Vimeo Videos for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/deal-history-streams-the-10-premier-channels-for-students-study/"><u>[New] Ideal History Streams The 10 Premier Channels for Students' Study</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-quick-guide-to-video-extraction-from-youtube/"><u>[New] In 2024, Quick Guide to Video Extraction From YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-design-youtube-introductory-videos-two-pathways-for-2024/"><u>[Updated] How to Design YouTube Introductory Videos Two Pathways for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-insight-into-quadcopters-functionality-uncovered-for-2024/"><u>[Updated] Insight Into Quadcopters Functionality Uncovered for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/customizing-your-computers-look-a-step-by-step-guide-through-the-control-panel-tips-by-yl-computing/"><u>Customizing Your Computer's Look: A Step-by-Step Guide Through the Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/googles-pixel-5-examined-striking-balance-between-humble-performance/"><u>Google's Pixel 5 Examined: Striking Balance Between Humble Performance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-managing-monthly-data-allowance-on-smartphones-and-computers/"><u>Guide to Managing Monthly Data Allowance on Smartphones and Computers</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/identifying-the-root-of-screen-flickering-issues-insights-from-yl-computings-expertise/"><u>Identifying the Root of Screen Flickering Issues: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-honor-x50i-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor X50i FRP?</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/monitor-your-bitcoin-cash-address-activity-a-step-by-step-tutorial-by-yl-software/"><u>Monitor Your Bitcoin Cash Address Activity: A Step-by-Step Tutorial by YL Software</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/understanding-the-threat-detection-process-in-windows-defender-insights-from-yl-computings-expertise/"><u>Understanding the Threat Detection Process in Windows Defender - Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-realme-v30-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-elevate-your-social-media-presence-mastering-tiktok-hashtag-techniques/"><u>[New] Elevate Your Social Media Presence Mastering TikTok Hashtag Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-disable-unsolicited-youtube-video-listings-for-2024/"><u>[Updated] Disable Unsolicited YouTube Video Listings for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-maximize-storage-essential-xbox-drive-picks-reviewed/"><u>2024 Approved Maximize Storage Essential Xbox Drive Picks Reviewed</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-s24plus-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy S24+ FRP?</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-find-stems-tracks-that-work-with-pioneer-dj-dex-3-software/"><u>How to Find 'Stems' Tracks That Work With Pioneer DJ DEX-3 Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-vivo-t2x-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Vivo T2x 5G.</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/master-the-art-of-maintaining-ideal-temperatures-for-your-pc-with-yl-computings-guidance/"><u>Master the Art of Maintaining Ideal Temperatures for Your PC with YL Computing's Guidance</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/mastering-the-art-of-cryptocurrency-a-beginners-guide-to-utilizing-cold-storage-wallets-with-yl-computing-solutions/"><u>Mastering the Art of Cryptocurrency: A Beginner's Guide to Utilizing Cold Storage Wallets with YL Computing Solutions</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/navigating-cryptocurrency-governance-major-oversight-entities-explained-a-guide-by-yl-tech-innovations/"><u>Navigating Cryptocurrency Governance: Major Oversight Entities Explained – A Guide by YL Tech Innovations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/screenstreaming-mastery-capturing-high-quality-content-on-your-mac-for-2024/"><u>ScreenStreaming Mastery Capturing High-Quality Content on Your Mac for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-converting-your-dvds-into-m2ts-format/"><u>Step-by-Step Guide: Converting Your DVDs Into M2TS Format</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/arly-birds-guide-to-youtube-skip-these-8-potential-pitfalls-for-2024/"><u>The Early Bird's Guide to YouTube Skip These 8 Potential Pitfalls for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-symbiotic-relationship-between-cities-and-ecology/"><u>The Symbiotic Relationship Between Cities and Ecology</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/troubleshooting-intermittent-display-issues-on-your-computer-expert-advice-from-yl-software/"><u>Troubleshooting Intermittent Display Issues on Your Computer - Expert Advice From YL Software</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/troubleshooting-low-quality-scans-tips-and-solutions-by-yl-software-specialists/"><u>Troubleshooting Low-Quality Scans: Tips and Solutions by YL Software Specialists</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/will-live-broadcasts-define-the-next-era-of-disc-jockey-artistry-exploring-pioneer-dj-innovations/"><u>Will Live Broadcasts Define the Next Era of Disc Jockey Artistry? | Exploring Pioneer DJ Innovations</u></a></li>
 </ul></div>
 

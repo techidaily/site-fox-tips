@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Release: Tablet Experience Enhancement in Red Mobile Version 3.5 - Learn More Now!"
-date: 2024-12-22T16:34:04.127Z
-updated: 2024-12-29T20:01:13.817Z
+date: 2025-01-07T18:28:57.626Z
+updated: 2025-01-09T04:52:04.294Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Be sure to keep a tab on the the blog as we expect to launch a public release ca
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### RED Mobile 3.5 DJ Software Tablet Mode Skin (Also displays artwork on jog wheels)
@@ -39,17 +39,17 @@ Be sure to keep a tab on the the blog as we expect to launch a public release ca
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/11/s1.png?resize=1500%2C844&ssl=1 "Tablet Mode for RED Mobile 3.5 DJ Software")DEX 3 RE Tablet Mode (players)](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/11/s1.png?fit=1030%2C579&ssl=1 "DEX 3 RE Tablet Mode (players)")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/11/s1.png?resize=450%2C450&ssl=1 "Tablet Mode for RED Mobile 3.5 DJ Software")![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/11/s1.png?resize=1500%2C844&ssl=1 "Tablet Mode for RED Mobile 3.5 DJ Software")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/11/s1.png?fit=1030%2C579&ssl=1 "DEX 3 RE Tablet Mode (players)")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/11/s2.png?resize=450%2C450&ssl=1 "Browser Tablet Mode for RED Mobile 3 DJ software")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/11/s2.png?resize=1500%2C844&ssl=1 "Browser Tablet Mode for RED Mobile 3 DJ software")](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/11/s2.png?fit=1030%2C579&ssl=1 "RED Mobile 3.5 Tablet Mode (browser)")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/11/s3.png?resize=450%2C450&ssl=1 "Tablet Mode XY Effects for RED Mobile 3.5 DJ Software")![](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/11/s3.png?resize=1500%2C844&ssl=1 "Tablet Mode XY Effects for RED Mobile 3.5 DJ Software")](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/11/s3.png?fit=1030%2C579&ssl=1 "DEX 3 RE Tablet Mode (XY effects pad)")[![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/11/s4.png?resize=450%2C450&ssl=1 "Tablet Mode EQ for RED Mobile 3.5 DJ mixing software")![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/11/s4.png?resize=1500%2C844&ssl=1 "Tablet Mode EQ for RED Mobile 3.5 DJ mixing software")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/11/s4.png?fit=1030%2C579&ssl=1 "DEX 3 RE Tablet Mode (EQ)")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,22 +71,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/11/redmobile35tabletmodeskin-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-content-in-depth-guide-to-youtube-video-edits/"><u>[New] 2024 Approved Elevate Your Content In-Depth Guide to YouTube Video Edits</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-no-limit-visual-capturer-device/"><u>[Updated] 2024 Approved No-Limit Visual Capturer Device</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-education-beyond-video-lessons/"><u>[Updated] Navigating Education Beyond Video Lessons</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1-resolving-the-blue-screen-of-death-on-windows-expert-tips-from-yl-computing/"><u>1. Resolving the Blue Screen of Death on Windows - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/best-online-hubs-sky-high-dynamic-range-photography/"><u>Best Online Hubs Sky High Dynamic Range Photography</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-device-lifecycles-when-does-apple-consider-them-obsolete-expert-analysis/"><u>Decoding Device Lifecycles: When Does Apple Consider Them Obsolete? Expert Analysis</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/destinys-call-to-arms-mesmerizing-imagery-and-background-art-for-the-enigmpress-of-sorcery-your-ultimate-collection-from-yl-software/"><u>Destiny's Call to Arms: Mesmerizing Imagery and Background Art for the Enigmpress of Sorcery - Your Ultimate Collection From YL Software</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effective-strategies-to-prevent-windows-data-loss-insights-from-yl-computings-expertise/"><u>Effective Strategies to Prevent Windows Data Loss: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/is-your-pc-safe-from-cyber-threats-with-windows-defender-insights-from-yl-computings-experts/"><u>Is Your PC Safe From Cyber Threats with Windows Defender? Insights From YL Computing's Experts</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/mac-users-learn-how-to-install-kinemaster-with-ease-for-2024/"><u>Mac Users Learn How to Install KineMaster with Ease for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/regular-computer-maintenance-tips-how-frequently-should-you-clear-your-system-for-optimal-performance-yl-computing-solutions/"><u>Regular Computer Maintenance Tips: How Frequently Should You Clear Your System For Optimal Performance - YL Computing Solutions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/mes-supreme-the-10-best-female-youtubers-for-2024/"><u>SheGames Supreme The 10 Best Female YouTubers for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-installing-new-applications-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Installing New Applications via Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-turning-off-windows-defender-on-your-pc-tips-by-yl-software/"><u>Step-by-Step Guide: Turning Off Windows Defender on Your PC - Tips by YL Software</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/top-techniques-for-accurate-ram-testing-on-your-pc-insights-from-yl-computing-experts/"><u>Top Techniques for Accurate RAM Testing on Your PC - Insights From YL Computing Experts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tozo-t6-compatibility-issues-with-windows-11/"><u>Troubleshooting Tozo T6 Compatibility Issues with Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-content-for-success-a-step-by-step-channel-guide/"><u>[New] 2024 Approved Crafting Content for Success A Step-by-Step Channel Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-next-level-video-top-webcam-filters-for-flawless-broadcasts/"><u>[New] 2024 Approved Next Level Video Top Webcam Filters for Flawless Broadcasts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-5-best-sd-card-for-gopro-cameras-hero-87-included/"><u>[Updated] 5 Best SD Card for GoPro Cameras - Hero 8/7 Included</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-best-unmentioned-free-speech-to-text-tools-for-mac-users/"><u>[Updated] Best Unmentioned Free Speech to Text Tools for Mac Users</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/3-simple-methods-for-moving-your-itunes-music-collection-onto-your-iphone/"><u>3 Simple Methods for Moving Your iTunes Music Collection Onto Your iPhone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oneplus-11-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On OnePlus 11 5G</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/easy-guide-transforming-p2v-on-windows-11-seamless-conversion-from-physical-to-virtual/"><u>Easy Guide: Transforming P2V on Windows 11 - Seamless Conversion From Physical to Virtual</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/erstellen-sie-ein-iphone-backup-auf-ihrem-computer-ohne-itunes-drei-effektive-methoden/"><u>Erstellen Sie Ein iPhone-Backup Auf Ihrem Computer Ohne iTunes - Drei Effektive Methoden</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/fixing-windows-rstz-nt-w-uncover-essential-tips-for-reclaiming-your-pcs-functionality/"><u>Fixing Windows ˈrɪstɔːz Nɑt Wɝ: Uncover Essential Tips for Reclaiming Your PC's Functionality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-converter-from-wmv-to-mp4-seamless-transition-across-mac-and-windows-11/"><u>Free Online Converter From WMV to MP4: Seamless Transition Across Mac and Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-become-an-expert-tutorial-for-making-gifs-into-desirable-whatsapp-and-telegram-stickers/"><u>In 2024, Become an Expert Tutorial for Making GIFs Into Desirable WhatsApp & Telegram Stickers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-mp3-creation-from-instagram-vids-explained/"><u>In 2024, MP3 Creation From Instagram Vids Explained</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/resolving-file-disappearances-in-windows-11-a-comprehensive-guide-for-data-recovery/"><u>Resolving File Disappearances in Windows 11: A Comprehensive Guide for Data Recovery</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/schritt-fur-schritt-guide-gratis-update-auf-windows-11/"><u>Schritt-Für-Schritt-Guide: Gratis Update Auf Windows 11</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/selina-kyle-catwoman-a-complex-character-who-embodies-both-criminality-and-heroism-in-equal-measures-her-enigmatic-nature-intrigued-james-causing-him-to-que310/"><u>Selina Kyle (Catwoman): A Complex Character Who Embodies Both Criminality and Heroism in Equal Measures. Her Enigmatic Nature Intrigued James, Causing Him to Question the Very Foundations of Morality upon Which Gotham Stood.</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1728495305627-windows-11-3/"><u>Windows 11におけるスクリーン自動回転切り替え: 3手順ガイド</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/win111087raw/"><u>どうやってWin11/10/8/7でRAWパーティションを修復する？</u></a></li>
 </ul></div>
 

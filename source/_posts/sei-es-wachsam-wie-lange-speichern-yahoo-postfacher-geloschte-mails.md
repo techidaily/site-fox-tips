@@ -1,7 +1,7 @@
 ---
 title: "Sei Es Wachsam: Wie Lange Speichern Yahoo Postfächer Gelöschte Mails?"
-date: 2024-12-24T16:03:24.791Z
-updated: 2024-12-29T17:54:30.361Z
+date: 2025-01-06T21:45:49.736Z
+updated: 2025-01-08T23:46:03.041Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ef756af67baaa63e6513047560b51e7a06317e95c3578e612a362286e500591b.jpg
@@ -56,6 +56,10 @@ iTunes can be a good way to add ringtones to an iPhone. It can help you to custo
 
 [![](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/intercept-ringtone.png)](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/intercept-ringtone.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. Right-click the same song and select **Create AAC Version**.
 
 5\. Right-click the song segment and choose **Show in Windows Explorer**. Then change the extension from “.m4a” to “.m4r.”.
@@ -72,6 +76,10 @@ iTunes can be a good way to add ringtones to an iPhone. It can help you to custo
 
 4\. Choose **Tones** \> **Sync** **Tones** to your iPhone 7.[![](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/drag-and-drop-the-ringtone-to-iphone.png)](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/drag-and-drop-the-ringtone-to-iphone.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **? Tips:** 
 * If the song you liked is not in the iTunes library, you can click **File** \> **Add Folder to Library** \> browse your computer and select the song you want to set as a ringtone to iTunes library.
 * If [Tones not showing in iTunes](https://tools.techidaily.com/ubackup/products/), you may need to choose another available way to make it.
@@ -87,10 +95,6 @@ Sometimes the song which you want to set as a ringtone stored on iPhone 7, you c
 1\. Open GarageBand on iPhone 7 > Click “+” in the top right corner > Tap **TRACKS >** Scroll down to choose **AUDIO RECORDER** interface.
 
 [![Add Ringtones With Garageband](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/phone/screenshot/en/others/iphone/add-ringtones-with-garageband.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2\. Click “+” in the top right corner > Choose **Section A** in Song Sections > Turn off **Automatic** option > Tap the arrow to change the number to 12 > Tap **Done**.
 
@@ -123,16 +127,16 @@ What will be the easiest way to add ringtones to your iPhone, that's the profess
 ![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Various audio file types can be **directly converted to m4r** and then you can directly find them in your **iPhone Settings**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) **Fast transfer speed** allows you to efficiently transfer multiple audio files in a very short time.  
 
-![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) **Wide compatibility** lets AOMEI FoneBackup can support various iOS devices and versions including the latest ones.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) **Wide compatibility** lets AOMEI FoneBackup can support various iOS devices and versions including the latest ones.
 
 Now go for it now and discover more!
 
@@ -144,29 +148,25 @@ Step 1\. Launch AOMEI FoneBackup on Windows PC > Connect your iPhone to the comp
 
 ![transfer from pc to iphone](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2\. Click the **Ringtones** option > Drag and drop the files you need to the box.
 
 ![select ringtones](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Confirm the ringtones you need > Click **Start Transfer** to begin the task.
 
 ![transfer ringtones from pc to iphone](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **How to Set Custom Ringtone on iPhone 7 after the Process**
 
 After you have put the newly created ringtones on your iPhone 7(Plus) with iTunes, GarageBand or AOMEI FoneBackup, you can now change your iPhone ringtone by setting a custom one in Settings. Go to **Settings** on your iPhone 7 > **Sounds & Haptics** \> **Ringtone** \> Select the ringtone you just added to your iPhone.[![Add Ringtones To Iphone Settings](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/phone/screenshot/en/others/iphone/add-ringtones-to-iphone-settings.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -182,13 +182,13 @@ Was the provided information useful? Your vote is important to us!
 
 ![Dylan](https://www.ubackup.com/assets/images/author/dylan.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Dylan](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Dylan is an editor of mobile backup software. He likes to share the latest news about iPhone and iOS, write useful tips, and give solutions to help people solve all kinds of issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -222,11 +222,11 @@ One-Stop iPhone Data Backup and Transfer Solution.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-fb-theme/article-fb-img-dibu@1x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -243,20 +243,24 @@ One-Stop iPhone Data Backup and Transfer Solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-12-live-video-streaming-app-for-watching-and-streaming-videos-for-2024/"><u>[New] 12 Live Video Streaming App for Watching and Streaming Videos for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-achieve-flawless-video-for-instagram-perfection/"><u>[Updated] In 2024, Achieve Flawless Video for Instagram Perfection</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-meme-mastery-in-the-metaverse-a-comedic-journey/"><u>2024 Approved Meme Mastery in the Metaverse A Comedic Journey</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-nokia-130-music-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Nokia 130 Music Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/exploring-the-prime-linux-screenshot-applications-for-2024/"><u>Exploring the Prime Linux Screenshot Applications for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/high-definition-audi-brand-wallpaper-downloads-graphics-and-visuals-by-yl-computing/"><u>High-Definition Audi Brand Wallpaper Downloads: Graphics & Visuals by YL Computing</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-do-application-updates-influence-system-registry-modifications-insights-from-yl-computing/"><u>How Do Application Updates Influence System Registry Modifications: Insights From YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-redmi-k70e-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Redmi K70E</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-ps-tips-for-perfecting-photo-shades-and-saturation/"><u>In 2024, PS Tips for Perfecting Photo Shades and Saturation</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721459121530-iphone-notification-problem-solved-uncover-7-quick-fixes-for-better-alerts/"><u>IPhone Notification Problem Solved: Uncover 7 Quick Fixes for Better Alerts!</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/reinstalling-network-adapter-drivers-on-windows-10-a-step-by-step-guide/"><u>Reinstalling Network Adapter Drivers on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-on-managing-file-permissions-with-yl-software-insights/"><u>Step-by-Step Tutorial on Managing File Permissions with YL Software Insights</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-review-the-powerful-yet-compact-jaco-smartpro-handheld-tire-filler/"><u>Top Review: The Powerful Yet Compact Jaco SmartPro Handheld Tire Filler</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/unveiling-the-triggers-of-late-19th-centurys-chinese-rebellion-and-its-impact-on-the-world-insights-from-yl-software/"><u>Unveiling the Triggers of Late 19Th Century's Chinese Rebellion and Its Impact on the World: Insights From YL Software</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/yl-software-expert-solutions-for-resolving-windows-pc-hardware-malfunctions/"><u>YL Software: Expert Solutions for Resolving Windows PC Hardware Malfunctions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-captureconductor-review-a-dive-into-the-best-recording-software/"><u>[New] CaptureConductor Review A Dive Into the Best Recording Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-video-performance-mobile-and-desktop-strategies/"><u>[New] In 2024, Instagram Video Performance Mobile & Desktop Strategies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-setup-essentials-prepping-for-a-thriving-youtube-channel/"><u>[New] Setup Essentials Prepping for a Thriving YouTube Channel</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-veil-vs-the-beam-shadowheroes-vs-luminaryfighters-for-2024/"><u>[New] The Veil vs the Beam Shadowheroes Vs Luminaryfighters for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ultimate-configuration-ticking-clocks-setup-guide-for-broadcasting-platforms/"><u>[Updated] 2024 Approved Ultimate Configuration Ticking Clocks Setup Guide for Broadcasting Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elite-gamers-capturing-solutions-for-2024/"><u>[Updated] Elite Gamers' Capturing Solutions for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-essential-mixer-streaming-tips-for-mac-users/"><u>[Updated] In 2024, Essential Mixer Streaming Tips for Mac Users</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1-resolving-the-blue-screen-of-death-on-windows-expert-tips-from-yl-computing/"><u>1. Resolving the Blue Screen of Death on Windows - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/effective-strategies-to-prevent-windows-data-loss-insights-from-yl-computings-expertise/"><u>Effective Strategies to Prevent Windows Data Loss: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ient-techniques-sharing-video-content-from-youtube-fb-for-2024/"><u>Efficient Techniques Sharing Video Content From YouTube FB for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-viewing-experience-by-switching-the-built-in-browser-on-your-samsung-tv/"><u>Enhance Your Viewing Experience by Switching the Built-In Browser on Your Samsung TV</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-fix-a-scanner-that-creates-blank-documents-when-scanning-insights-and-solutions-from-yl-software-experts/"><u>How to Fix a Scanner that Creates Blank Documents When Scanning? Insights & Solutions From YL Software Experts</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/immerse-in-the-shadows-with-meta-knight-artwork-collection-premium-backgrounds-by-yl-software/"><u>Immerse in the Shadows with Meta Knight Artwork Collection - Premium Backgrounds by YL Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-simple-to-stunning-infusing-life-into-text-on-instagram/"><u>In 2024, From Simple to Stunning Infusing Life Into Text on Instagram</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/interneurons-play-a-key-role-in-complex-brain-functions-such-as-learning-memory-decision-making-and-reflexes/"><u>Interneurons Play a Key Role in Complex Brain Functions Such as Learning, Memory, Decision-Making, and Reflexes.</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/is-your-pc-safe-from-cyber-threats-with-windows-defender-insights-from-yl-computings-experts/"><u>Is Your PC Safe From Cyber Threats with Windows Defender? Insights From YL Computing's Experts</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-installing-new-applications-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Installing New Applications via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-turning-off-windows-defender-on-your-pc-tips-by-yl-software/"><u>Step-by-Step Guide: Turning Off Windows Defender on Your PC - Tips by YL Software</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-techniques-for-accurate-ram-testing-on-your-pc-insights-from-yl-computing-experts/"><u>Top Techniques for Accurate RAM Testing on Your PC - Insights From YL Computing Experts</u></a></li>
 </ul></div>
 
