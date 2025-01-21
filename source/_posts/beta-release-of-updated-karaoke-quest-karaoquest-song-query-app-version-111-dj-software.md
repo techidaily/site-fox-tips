@@ -1,7 +1,7 @@
 ---
 title: Beta Release of Updated Karaoke Quest - KaraoQuest Song Query App Version 1.1.1 | DJ Software
-date: 2025-01-12T23:01:50.177Z
-updated: 2025-01-14T19:43:38.522Z
+date: 2025-01-13T20:59:48.772Z
+updated: 2025-01-20T16:59:07.195Z
 tags:
   - product
 categories:
@@ -32,10 +32,6 @@ The now-available 1.1.1 beta (via TestFlight) includes various bug fixes, perfor
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What’s New And What To Test In KaraoQuest Beta 1.1.1
 
 **\*NEW —>** Option to clear singer field when entering RequestScreen:  
@@ -63,7 +59,7 @@ On application startup, if the last access was made from a public Internet addre
 * Various other small performance improvements
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How The KaraoQuest iOS App Works
@@ -83,13 +79,17 @@ Enter the IP address of the Karaoke host (provided by host to singer)
 
 [![KaraoQuest singer requests step 1](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/Connect-5s.png?fit=580%2C1030&ssl=1 "KaraoQuest Connect Step 1")](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/Connect-5s.png?fit=580%2C1030&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2 – Search Song**  
 Browse or search through the song list and select a song for request.
 
 [![Browsing And Searching Song KaraoQuest](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/SongsTV-750x1334.png?fit=579%2C1030&ssl=1 "KaraoQuest Search Song")](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/SongsTV-750x1334.png?fit=579%2C1030&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3 – Request Song**  
@@ -98,7 +98,7 @@ Enter your name and press confirm request to send the request to the PCDJ Karaok
 [![Requesting Songs From KaraoQuest App](https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/Request-5s.png?fit=580%2C1030&ssl=1 "KaraoQuest Request Song")](https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/Request-5s.png?fit=580%2C1030&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [GET KARAOQUEST APP](https://itunes.apple.com/ca/app/karaoquest/id1093902058?mt=8)
@@ -106,7 +106,7 @@ Enter your name and press confirm request to send the request to the PCDJ Karaok
 _Have questions about the KaraokQuest **remote song request app**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -128,18 +128,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/karaoquest-app-v111.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-pursuing-seamless-integration-of-videos-on-instagram/"><u>[Updated] In 2024, Pursuing Seamless Integration of Videos on Instagram</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/acer-predator-triton-300-se-review-small-laptop-big-value/"><u>Acer Predator Triton 300 SE Review: Small Laptop, Big Value</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/american-wilderness-high-resolution-wallpapers-and-backgrounds-by-yl-computing/"><u>American Wilderness: High-Resolution Wallpapers & Backgrounds by YL Computing</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/celebrate-australia-day-with-premier-wallpapers-from-yl-computings-professional-software-suite/"><u>Celebrate Australia Day with Premier Wallpapers From YL Computing's Professional Software Suite</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/detecting-graphic-card-malfunctions-tips-and-tricks-from-yl-computing/"><u>Detecting Graphic Card Malfunctions: Tips & Tricks From YL Computing</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-and-open-top-7-laptop-dvd-player-software-options-for-2024/"><u>Free & Open Top 7 Laptop DVD Player Software Options for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-tints-and-tonality-applying-theoretical-insight/"><u>In 2024, Tints & Tonality Applying Theoretical Insight</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/navigating-law-and-digital-assets-the-legal-impacts-of-cryptocurrencies-by-yl-software/"><u>Navigating Law and Digital Assets: The Legal Impacts of Cryptocurrencies by YL Software</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/preventing-issues-with-your-compatible-windows-devices-tips-and-tricks-yl-solutions/"><u>Preventing Issues with Your Compatible Windows Devices: Tips & Tricks - YL Solutions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/simplify-a-surplus-of-saves-mastering-edits-for-less-clutter-for-2024/"><u>Simplify a Surplus of Saves Mastering Edits for Less Clutter for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-essentials-of-high-quality-audio-interfaces-in-podcasting/"><u>The Essentials of High-Quality Audio Interfaces in Podcasting</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/understanding-hardware-issues-identifying-primary-triggers-for-equipment-failure/"><u>Understanding Hardware Issues: Identifying Primary Triggers for Equipment Failure</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-circlesmiths-arsenal/"><u>[New] Circlesmith's Arsenal</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-easy-guide-to-see-youtube-liked-comments-for-2024/"><u>[New] Easy Guide to See YouTube Liked Comments for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-ultimate-buzz-generating-tie/"><u>[New] In 2024, Ultimate Buzz-Generating Tie</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-4-ways-how-to-download-videos-from-facebook-messenger/"><u>2024 Approved 4 Ways | How to Download Videos From Facebook Messenger?</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/5-top-free-image-enhancement-tools-for-ebay-listings-boost-your-product-photography/"><u>5 Top Free Image Enhancement Tools for eBay Listings: Boost Your Product Photography</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/easy-to-use-quicktime-tool-free-videoaudio-recording-software/"><u>Easy-to-Use QuickTime Tool - Free Video/Audio Recording Software</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/effortless-techniques-for-converting-pages-into-words-top-tips-and-tools/"><u>Effortless Techniques for Converting Pages Into Words - Top Tips & Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-lock-down-workbooks-and-worksheets-for-safe-sharing-on-excel/"><u>How To Lock Down Workbooks & Worksheets for Safe Sharing on Excel</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-seamlessly-acquire-and-enjoy-personalized-audio-collections-online/"><u>How to Seamlessly Acquire and Enjoy Personalized Audio Collections Online</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-time-travel-online-a-comprehensive-how-to-on-leveraging-the-wayback-machine/"><u>Mastering Time Travel Online: A Comprehensive How-To on Leveraging the Wayback Machine</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/quick-guide-incorporating-images-into-your-tiktok-content-fast/"><u>Quick Guide: Incorporating Images Into Your TikTok Content Fast</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-techniques-for-converting-tubechop-files-into-mp3-format-a-step-by-step-guide/"><u>Top Techniques for Converting TubeChop Files Into MP3 Format: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

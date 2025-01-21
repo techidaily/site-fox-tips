@@ -1,7 +1,7 @@
 ---
 title: "From Turntables to Touchscreens: The Fascinating History Behind Modern DJ Controllers"
-date: 2025-01-13T22:30:21.898Z
-updated: 2025-01-14T20:37:37.392Z
+date: 2025-01-13T22:30:58.905Z
+updated: 2025-01-20T17:34:04.294Z
 tags:
   - product
 categories:
@@ -64,7 +64,7 @@ It’s amazing to think it all started with that little 2U 19″ rackmountable c
 **Where Did All These DJ Controllers Come From?** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,17 +86,17 @@ https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png 0 0 Ryan Sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-maximizing-views-optimal-youtube-thumbnails/"><u>[New] 2024 Approved Maximizing Views Optimal YouTube Thumbnails</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-download-custom-mcb-banner-packs/"><u>[Updated] Download Custom MCB Banner Packs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/awaken-with-style-find-your-perfect-match-among-these-top-7-alarm-clock-apps/"><u>Awaken with Style: Find Your Perfect Match Among These Top 7 Alarm Clock Apps</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/clonezilla-success-guide-tips-for-effectively-copying-drives-with-errors-and-extensive-capacities/"><u>Clonezilla Success Guide: Tips for Effectively Copying Drives with Errors and Extensive Capacities</u></a></li>
-<li><a href="https://win-lab.techidaily.com/comment-synchronisez-vous-des-fichiers-en-temps-reel-sur-windows-11-8-ou-7/"><u>Comment Synchronisez-Vous Des Fichiers en Temps Réel Sur Windows 11, 8 Ou 7 ?</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/enabling-legacy-bios-for-windows-11-installation-no-secure-boot-and-tpm-required/"><u>Enabling Legacy BIOS for Windows 11 Installation: No Secure Boot & TPM Required</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/expert-analysis-of-icare-data-recovery-software-complimentary-restoration-services-examined/"><u>Expert Analysis of iCare Data Recovery Software: Complimentary Restoration Services Examined</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/o-vlog-confidently-like-popular-youtubers/"><u>How to Vlog Confidently Like Popular YouTubers?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-the-re4-remake-strategies-to-stabilize-and-avoid-sudden-crashes/"><u>Master the RE4 Remake: Strategies to Stabilize and Avoid Sudden Crashes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/personalize-your-desktop-in-windows-11-adjusting-taskbar-colors/"><u>Personalize Your Desktop in Windows 11 - Adjusting Taskbar Colors</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/robust-ecosystem-the-interoperability-between-devices-creates-an-integrated-experience-for-users-who-own-multiple-apple-products-this-synergy-encourages-cus59/"><u>Robust Ecosystem: The Interoperability Between Devices Creates an Integrated Experience for Users Who Own Multiple Apple Products. This Synergy Encourages Customer Loyalty and Boosts Sales Across the Product Lineup.</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1728485607634-windows-11c/"><u>Windows 11中四种簡便转移C槽程序至目标位置的方法</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-captivate-audiences-with-perfectly-tailored-youtube-descriptions-for-2024/"><u>[New] Captivate Audiences with Perfectly Tailored Youtube Descriptions for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-mastering-360-fb-live-broadcasts/"><u>[New] In 2024, Mastering 360 FB Live Broadcasts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-s18-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo S18 Pro</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/connecting-to-a-wi-fi-network-through-the-windows-control-panel-a-step-by-step-guide-by-yl-computing/"><u>Connecting to a Wi-Fi Network Through the Windows Control Panel - A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-finding-windows-launch-codes/"><u>Essential Tips for Finding Windows' Launch Codes</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/expert-karaoke-app-advice-how-to-input-lyrics-for-performances-with-pcdj/"><u>Expert Karaoke App Advice: How to Input Lyrics for Performances with PCDJ</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-camera-insights-the-best-of-2024-unpacked/"><u>Innovative Camera Insights – The Best of 2024 Unpacked</u></a></li>
+<li><a href="https://article-helps.techidaily.com/kinemaster-the-ultimate-guide-to-smooth-video-edits-for-2024/"><u>Kinemaster The Ultimate Guide to Smooth Video Edits for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/resolving-common-printer-problems-a-guide-to-troubleshooting-your-ink-cartridge-by-yl-computing/"><u>Resolving Common Printer Problems: A Guide to Troubleshooting Your Ink Cartridge - By YL Computing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/step-by-step-creating-your-own-chat-signal-ios-and-android-edition-for-2024/"><u>Step-by-Step Creating Your Own Chat Signal - iOS & Android Edition for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/yl-computings-guide-how-to-prevent-and-mitigate-hardware-malfunctions-in-your-systems/"><u>YL Computing's Guide: How to Prevent and Mitigate Hardware Malfunctions in Your Systems</u></a></li>
 </ul></div>
 
