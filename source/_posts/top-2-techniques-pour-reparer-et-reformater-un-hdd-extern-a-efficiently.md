@@ -1,7 +1,7 @@
 ---
 title: Top 2 Techniques Pour Reparer Et Reformater Un HDD Extern] À Efficiently
-date: 2025-01-05T17:37:28.050Z
-updated: 2025-01-09T02:38:06.789Z
+date: 2025-02-06T19:50:43.234Z
+updated: 2025-02-08T22:45:35.188Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/e20731976346abc5e9e51e32ccd4741e92a00f139a0758d467d321b1a71642cd.jpg
@@ -18,19 +18,23 @@ thumbnail: https://thmb.techidaily.com/e20731976346abc5e9e51e32ccd4741e92a00f139
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -46,10 +50,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 À ce stade, vous avez besoin d'un logiciel de sauvegarde NAS Buffalo, de préférence le plus simple. Les Buffalo LinkStation et Buffalo TeraStation sont équipés d'un lecteur NAS pour vous aider à sauvegarder des photos, des vidéos, de la musique, etc. ou à les partager, mais la plupart des appareils ne prennent en charge que le système Linux et certains sont disponibles sur Windows Server 2016\. Que faire si vous utilisez Windows 7/8/10/11 ?
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
@@ -90,27 +90,27 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
@@ -126,7 +126,7 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -170,7 +170,7 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
@@ -198,15 +198,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-building-a-powerhouse-business-channel-in-under-5-minutes/"><u>[Updated] 2024 Approved Building a Powerhouse Business Channel in Under 5 Minutes</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/disk-cleanup-vs-diskpart-full-scan-which-one-should-you-choose-for-optimal-system-performance-in-japanese/"><u>Disk Cleanup Vs. DiskPart Full Scan: Which One Should You Choose for Optimal System Performance in Japanese</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-oppo-find-n3-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo Find N3 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-xiaomi-14-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Xiaomi 14 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/incrementelles-vs-differenziales-sicherung-optimale-strategien-fur-ihre-daten/"><u>Incrementelles Vs. Differenziales Sicherung: Optimale Strategien Für Ihre Daten</u></a></li>
-<li><a href="https://games-able.techidaily.com/nintendos-top-switch-accessory-picks-2024-edition/"><u>Nintendo's Top Switch Accessory Picks: 2024 Edition</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/resolve-the-service-unavailable-fiasco-fixing-windows-update-error-0x80070005/"><u>Resolve the 'Service Unavailable' Fiasco: Fixing Windows Update Error 0X80070005</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/targeted-backup-solutions-the-power-of-restoring-specific-files-with-precision/"><u>Targeted Backup Solutions: The Power of Restoring Specific Files with Precision</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-fixing-issues-with-windows-spotlight-on-windows-10/"><u>Troubleshooting Guide: Fixing Issues with Windows Spotlight on Windows 10</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1-free-open-source-argon-css-framework-based-on-bootstrap-4-by-creative-tim/"><u>1. Free, Open-Source Argon CSS Framework Based on Bootstrap 4 by Creative Tim</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-maximize-your-home-studio-webcam-recorder-essentials/"><u>2024 Approved Maximize Your Home Studio - WebCam Recorder Essentials</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-propel-content-to-prominence-leverage-tubebuddys-power/"><u>2024 Approved Propel Content to Prominence Leverage TubeBuddy's Power</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/3-easy-steps-for-masterful-image-grading-for-2024/"><u>3 Easy Steps for Masterful Image Grading for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/9-innovative-workout-challenges-for-dynamic-viewers/"><u>9 Innovative Workout Challenges for Dynamic Viewers</u></a></li>
+<li><a href="https://solve-info.techidaily.com/abbyy-finereader-engine-12-ideal-ocr-sdk-for-virtual-and-cloud-environments-revealed/"><u>ABBYY FineReader Engine 12: Ideal OCR SDK for Virtual & Cloud Environments Revealed</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/advanced-creative-tim-and-updivision-pro-dashboard-design-with-soft-ui-for-laravel-applications/"><u>Advanced Creative Tim & UPDIVISION Pro Dashboard Design with Soft UI for Laravel Applications</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/advanced-pro-user-interface-dashboard-using-laravel-livewire-a-joint-venture-by-creative-tim-and-updivision/"><u>Advanced Pro User Interface Dashboard Using Laravel Livewire: A Joint Venture by Creative Tim & UPDIVISION</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/comprehensive-vue-based-material-dashboard-for-laravel-developers-with-json-api-integration-by-creative-tim-professional-edition/"><u>Comprehensive Vue-Based Material Dashboard for Laravel Developers with JSON API Integration by Creative Tim - Professional Edition</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/creative-tims-65-page-collection-of-free-design-assets-and-templates-using-the-argon-design-system/"><u>Creative Tim's 65-Page Collection of Free Design Assets and Templates Using the Argon Design System</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/creative-tims-nuxt-black-a-complimentary-admin-template-with-nuxt-and-bootstrap-3/"><u>Creative Tim's Nuxt Black: A Complimentary Admin Template with Nuxt & Bootstrap 3</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/discover-the-ultimate-combination-of-react-frameworks-with-nextjs-and-material-ui-bundle-by-creative-tim-absolutely-free/"><u>Discover the Ultimate Combination of React Frameworks with NextJS & Material UI Bundle by Creative Tim - Absolutely Free!</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/effortlessly-navigate-your-projects-using-the-complimentary-argon-tailwind-dashboard-by-creative-tim/"><u>Effortlessly Navigate Your Projects Using the Complimentary Argon Tailwind Dashboard by Creative Tim</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-google-pixel-fold-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Google Pixel Fold To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721450709418-iphone-charge-paused-warning-here-are-8-effective-fixes/"><u>IPhone Charge Paused Warning? Here Are 8 Effective Fixes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/no-need-for-apps-download-youtube-files-for-2024/"><u>No Need for Apps Download YouTube Files for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-se-2022-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/solutions-for-a-hot-running-laptop-guidance-from-yl-tech-experts-at-yl-computing-and-yl-software/"><u>Solutions for a Hot-Running Laptop: Guidance From YL Tech Experts at YL Computing & YL Software</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-truth-behind-the-genius-widecam-f100s-pixelation-and-echo-concerns-our-comprehensive-review/"><u>Unveiling the Truth Behind the Genius WideCam F100's Pixelation and Echo Concerns: Our Comprehensive Review</u></a></li>
 </ul></div>
 

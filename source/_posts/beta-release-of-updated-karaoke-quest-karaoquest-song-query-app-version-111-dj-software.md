@@ -1,7 +1,7 @@
 ---
 title: Beta Release of Updated Karaoke Quest - KaraoQuest Song Query App Version 1.1.1 | DJ Software
-date: 2025-01-23T02:33:14.372Z
-updated: 2025-01-26T19:03:18.388Z
+date: 2025-02-01T20:55:35.092Z
+updated: 2025-02-08T18:49:38.415Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ The now-available 1.1.1 beta (via TestFlight) includes various bug fixes, perfor
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New And What To Test In KaraoQuest Beta 1.1.1
@@ -62,10 +62,6 @@ On application startup, if the last access was made from a public Internet addre
 * Throttle Network Activity When Server Busy
 * Various other small performance improvements
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How The KaraoQuest iOS App Works
 
 **For KJs (easy setup instructions):**
@@ -84,7 +80,7 @@ Enter the IP address of the Karaoke host (provided by host to singer)
 [![KaraoQuest singer requests step 1](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/Connect-5s.png?fit=580%2C1030&ssl=1 "KaraoQuest Connect Step 1")](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/Connect-5s.png?fit=580%2C1030&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2 – Search Song**  
@@ -93,7 +89,7 @@ Browse or search through the song list and select a song for request.
 [![Browsing And Searching Song KaraoQuest](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/SongsTV-750x1334.png?fit=579%2C1030&ssl=1 "KaraoQuest Search Song")](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/04/SongsTV-750x1334.png?fit=579%2C1030&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3 – Request Song**  
@@ -102,12 +98,16 @@ Enter your name and press confirm request to send the request to the PCDJ Karaok
 [![Requesting Songs From KaraoQuest App](https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/Request-5s.png?fit=580%2C1030&ssl=1 "KaraoQuest Request Song")](https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/Request-5s.png?fit=580%2C1030&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [GET KARAOQUEST APP](https://itunes.apple.com/ca/app/karaoquest/id1093902058?mt=8)
 
 _Have questions about the KaraokQuest **remote song request app**? Please leave them in the comments section below!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -128,22 +128,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/karaoquest-app-v111.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-enhance-and-unblur-photo-editing-tools-ranked-1-10/"><u>[New] 2024 Approved Enhance and Unblur Photo Editing Tools Ranked #1-10</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-getting-prepared-for-macos-11-big-sur-upgrade/"><u>[New] Getting Prepared for MacOS 11 Big Sur Upgrade</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-art-and-science-of-capturing-stunning-gopro-time-lapse/"><u>[New] The Art & Science of Capturing Stunning GoPro Time Lapse</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-luts-unlocking-color-grading-in-ar-and-vfx/"><u>[Updated] 2024 Approved Mastering LUTs Unlocking Color Grading in AR & VFX</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-systematic-search-for-concealed-youtube-repositories/"><u>[Updated] In 2024, The Systematic Search for Concealed YouTube Repositories</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-definitive-steps-to-record-your-favorite-hulu-episodes-for-2024/"><u>[Updated] The Definitive Steps to Record Your Favorite Hulu Episodes for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-lift-run-and-dance-to-the-beat-of-these-top-20-songs/"><u>2024 Approved Lift, Run, and Dance to the Beat of These Top 20 Songs</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/effective-strategies-to-prevent-windows-data-loss-insights-from-yl-computings-expertise/"><u>Effective Strategies to Prevent Windows Data Loss: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-fix-a-scanner-that-creates-blank-documents-when-scanning-insights-and-solutions-from-yl-software-experts/"><u>How to Fix a Scanner that Creates Blank Documents When Scanning? Insights & Solutions From YL Software Experts</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/immerse-in-the-shadows-with-meta-knight-artwork-collection-premium-backgrounds-by-yl-software/"><u>Immerse in the Shadows with Meta Knight Artwork Collection - Premium Backgrounds by YL Software</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-v27-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo V27 Pro FRP Bypass</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/interneurons-play-a-key-role-in-complex-brain-functions-such-as-learning-memory-decision-making-and-reflexes/"><u>Interneurons Play a Key Role in Complex Brain Functions Such as Learning, Memory, Decision-Making, and Reflexes.</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/is-your-pc-safe-from-cyber-threats-with-windows-defender-insights-from-yl-computings-experts/"><u>Is Your PC Safe From Cyber Threats with Windows Defender? Insights From YL Computing's Experts</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-turning-off-windows-defender-on-your-pc-tips-by-yl-software/"><u>Step-by-Step Guide: Turning Off Windows Defender on Your PC - Tips by YL Software</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/stunning-tanjiro-sparkle-backdrops-and-digital-prints-quality-visuals-by-yl-computings-graphic-design/"><u>Stunning Tanjiro Sparkle Backdrops & Digital Prints: Quality Visuals by YL Computing's Graphic Design</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/verifying-game-ready-graphics-cards-on-your-system-with-yl-software-tech-insights/"><u>Verifying Game-Ready Graphics Cards on Your System with YL Software Tech Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gifjpg-movavi/"><u>영구적인 방법 : 자연스러운 기능을 갖출 무료 이미지 혼합 GIF/JPG 전환 - Movavi</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-enhance-connection-top-tips-to-craft-compelling-facebook-profiles/"><u>2024 Approved Enhance Connection Top Tips to Craft Compelling Facebook Profiles</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-monetary-spectrum-a-glimpse-into-mr-beasts-world/"><u>2024 Approved Monetary Spectrum A Glimpse Into Mr. Beast’s World</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/comment-recuperer-efficacement-une-partition-perdue-dans-windows-10-methodes-averees/"><u>Comment Récupérer Efficacement Une Partition Perdue Dans Windows 10 : Méthodes Avérées</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/comment-terminer-avec-un-installateur-bloquant-les-9-solutions-cles-pour-installer-windows-11-sans-probleme/"><u>Comment Terminer Avec Un Installateur Bloquant : Les 9 Solutions Clés Pour Installer Windows 11 Sans Problème</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/discover-the-ultimate-selection-of-7-best-no-cost-downloadable-music-players-for-your-iphone-without-internet-connection/"><u>Discover the Ultimate Selection of 7 BEST No-Cost, Downloadable Music Players for Your iPhone Without Internet Connection</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-nokia-105-classic-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Nokia 105 Classic Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-s17t-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo S17t? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/solving-the-issue-why-your-ipad-isnt-syncing-with-icloud-and-how-to-fix-it/"><u>Solving the Issue: Why Your iPad Isn't Syncing with iCloud and How to Fix It</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-gionee-f3-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Gionee F3 Pro Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472770381-trouble-hooking-up-to-vpn-from-your-iphone-here-are-7-solutions/"><u>Trouble Hooking Up to VPN From Your iPhone? Here Are 7 Solutions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-elegant-practicality-of-the-fitbit-charge-4-wearable-review/"><u>Unveiling the Elegant Practicality of the Fitbit Charge 4 Wearable Review</u></a></li>
 </ul></div>
 
