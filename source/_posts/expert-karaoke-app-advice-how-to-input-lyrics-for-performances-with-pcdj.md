@@ -1,7 +1,7 @@
 ---
 title: "Expert Karaoke App Advice: How to Input Lyrics for Performances with PCDJ"
-date: 2025-02-15T17:35:54.222Z
-updated: 2025-02-18T16:31:54.096Z
+date: 2025-03-01T12:48:47.228Z
+updated: 2025-03-07T08:03:20.716Z
 tags:
   - product
 categories:
@@ -18,10 +18,6 @@ PCDJ Karaoki is our [best karaoke software](https://tools.techidaily.com/pcdj/pr
 In this addition of Karaoke Tips we show you two ways you can enter in your singers – one using the singer date screen (where you can also include contact info and comments for a singer), and the other just using the drag-and-drop method to the singer rotation list area. Both methods accomplish the same goal, but if you want to set up singers pre-gig than using the singer date screen is the way to go. We also briefly demonstrate how the automatic singer rotation list works. Jennifer Lopez even makes a cameo! 😉
 
 **Karaoke Software Tip: Entering In Your Singers**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -42,22 +38,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/karaoketips-coverimagejune
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-enhance-audio-visual-sync-with-wmp-subtitle-integration/"><u>[New] 2024 Approved Enhance Audio-Visual Sync with WMP Subtitle Integration</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-using-inbuilt-recorders-for-screen-capture-on-huaweis-mate-and-p-series-devices/"><u>[New] In 2024, Using Inbuilt Recorders for Screen Capture on Huawei's Mate and P Series Devices</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-hilarious-highlights-reddit-and-twitters-best-bits/"><u>[Updated] Hilarious Highlights Reddit and Twitter's Best Bits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028546452-5/"><u>「ループ動画制作テクニック：5つの異なるメソッドで自動再生完成」</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/customizing-your-computers-look-a-step-by-step-guide-through-the-control-panel-tips-by-yl-computing/"><u>Customizing Your Computer's Look: A Step-by-Step Guide Through the Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/enduring-seamlessness-direct-profile-url-insertion-guide-for-2024/"><u>Enduring Seamlessness Direct Profile URL Insertion Guide for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/essential-tips-for-measuring-cpugpu-temperatures-using-yl-software-solutions/"><u>Essential Tips for Measuring CPU/GPU Temperatures Using YL Software Solutions</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/explore-the-stunning-visual-themes-of-glitter-zero-two-by-yl-software-for-your-digital-space/"><u>Explore the Stunning Visual Themes of Glitter Zero Two by YL Software for Your Digital Space</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 11</u></a></li>
-<li><a href="https://facebook.techidaily.com/keeping-conversations-lighthearted-without-crossing-lines/"><u>Keeping Conversations Lighthearted without Crossing Lines</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/monitor-your-bitcoin-cash-address-activity-a-step-by-step-tutorial-by-yl-software/"><u>Monitor Your Bitcoin Cash Address Activity: A Step-by-Step Tutorial by YL Software</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/resolving-graphics-card-issues-steps-to-prevent-your-pc-from-crashing-tips-by-yl-computing/"><u>Resolving Graphics Card Issues: Steps to Prevent Your PC From Crashing - Tips by YL Computing</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/setting-up-your-internet-connection-a-step-by-step-guide-tips-from-yl-computing/"><u>Setting Up Your Internet Connection: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/solving-common-printing-problems-on-your-pc-with-windows-a-step-by-step-guide/"><u>Solving Common Printing Problems on Your PC with Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tailored-strategies-for-free-clock-usage-optimization/"><u>Tailored Strategies for FREE Clock Usage Optimization</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transforma-tu-biblioteca-de-peliculas-como-integrar-archivos-vob-sin-problemas-procedimiento-seguro-y-claro/"><u>Transforma Tu Biblioteca De Películas: Cómo Integrar Archivos VOB Sin Problemas - Procedimiento Seguro Y Claro</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/understanding-the-threat-detection-process-in-windows-defender-insights-from-yl-computings-expertise/"><u>Understanding the Threat Detection Process in Windows Defender - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-path-to-picsart-proficiency/"><u>[New] The Ultimate Path to PicsArt Proficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/christmas-edition-enhance-windows-11/"><u>Christmas Edition: Enhance Windows 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/1716465636075-get-superior-visuals-from-youtube-downloading-thumbnails-free/"><u>Get Superior Visuals From YouTube - Downloading Thumbnails Free!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/google-meet-zoom-tips-maximizing-participant-visibility-for-2024/"><u>Google Meet Zoom Tips Maximizing Participant Visibility for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-through-the-complexities-of-copyright-on-instagrams-music-platform/"><u>In 2024, Navigating Through the Complexities of Copyright on Instagram’s Music Platform</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-skillful-strategies-for-sustaining-design-success/"><u>In 2024, Skillful Strategies for Sustaining Design Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-your-childn-online-experience-with-easy-discord-controls-setup/"><u>Secure Your Child'n Online Experience with Easy Discord Controls Setup</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-instructions-to-enjoy-taylor-swift-offline-learn-how-to-download-her-albums-in-mp3-or-aac-format/"><u>Step-by-Step Instructions to Enjoy Taylor Swift Offline - Learn How to Download Her Albums in MP3 or AAC Format!</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-for-saving-videos-from-keezmovies-as-mp4-avi-or-mov-files/"><u>Step-by-Step Tutorial for Saving Videos From Keezmovies as MP4, AVI or MOV Files</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-tutorial-converting-and-downloading-dumpert-videos-in-mp4-format-for-mac-os-x-and-microsoft-windows-systems/"><u>Step-by-Step Tutorial: Converting and Downloading Dumpert Videos in MP4 Format for Mac OS X & Microsoft Windows Systems</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/streaming-bbc-radio-shows-to-your-ipod-the-ultimate-guide-for-mac-and-pc-users/"><u>Streaming BBC Radio Shows to Your iPod: The Ultimate Guide for Mac & PC Users</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-ranked-keepr-viewer-alternatives-for-macos-and-catalina-free-downloads/"><u>Top-Ranked Keepr Viewer Alternatives for macOS and Catalina: FREE Downloads</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-slides-into-showstoppers-using-chatgpt-top-strategies-revealed/"><u>Transform Your Slides Into Showstoppers Using ChatGPT – Top Strategies Revealed</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/troubleshooting-guide-resolving-issues-with-the-lynda-desktop-application-on-mac-and-windows/"><u>Troubleshooting Guide: Resolving Issues with the Lynda Desktop Application on Mac & Windows</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/udemy-learn-anywhere-ultimate-app-from-allavsoft-supporting-mac-windows-10-vista-users/"><u>Udemy Learn Anywhere: Ultimate App From Allavsoft Supporting Mac, Windows 10-Vista Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/vital-considerations-when-opting-for-renewed-pcs/"><u>Vital Considerations When Opting for Renewed PCs</u></a></li>
 </ul></div>
 

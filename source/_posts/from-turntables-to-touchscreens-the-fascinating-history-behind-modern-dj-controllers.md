@@ -1,7 +1,7 @@
 ---
 title: "From Turntables to Touchscreens: The Fascinating History Behind Modern DJ Controllers"
-date: 2025-02-15T00:37:38.153Z
-updated: 2025-02-19T01:55:25.818Z
+date: 2025-03-01T00:13:41.278Z
+updated: 2025-03-06T20:05:52.426Z
 tags:
   - product
 categories:
@@ -63,10 +63,6 @@ It’s amazing to think it all started with that little 2U 19″ rackmountable c
 
 **Where Did All These DJ Controllers Come From?** 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png 0 0 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2012-09-20 15:32:162015-07-07 15:37:27Where Did All These DJ Controllers Come From?}
@@ -86,22 +82,24 @@ https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png 0 0 Ryan Sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-capturing-the-thrill-hero5-black-against-hero4-silver/"><u>[New] 2024 Approved Capturing the Thrill Hero5 Black Against Hero4 Silver</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-spectral-imagery-phantasmal-camera-analysis/"><u>[New] In 2024, Spectral Imagery Phantasmal Camera Analysis</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-step-by-step-full-ps4-game-recording-in-obs-studio/"><u>[Updated] Step-by-Step Full PS4 Game Recording in OBS Studio</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1-free-open-source-argon-css-framework-based-on-bootstrap-4-by-creative-tim/"><u>1. Free, Open-Source Argon CSS Framework Based on Bootstrap 4 by Creative Tim</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/advanced-creative-tim-and-updivision-pro-dashboard-design-with-soft-ui-for-laravel-applications/"><u>Advanced Creative Tim & UPDIVISION Pro Dashboard Design with Soft UI for Laravel Applications</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/advanced-pro-user-interface-dashboard-using-laravel-livewire-a-joint-venture-by-creative-tim-and-updivision/"><u>Advanced Pro User Interface Dashboard Using Laravel Livewire: A Joint Venture by Creative Tim & UPDIVISION</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/authentic-ford-rs200-desktop-artwork-by-yl-software-get-your-free-wallpapers-here/"><u>Authentic Ford RS200 Desktop Artwork by YL Software: Get Your Free Wallpapers Here!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/choosing-the-perfect-phone-for-your-child-see-our-expert-picks/"><u>Choosing the Perfect Phone for Your Child? See Our Expert Picks !</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/comprehensive-vue-based-material-dashboard-for-laravel-developers-with-json-api-integration-by-creative-tim-professional-edition/"><u>Comprehensive Vue-Based Material Dashboard for Laravel Developers with JSON API Integration by Creative Tim - Professional Edition</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/creative-tims-65-page-collection-of-free-design-assets-and-templates-using-the-argon-design-system/"><u>Creative Tim's 65-Page Collection of Free Design Assets and Templates Using the Argon Design System</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-correctly-adjust-camera-settings-on-whatsapp-for-clear-pictures/"><u>How to Correctly Adjust Camera Settings on WhatsApp for Clear Pictures</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-minimizing-motion-blur-with-obs-adjustments/"><u>In 2024, Minimizing Motion Blur with OBS Adjustments</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/seamless-scanner-driver-updates-using-yl-software-from-yl-computing/"><u>Seamless Scanner Driver Updates Using YL Software From YL Computing</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/solutions-for-a-hot-running-laptop-guidance-from-yl-tech-experts-at-yl-computing-and-yl-software/"><u>Solutions for a Hot-Running Laptop: Guidance From YL Tech Experts at YL Computing & YL Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-top-rated-iphone-compatible-smart-locks-that-blend-in-seamlessly/"><u>Ultimate Guide to Top-Rated iPhone Compatible Smart Locks That Blend In Seamlessly</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-freefb-audio-treasures-collection/"><u>[New] 2024 Approved FreeFB Audio Treasures Collection</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-free-meme-makers-the-ultimate-resource-guide-for-2024/"><u>[Updated] Free Meme Makers – The Ultimate Resource Guide for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-transforming-skype-sessions-with-proactive-zoom-tactics-for-2024/"><u>[Updated] Transforming Skype Sessions with Proactive Zoom Tactics for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-transcribe-speaking-to-writing-free-of-charge/"><u>2024 Approved Transcribe Speaking to Writing Free of Charge</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/and-iphone-8-users/"><u>And iPhone 8 Users</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/automated-actions-understanding-event-driven-timely-operations/"><u>Automated Actions: Understanding Event-Driven Timely Operations</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/beginners-guide-creating-stunning-time-lapse-videos-on-any-device/"><u>Beginner's Guide: Creating Stunning Time-Lapse Videos on Any Device</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/best-paint-to-screen-applications-compatible-with-both-pc-and-mac/"><u>Best Paint-to-Screen Applications Compatible with Both PC & Mac</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/customizable-batch-email-creation-with-massmailer-suite/"><u>Customizable Batch Email Creation with MassMailer Suite</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/discover-the-art-of-effective-web-browsing-navigating-search-pages-with-ease/"><u>Discover the Art of Effective Web Browsing: Navigating Search Pages with Ease</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-spanish-verbal-grammar-for-beginners/"><u>Essential Spanish Verbal Grammar for Beginners</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-14-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 14 Pro without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-realme-11-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Realme 11 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/multilingual-conversion-gateway-pages/"><u>Multilingual Conversion Gateway Pages</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-effortlessly-upload-and-save-your-voicemails-digitally/"><u>Step-by-Step Guide: Effortlessly Upload and Save Your Voicemails Digitally</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/the-ultimate-troubleshooting-for-retrieving-deleted-conversations-following-the-ios-12-upgrade/"><u>The Ultimate Troubleshooting for Retrieving Deleted Conversations Following the iOS 12 Upgrade</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-5-free-android-apps-for-effortless-mobile-video-transcoding/"><u>Top 5 Free Android Apps for Effortless Mobile Video Transcoding</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/understanding-the-imsix-external-dependencies-in-software-development/"><u>Understanding the IMsix External Dependencies in Software Development</u></a></li>
 </ul></div>
 
